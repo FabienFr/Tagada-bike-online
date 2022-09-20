@@ -287,7 +287,7 @@
           <h2 class="xl:text-3xl text-xl text-center text-red-400 mb-4 font-extrabold uppercase">
               contact
           </h2> 
-          <p class="px-3 xl:text-xl text-lg text-center uppercase">Faites briller vos couleurs sur la ligne d’arrivée</p>
+          <p class="px-3 xl:text-xl text-lg text-center uppercase">Décrivez-nous vos besoins et votre étalon rêvé</p>
       </div>
       <div class="mx-auto max-w-lg">
           <form id="form" class="w-full mx-auto bg-yellow-200 p-10 rounded-lg">
