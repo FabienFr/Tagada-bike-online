@@ -4,7 +4,7 @@
         <div class="container h-1/6 md:max-w-8xl mx-auto">
             <nav class="flex flex-wrap items-center justify-center w-full">
                 <div class="hidden sm:block px-6 w-full sm:w-1/2 md:w-1/4">
-                    <h4 class="text-lg font-bold leading-tight text-gray-800 hover:text-pink text-center py-5">
+                    <h4 class="text-lg font-bold tracking-wide leading-tight text-gray-800 hover:text-pink text-center py-5">
                         <a href="#ecurie">
                             ECURIE
                         </a>
@@ -16,7 +16,7 @@
                     </a>
                 </div>
                 <div class="hidden sm:block px-6 w-full sm:w-1/2 md:w-1/4">
-                    <h4 class="text-lg font-bold leading-tight text-gray-800 hover:text-pink text-center py-5">
+                    <h4 class="text-lg font-bold tracking-wide leading-tight text-gray-800 hover:text-pink text-center py-5">
                         <a href="#contact">
                             CONTACT
                         </a>
@@ -24,14 +24,14 @@
                 </div>
                 <div class="flex flex-row mt-5">
                     <div class="sm:hidden px-6 w-1/2">
-                        <h4 class="text-lg font-bold leading-tight hover:text-pink text-gray-800 text-center py-5">
+                        <h4 class="text-lg font-bold tracking-wide leading-tight hover:text-pink text-gray-800 text-center py-5">
                             <a href="#ecurie">
                                 ECURIE
                             </a>
                         </h4>
                     </div>
                     <div class="sm:hidden px-6 w-1/2">
-                        <h4 class="text-lg font-bold leading-tight hover:text-pink text-gray-800 text-center py-5">
+                        <h4 class="text-lg font-bold tracking-wide leading-tight hover:text-pink text-gray-800 text-center py-5">
                             <a href="#contact">
                                 CONTACT
                             </a>
@@ -83,24 +83,24 @@
               <img src="../assets/Point.svg" class="absolute w-1/6 xl:w-2/6 -bottom-36 left-12 h-72" alt="">
           </div>
           <div class="bg-yellow bg-opacity-50">
-              <h2 class="relative py-12 xl:text-3xl text-xl text-center mb-4 font-extrabold uppercase">
+              <h2 class="relative mb-4 py-12 xl:text-3xl text-xl text-center text-gray-800 font-extrabold uppercase subpixel-antialiased">
                   Le tiercé gagnant de vos événements
               </h2>
               <div class="mx-auto flex flex-row flex-wrap px-6 xl:px-60">
                   <div class="relative xl:w-1/3 px-6 pb-6">
                       <h3 class="pb-2 text-2xl lg:text-4xl">Unique :</h3>
                       <div class="h-0.5 w-full bg-pink"></div>
-                      <p class="pt-2">Sobre et élégante, pop et acidulée ou bien fraiche et distinguée, à chaque monture sa personnalité et son design unique, du choix des matières aux finitions. Faites le choix d’un attelage atypique vecteur d’attention et de curiosité.</p>
+                      <p class="pt-2 text-gray-800">Sobre et élégante, pop et acidulée ou bien fraiche et distinguée, à chaque monture sa personnalité et son design unique, du choix des matières aux finitions. Faites le choix d’un attelage atypique vecteur d’attention et de curiosité.</p>
                   </div>
                   <div class="relative xl:w-1/3 px-6 pb-6">
                       <h3 class="pb-2 text-2xl lg:text-4xl">Éco-conçu :</h3>
                       <div class="h-0.5 w-full bg-pink"></div>
-                      <p class="pt-2">Conçus au sein de nos ateliers, les coffres des montures Tagada Bike sont réalisés à partir de panneaux de plastique recyclé tandis que l’emploi de matériaux issus du réemploi ou biosourcés est privilégié pour tous les autres éléments de fabrication.</p>
+                      <p class="pt-2 text-gray-800">Conçus au sein de nos ateliers, les coffres des montures Tagada Bike sont réalisés à partir de panneaux de plastique recyclé tandis que l’emploi de matériaux issus du réemploi ou biosourcés est privilégié pour tous les autres éléments de fabrication.</p>
                   </div>
                   <div class="relative xl:w-1/3 px-6 pb-6">
                       <h3 class="pb-2 text-2xl lg:text-4xl">Customisable :</h3>
                       <div class="h-0.5 w-full bg-pink"></div>
-                      <p class="pt-2">Imaginée pour s’adapter à toutes les courses, chaque monture Tagada Bike est customisable pour répondre au mieux aux besoins de son cavalier. Tablettes, porte toppings, bacs isothermes, batterie… choisissez l’équipement idéal pour arriver en tête de course.</p>
+                      <p class="pt-2 text-gray-800">Imaginée pour s’adapter à toutes les courses, chaque monture Tagada Bike est customisable pour répondre au mieux aux besoins de son cavalier. Tablettes, porte toppings, bacs isothermes, batterie… choisissez l’équipement idéal pour arriver en tête de course.</p>
                   </div>
               </div>
           </div>
@@ -149,7 +149,7 @@
 
   <section class="mt-36">
       <div class="mx-auto mt-12 md:mt-16 xl:mt-36 py-8 bg-blue">
-          <h2 class="xl:text-3xl text-xl text-center text-gray-700 font-extrabold uppercase">
+          <h2 class="xl:text-3xl text-xl text-center text-gray-800 font-extrabold uppercase">
               Caractéristiques et équipements
           </h2>
       </div>
@@ -251,7 +251,7 @@
               <img src="../assets/LosangeJaune.svg" class="absolute -bottom-20 left-2 lg:left-52 h-40 xl:h-72" alt="">
           </div>
           <div>
-              <h4 class="relative text-3xl text-center">Votre imagination est sans limite ?<br>Notre créativité aussi !</h4>
+              <h4 class="relative text-3xl font-bold text-gray-800 text-center">Votre imagination est sans limite ?<br>Notre créativité aussi !</h4>
               <p class="relative pt-8 text-xl text-center uppercase">Notre studio de fabrication est à votre écoute pour donner vie à <br>vos idées et se tient prêt à agrandir l’écurie selon vos besoins.</p>
               <button onclick="location.href='mailto:contact@tagadabike.com?subject=Tagada Bike - Demande de renseignements'" class="relative mx-auto flex items-center justify-center h-8 w-32 mt-8 py-6 bg-pink hover:bg-white text-white hover:text-yellow uppercase">
                   contact
