@@ -65,7 +65,7 @@
           </h2>
       </div>
       <div class="w-full h-fit">
-          <img src="../assets/bandeau-instagram.svg">
+          <img src="../assets/bandeau-Instagram.svg">
       </div>   
       <button class="mx-auto flex items-center justify-center mt-12 px-12 py-5 h-8 w-32 rounded-2xl bg-red-400 hover:bg-yellow-300 text-white hover:text-blue-300">
           <a target="_blank" href="https://www.instagram.com/tagadabike/">
