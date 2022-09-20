@@ -282,7 +282,7 @@
       </div>
   </section>
 
-  <section id="contact" class="mx-auto mt-36 pb-36 bg-gradient-to-b from-white to-blue-300">
+  <section id="contact" class="mx-auto mt-36 pb-36">
       <div class="mx-auto mb-12">
           <h2 class="xl:text-3xl text-xl text-center text-red-400 mb-4 font-extrabold uppercase">
               contact
