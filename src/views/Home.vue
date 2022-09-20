@@ -1,6 +1,6 @@
 <template>
   <header class="relative h-screen pt-12 xl:pt-16 bg-gradient-to-t from-white to-gray-300">
-    <div>
+    <div class="">
         <div class="container h-1/6 md:max-w-8xl mx-auto">
             <nav class="flex flex-wrap items-center justify-center w-full">
                 <div class="hidden sm:block px-6 w-full sm:w-1/2 md:w-1/4">
@@ -52,8 +52,8 @@
             <img class="hidden md:block h-44" src="../assets/tagada-bike-model-one.png">
         </div>
     </div>
-    <img src="../assets/LosangeRose.svg" class="absolute opacity-80 top-96 lg:top-32 -left-2 -lg:left-12 h-20 lg:h-60" alt="">
-    <img src="../assets/LosangeRose.svg" class="absolute opacity-80 top-96 lg:top-32 -right-2 lg:-right-12 h-20 lg:h-60" alt="">
+    <img src="../assets/LosangeRose.svg" class="absolute opacity-80 top-96 lg:top-32 -left-2 lg:left-2 h-20 lg:h-60" alt="">
+    <img src="../assets/LosangeRose.svg" class="absolute opacity-80 top-96 lg:top-32 -right-2 lg:right-2 h-20 lg:h-60" alt="">
     <img src="../assets/LosangeRose.svg" class="absolute opacity-80 bottom-12 right-12 lg:right-44 h-20 lg:h-60" alt="">
     <img src="../assets/LosangeRose.svg" class="absolute opacity-80 bottom-12 left-12 lg:left-44 h-20 lg:h-60" alt="">
   </header>
@@ -67,7 +67,7 @@
       <div class="w-full h-fit">
           <img src="../assets/bandeau-Instagram.svg">
       </div>   
-      <button class="mx-auto flex items-center justify-center mt-12 px-12 py-5 h-8 w-32 rounded-2xl bg-pink hover:bg-yellow text-white hover:text-blue">
+      <button class="mx-auto flex items-center justify-center mt-12 px-20 py-5 h-8 w-32 bg-pink hover:bg-yellow text-white hover:text-blue">
           <a target="_blank" href="https://www.instagram.com/tagadabike/">
               @tagada_bike
           </a>
@@ -201,7 +201,7 @@
               </div>
               <div class="aspect-square flex flex-col order-10 items-center justify-center w-full h-full bg-pink">
                   <span class="text-white text-lg text-center pb-4">Et bien plus encore...</span>
-                  <button class="px-3 pt-2 pb-1 bg-white hover:bg-pink border hover:border-2 hover:border-white rounded-2xl text-pink hover:text-white text-lg uppercase">
+                  <button onclick="location.href='mailto:contact@tagadabike.com?subject=Tagada Bike - Demande de renseignements'" class="px-3 py-3 bg-white hover:bg-pink border hover:border-2 hover:border-white text-pink hover:text-white text-lg uppercase">
                   contact
                   </button>
               </div>
@@ -253,7 +253,7 @@
           <div>
               <h4 class="relative text-3xl text-center">Votre imagination est sans limite ?<br>Notre créativité aussi !</h4>
               <p class="relative pt-8 text-xl text-center uppercase">Notre studio de fabrication est à votre écoute pour donner vie à <br>vos idées et se tient prêt à agrandir l’écurie selon vos besoins.</p>
-              <button class="relative mx-auto flex items-center justify-center h-8 w-32 mt-8 pt-1 rounded-2xl bg-pink hover:bg-white text-white hover:text-yellow uppercase">
+              <button onclick="location.href='mailto:contact@tagadabike.com?subject=Tagada Bike - Demande de renseignements'" class="relative mx-auto flex items-center justify-center h-8 w-32 mt-8 py-6 bg-pink hover:bg-white text-white hover:text-yellow uppercase">
                   contact
               </button>
           </div>
