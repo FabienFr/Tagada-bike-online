@@ -88,19 +88,19 @@
               </h2>
               <div class="mx-auto flex flex-row flex-wrap px-6 xl:px-60">
                   <div class="relative xl:w-1/3 px-6 pb-6">
-                      <h3 class="pb-2 text-2xl lg:text-4xl">Unique :</h3>
+                      <h3 class="pb-2 text-2xl lg:text-3xl">Unique</h3>
                       <div class="h-0.5 w-full bg-pink"></div>
-                      <p class="pt-2 text-gray-800">Sobre et élégante, pop et acidulée ou bien fraiche et distinguée, à chaque monture sa personnalité et son design unique, du choix des matières aux finitions. Faites le choix d’un attelage atypique vecteur d’attention et de curiosité.</p>
+                      <p class="pt-2 text-gray-800 text-justify">Sobre et élégante, pop et acidulée ou bien fraiche et distinguée, à chaque monture sa personnalité et son design unique, du choix des matières aux finitions. Faites le choix d’un attelage atypique vecteur d’attention et de curiosité.</p>
                   </div>
                   <div class="relative xl:w-1/3 px-6 pb-6">
-                      <h3 class="pb-2 text-2xl lg:text-4xl">Éco-conçu :</h3>
+                      <h3 class="pb-2 text-2xl lg:text-3xl">Éco-conçu</h3>
                       <div class="h-0.5 w-full bg-pink"></div>
-                      <p class="pt-2 text-gray-800">Conçus au sein de nos ateliers, les coffres des montures Tagada Bike sont réalisés à partir de panneaux de plastique recyclé tandis que l’emploi de matériaux issus du réemploi ou biosourcés est privilégié pour tous les autres éléments de fabrication.</p>
+                      <p class="pt-2 text-gray-800 text-justify">Conçus au sein de nos ateliers, les coffres des montures Tagada Bike sont réalisés à partir de panneaux de plastique recyclé tandis que l’emploi de matériaux issus du réemploi ou biosourcés est privilégié pour tous les autres éléments de fabrication.</p>
                   </div>
                   <div class="relative xl:w-1/3 px-6 pb-6">
-                      <h3 class="pb-2 text-2xl lg:text-4xl">Customisable :</h3>
+                      <h3 class="pb-2 text-2xl lg:text-3xl break-normal">Customisable</h3>
                       <div class="h-0.5 w-full bg-pink"></div>
-                      <p class="pt-2 text-gray-800">Imaginée pour s’adapter à toutes les courses, chaque monture Tagada Bike est customisable pour répondre au mieux aux besoins de son cavalier. Tablettes, porte toppings, bacs isothermes, batterie… choisissez l’équipement idéal pour arriver en tête de course.</p>
+                      <p class="pt-2 text-gray-800 text-justify">Imaginée pour s’adapter à toutes les courses, chaque monture Tagada Bike est customisable pour répondre au mieux aux besoins de son cavalier. Tablettes, porte toppings, bacs isothermes, batterie… choisissez l’équipement idéal pour arriver en tête de course.</p>
                   </div>
               </div>
           </div>
@@ -114,11 +114,11 @@
           </h2>
           <p class="xl:text-xl text-lg text-center mb-12 uppercase">3 robes uniques, des combinaisons multiples</p>
       </div>
-      <div class="container relative mx-auto grid grid-cols-1 md:grid-cols-2 px-12 sm:px-0">
+      <div class="container relative mx-auto grid grid-cols-1 md:grid-cols-2 px-12 sm:px-32">
           <div class="flex flex-col items-center justify-center lg:mx-8">
               <!-- <h4 class="text-5xl lg:text-7xl pb-4 lg:pb-12">LUCKY</h4> -->
               <img src="../assets/Lucky.png" alt="" class="h-12 lg:h-20 mb-6">
-              <p class="text-md lg:text-xl mx-3 pb-6">Tendre et malicieux, avec sa robe acidulée et son allure printanière, Lucky saura user de son charme pour toutes vos opérations séduction.</p>
+              <p class="text-md lg:text-xl text-justify mx-3 pb-6">Tendre et malicieux, avec sa robe acidulée et son allure printanière, Lucky saura user de son charme pour toutes vos opérations séduction.</p>
           </div>
           <div>
               <img src="../assets/bg-products/1.jpg" class="w-42 pb-20 md:pb-0">
@@ -129,7 +129,7 @@
           <div class="flex flex-col items-center justify-center lg:mx-8">
               <!-- <h4 class="text-5xl lg:text-7xl pb-4 lg:pb-12">RUBY</h4> -->
               <img src="../assets/Ruby.svg" alt="" class="h-10 lg:h-16 mb-6">
-              <p class="text-md lg:text-xl mx-3 pb-6">Précieux et élégant. Avec ses effets marbrés et supports cuivrés, le charme de Ruby ne passe pas inaperçu lorsqu’il s’agit d’épater la galerie.</p>
+              <p class="text-md lg:text-xl text-justify mx-3 pb-6">Précieux et élégant. Avec ses effets marbrés et supports cuivrés, le charme de Ruby ne passe pas inaperçu lorsqu’il s’agit d’épater la galerie.</p>
           </div>
           <div class="md:hidden">
               <img src="../assets/bg-products/3.jpg" class="w-42 pb-20">
@@ -137,7 +137,7 @@
           <div class="flex flex-col items-center justify-center lg:mx-8">
               <!-- <h4 class="text-5xl lg:text-7xl pb-4 lg:pb-12">TORNADO</h4> -->
               <img src="../assets/Tornado.svg" alt="" class="h-12 lg:h-20 mb-6">
-              <p class="text-md lg:text-xl mx-3 pb-6">Intrépide et élancé, des lignes droites, un design épuré sur une robe monochrome. Derrière son apparente sobriété se cache un atout de choix pour se distinguer</p>
+              <p class="text-md lg:text-xl text-justify mx-3 pb-6">Intrépide et élancé, des lignes droites, un design épuré sur une robe monochrome. Derrière son apparente sobriété se cache un atout de choix pour se distinguer</p>
           </div>
           <div>
               <img src="../assets/bg-products/5.jpg" class="w-42">
