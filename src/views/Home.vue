@@ -4,7 +4,7 @@
         <div class="container h-1/6 md:max-w-8xl mx-auto">
             <nav class="flex flex-wrap items-center justify-center w-full">
                 <div class="hidden sm:block px-6 w-full sm:w-1/2 md:w-1/4">
-                    <h4 class="text-lg font-bold leading-tight text-gray-800 hover:text-red-400 text-center py-5">
+                    <h4 class="text-lg font-bold leading-tight text-gray-800 hover:text-pink text-center py-5">
                         <a href="#ecurie">
                             ECURIE
                         </a>
@@ -16,7 +16,7 @@
                     </a>
                 </div>
                 <div class="hidden sm:block px-6 w-full sm:w-1/2 md:w-1/4">
-                    <h4 class="text-lg font-bold leading-tight text-gray-800 hover:text-red-400 text-center py-5">
+                    <h4 class="text-lg font-bold leading-tight text-gray-800 hover:text-pink text-center py-5">
                         <a href="#contact">
                             CONTACT
                         </a>
@@ -24,14 +24,14 @@
                 </div>
                 <div class="flex flex-row mt-5">
                     <div class="sm:hidden px-6 w-1/2">
-                        <h4 class="text-lg font-bold leading-tight hover:text-red-400 text-gray-800 text-center py-5">
+                        <h4 class="text-lg font-bold leading-tight hover:text-pink text-gray-800 text-center py-5">
                             <a href="#ecurie">
                                 ECURIE
                             </a>
                         </h4>
                     </div>
                     <div class="sm:hidden px-6 w-1/2">
-                        <h4 class="text-lg font-bold leading-tight hover:text-red-400 text-gray-800 text-center py-5">
+                        <h4 class="text-lg font-bold leading-tight hover:text-pink text-gray-800 text-center py-5">
                             <a href="#contact">
                                 CONTACT
                             </a>
@@ -41,7 +41,7 @@
             </nav>
         </div> 
         <div class="mx-auto h-1/6 pt-8 md:pt-12 lg:pt-20 ">
-            <h1 class="text-xl xl:text-3xl text-center text-red-400 font-extrabold uppercase">
+            <h1 class="text-xl xl:text-3xl text-center text-pink font-extrabold uppercase">
                 montures de caractère<br/>
                 pour créateurs d&apos;expériences
             </h1>
@@ -60,14 +60,14 @@
 
   <section>
       <div class="mx-auto pt-12 md:pt-16 xl:pt-36">
-          <h2 class="xl:text-3xl text-xl text-center text-red-400 mb-4 font-extrabold uppercase">
+          <h2 class="xl:text-3xl text-xl text-center text-pink mb-4 font-extrabold uppercase">
               éco-triporteur à toute allure
           </h2>
       </div>
       <div class="w-full h-fit">
           <img src="../assets/bandeau-Instagram.svg">
       </div>   
-      <button class="mx-auto flex items-center justify-center mt-12 px-12 py-5 h-8 w-32 rounded-2xl bg-red-400 hover:bg-yellow-300 text-white hover:text-blue-300">
+      <button class="mx-auto flex items-center justify-center mt-12 px-12 py-5 h-8 w-32 rounded-2xl bg-pink hover:bg-yellow text-white hover:text-blue">
           <a target="_blank" href="https://www.instagram.com/tagadabike/">
               @tagada_bike
           </a>
@@ -82,24 +82,24 @@
               <img src="../assets/Point.svg" class="absolute w-1/6 xl:w-2/6 -bottom-36 right-12 h-72" alt="">
               <img src="../assets/Point.svg" class="absolute w-1/6 xl:w-2/6 -bottom-36 left-12 h-72" alt="">
           </div>
-          <div class="bg-yellow-300 bg-opacity-50">
+          <div class="bg-yellow bg-opacity-50">
               <h2 class="relative py-12 xl:text-3xl text-xl text-center mb-4 font-extrabold uppercase">
                   Le tiercé gagnant de vos événements
               </h2>
               <div class="mx-auto flex flex-row flex-wrap px-6 xl:px-60">
                   <div class="relative xl:w-1/3 px-6 pb-6">
                       <h3 class="pb-2 text-2xl lg:text-4xl">Unique :</h3>
-                      <div class="h-0.5 w-full bg-red-400"></div>
+                      <div class="h-0.5 w-full bg-pink"></div>
                       <p class="pt-2">Sobre et élégante, pop et acidulée ou bien fraiche et distinguée, à chaque monture sa personnalité et son design unique, du choix des matières aux finitions. Faites le choix d’un attelage atypique vecteur d’attention et de curiosité.</p>
                   </div>
                   <div class="relative xl:w-1/3 px-6 pb-6">
                       <h3 class="pb-2 text-2xl lg:text-4xl">Éco-conçu :</h3>
-                      <div class="h-0.5 w-full bg-red-400"></div>
+                      <div class="h-0.5 w-full bg-pink"></div>
                       <p class="pt-2">Conçus au sein de nos ateliers, les coffres des montures Tagada Bike sont réalisés à partir de panneaux de plastique recyclé tandis que l’emploi de matériaux issus du réemploi ou biosourcés est privilégié pour tous les autres éléments de fabrication.</p>
                   </div>
                   <div class="relative xl:w-1/3 px-6 pb-6">
                       <h3 class="pb-2 text-2xl lg:text-4xl">Customisable :</h3>
-                      <div class="h-0.5 w-full bg-red-400"></div>
+                      <div class="h-0.5 w-full bg-pink"></div>
                       <p class="pt-2">Imaginée pour s’adapter à toutes les courses, chaque monture Tagada Bike est customisable pour répondre au mieux aux besoins de son cavalier. Tablettes, porte toppings, bacs isothermes, batterie… choisissez l’équipement idéal pour arriver en tête de course.</p>
                   </div>
               </div>
@@ -109,7 +109,7 @@
 
   <section id="ecurie" class="overflow-hidden mt-36 pt-6 bg-gradient-to-b from-white via-gray-200 to-white">
       <div class="mx-auto">
-          <h2 class="xl:text-3xl text-xl text-center text-red-400 mb-4 font-extrabold uppercase">
+          <h2 class="xl:text-3xl text-xl text-center text-pink mb-4 font-extrabold uppercase">
               l&apos;écurie
           </h2>
           <p class="xl:text-xl text-lg text-center mb-12 uppercase">3 robes uniques, des combinaisons multiples</p>
@@ -148,7 +148,7 @@
   </section>
 
   <section class="mt-36">
-      <div class="mx-auto mt-12 md:mt-16 xl:mt-36 py-8 bg-blue-300">
+      <div class="mx-auto mt-12 md:mt-16 xl:mt-36 py-8 bg-blue">
           <h2 class="xl:text-3xl text-xl text-center text-gray-700 font-extrabold uppercase">
               Caractéristiques et équipements
           </h2>
@@ -156,37 +156,37 @@
       <div class="container mx-auto">
           <div class="grid mx-auto grid-cols-2 md:grid-cols-5">
               <div class="aspect-square flex flex-col order-1 items-center justify-center w-full h-full">
-                  <span class="text-red-400 text-6xl lg:text-8xl font-extrabold">2</span>
-                  <span class="text-blue-300 text-lg text-center">Portes d'ouvertures latérales</span>
+                  <span class="text-pink text-6xl lg:text-8xl font-extrabold">2</span>
+                  <span class="text-blue text-lg text-center">Portes d'ouvertures latérales</span>
               </div>
-              <div class="aspect-square flex flex-col order-2 items-center justify-center w-full h-full aspect-square bg-red-400">
+              <div class="aspect-square flex flex-col order-2 items-center justify-center w-full h-full bg-pink">
                   <span class="text-white text-3xl lg:text-4xl font-bold pt-3 pr-12">Coffre</span>
-                  <span class="text-blue-300 text-7xl lg:text-9xl font-extrabold">XL</span>
+                  <span class="text-blue text-7xl lg:text-9xl font-extrabold">XL</span>
                   <span class="pb-3 text-white text-5xl lg:text-6xl font-bold pl-8">500L</span>
               </div>
               <div class="aspect-square flex flex-col order-4 md:order-3 items-center justify-center w-full h-full">
-                  <span class="text-red-400 text-5xl lg:text-6xl">100kg</span>
-                  <span class="text-blue-300 text2xl lg:text-3xl text-center pt-2">de charge utile</span>
+                  <span class="text-pink text-5xl lg:text-6xl">100kg</span>
+                  <span class="text-blue text2xl lg:text-3xl text-center pt-2">de charge utile</span>
               </div>
-              <div class="aspect-square flex flex-col order-3 md:order-4 items-center justify-center w-full h-full bg-red-400">
+              <div class="aspect-square flex flex-col order-3 md:order-4 items-center justify-center w-full h-full bg-pink">
                   <span class="text-white text-2xl lg:text-4xl">Assistance<br />électrique</span>
                   <span class="text-sm lg:text-md">(sur demande)</span>
               </div>
               <div class="aspect-square flex flex-col order-5 items-center justify-center w-full h-full">
-                  <span class="text-red-400 text-6xl lg:text-8xl font-extrabold">2</span>
-                  <span class="text-blue-300 text-lg">tablettes</span>
-                  <span class="text-blue-300 text-lg">avant ou arrière</span>
+                  <span class="text-pink text-6xl lg:text-8xl font-extrabold">2</span>
+                  <span class="text-blue text-lg">tablettes</span>
+                  <span class="text-blue text-lg">avant ou arrière</span>
               </div>
-              <div class="aspect-square flex flex-col order-6 items-center justify-center w-full h-full bg-red-400">
+              <div class="aspect-square flex flex-col order-6 items-center justify-center w-full h-full bg-pink">
                   <span class="text-white text-6xl lg:text-8xl font-extrabold">2</span>
                   <span class="text-white text-lg text-center">Trappes d'accès supérieur</span>
               </div>
               <div class="aspect-square flex flex-col order-8 md:order-7 items-center justify-center w-full h-full">
-                  <span class="text-red-400 text-2xl lg:text-3xl text-center pt-2">Bacs <br />Isothermes</span>
-                  <span class="text-blue-300 text-6xl lg:text-8xl font-extrabold">8L</span>
+                  <span class="text-pink text-2xl lg:text-3xl text-center pt-2">Bacs <br />Isothermes</span>
+                  <span class="text-blue text-6xl lg:text-8xl font-extrabold">8L</span>
                   <span class="pb-2">(sur demande)</span>
               </div>
-              <div class="aspect-square flex flex-col order-7 lg:order-8 items-center justify-center w-full h-full bg-red-400">
+              <div class="aspect-square flex flex-col order-7 lg:order-8 items-center justify-center w-full h-full bg-pink">
                   <span class="text-white text-lg">Batterie</span>
                   <span class="text-white text-3xl lg:text-4xl font-extrabold">12V 40ah</span>
                   <span class="text-white text-md lg:text-lg">avec adaptateur</span>
@@ -194,14 +194,14 @@
                   <span class="text-white text-md">(sur demande)</span>
               </div>
               <div class="aspect-square flex flex-col order-9 items-center justify-center w-full h-full">
-                  <span class="text-red-400 text-lg">Jusqu'à</span>
-                  <span class="text-blue-300 text-6xl lg:text-8xl font-extrabold">6</span>
-                  <span class="text-red-400 text-md lg:text-lg">Bacs à</span>
-                  <span class="text-red-400 text-md lg:text-lg">Toppings</span>
+                  <span class="text-pink text-lg">Jusqu'à</span>
+                  <span class="text-blue text-6xl lg:text-8xl font-extrabold">6</span>
+                  <span class="text-pink text-md lg:text-lg">Bacs à</span>
+                  <span class="text-pink text-md lg:text-lg">Toppings</span>
               </div>
-              <div class="aspect-square flex flex-col order-10 items-center justify-center w-full h-full bg-red-400">
+              <div class="aspect-square flex flex-col order-10 items-center justify-center w-full h-full bg-pink">
                   <span class="text-white text-lg text-center pb-4">Et bien plus encore...</span>
-                  <button class="px-3 pt-2 pb-1 bg-white hover:bg-red-400 border hover:border-2 hover:border-white rounded-2xl text-red-400 hover:text-white text-lg uppercase">
+                  <button class="px-3 pt-2 pb-1 bg-white hover:bg-pink border hover:border-2 hover:border-white rounded-2xl text-pink hover:text-white text-lg uppercase">
                   contact
                   </button>
               </div>
@@ -215,7 +215,7 @@
           <img src="../assets/BandeDePoints.svg" class="absolute top-0 -right-16 h-full" alt="">
       </div>
       <div class="mx-auto mb-12">
-          <h2 class="xl:text-3xl text-xl text-center text-red-400 mb-4 font-extrabold uppercase">
+          <h2 class="xl:text-3xl text-xl text-center text-pink mb-4 font-extrabold uppercase">
               nos étalons
           </h2> 
           <p class="xl:text-xl text-lg text-center uppercase px-4">Des montures d’exception pour sortir le grand jeu</p>
@@ -242,7 +242,7 @@
       </div>
   </section>
 
-  <section class="relative flex flex-col bg-blue-300 mx-auto w-full overflow-hidden items-center justify-center h-fit mt-36 px-3 py-24">
+  <section class="relative flex flex-col bg-blue mx-auto w-full overflow-hidden items-center justify-center h-fit mt-36 px-3 py-24">
       <div class="container mx-auto h-fit">
           <div class="flex w-full h-full">
               <img src="../assets/LosangeJaune.svg" class="absolute -top-12 -left-10 h-40 xl:h-72" alt="">
@@ -253,77 +253,36 @@
           <div>
               <h4 class="relative text-3xl text-center">Votre imagination est sans limite ?<br>Notre créativité aussi !</h4>
               <p class="relative pt-8 text-xl text-center uppercase">Notre studio de fabrication est à votre écoute pour donner vie à <br>vos idées et se tient prêt à agrandir l’écurie selon vos besoins.</p>
-              <button class="relative mx-auto flex items-center justify-center h-8 w-32 mt-8 pt-1 rounded-2xl bg-red-400 hover:bg-white text-white hover:text-yellow-300 uppercase">
+              <button class="relative mx-auto flex items-center justify-center h-8 w-32 mt-8 pt-1 rounded-2xl bg-pink hover:bg-white text-white hover:text-yellow uppercase">
                   contact
               </button>
           </div>
       </div>
   </section>
 
-  <section class="">
+  <section class="mb-20 ">
       <div class="mx-auto pt-32 mb-12">
-          <h2 class="xl:text-3xl text-xl text-center text-red-400 mb-4 font-extrabold uppercase">
+          <h2 class="xl:text-3xl text-xl text-center text-pink mb-4 font-extrabold uppercase">
               votre casaque
           </h2> 
           <p class="px-3 xl:text-xl text-lg text-center uppercase">Faites briller vos couleurs sur la ligne d’arrivée</p>
       </div>
 
       <div class="container grid grid-cols-1 md:grid-cols-3 justify-items-center justify-around mx-auto">
-          <div class="flex flex-col items-center justify-center h-60 w-60 lg:h-72 lg:w-72 rounded-full bg-blue-300 mb-12">
-              <span class="text-8xl lg:text-9xl text-yellow-200 font-extrabold">2</span>
+          <div class="flex flex-col items-center justify-center h-60 w-60 lg:h-72 lg:w-72 rounded-full bg-blue mb-12">
+              <span class="text-8xl lg:text-9xl text-yellow font-extrabold">2</span>
               <span class="text-md lg:text-xl text-center uppercase">enseignes<br>pour votre logo</span>
           </div>
           <img src="../assets/tagada-bike-model-three.png" alt="" class="h-72 mb-12">
-          <div class="relative flex flex-col items-center justify-center h-60 w-60 lg:h-72 lg:w-72 rounded-full bg-blue-300">
-              <span class="text-8xl lg:text-9xl text-yellow-200 font-extrabold">2</span>
-              <span class="absolute text-2xl text-yellow-200 top-16 right-16">M&#xB2;</span>
+          <div class="relative flex flex-col items-center justify-center h-60 w-60 lg:h-72 lg:w-72 rounded-full bg-blue">
+              <span class="text-8xl lg:text-9xl text-yellow font-extrabold">2</span>
+              <span class="absolute text-2xl text-yellow top-16 right-16">M&#xB2;</span>
               <span class="text-md lg:text-xl text-center uppercase">de surface <br>à personnaliser</span>
           </div>
       </div>
   </section>
 
-  <section id="contact" class="mx-auto mt-36 pb-36">
-      <div class="mx-auto mb-12">
-          <h2 class="xl:text-3xl text-xl text-center text-red-400 mb-4 font-extrabold uppercase">
-              contact
-          </h2> 
-          <p class="px-3 xl:text-xl text-lg text-center uppercase">Décrivez-nous vos besoins et votre étalon rêvé</p>
-      </div>
-      <div class="mx-auto max-w-lg">
-          <form id="form" class="w-full mx-auto bg-yellow-200 p-10 rounded-lg">
-              <div class="flex flex-wrap -mx-3 mb-6">
-                  <div class="w-full md:w-1/2 px-3 mb-6 md:mb-0">
-                      <label class="block uppercase tracking-wide text-gray-700 text-xs font-bold mb-2">
-                          Nom complet
-                      </label>
-                      <input required aria-required="true" type="text" id="name" name="name" class="appearance-none block w-full bg-gray-200 text-gray-700 rounded-md py-3 px-4 mb-3 leading-tight focus:outline-none focus:bg-white" placeholder="Nom complet">
-                      </div>
-                      <div class="w-full md:w-1/2 px-3">
-                      <label class="block uppercase tracking-wide text-gray-700 text-xs font-bold mb-2">
-                          Numéro de tel.
-                      </label>
-                      <input required aria-required type="tel" id="phone"  name ="phone" class="appearance-none block w-full bg-gray-200 text-gray-700 rounded-md py-3 px-4 leading-tight focus:outline-none focus:bg-white" placeholder="06...">
-                  </div>
-              </div>
-              <div class="flex flex-wrap -mx-3 mb-6">
-                  <div class="w-full px-3">
-                  <label class="block uppercase tracking-wide text-gray-700 text-xs font-bold mb-2">
-                      Adresse Email
-                  </label>
-                  <input required aria-required="true" type="mail" id="mail" class="appearance-none block w-full bg-gray-200 text-gray-700 rounded-md py-3 px-4 mb-3 leading-tight focus:outline-none focus:bg-white" placeholder="@">
-                  <p class="text-gray-600 text-xs italic">Nous vous contacterons rapidement !</p>
-                  </div>
-              </div>
-              <div class="container mx-auto w-11/12 xl:w-full">
-                  <div class="w-full py-4 sm:px-0 flex justify-end">
-                      <button type="submit" id="submit" role="button" class="bg-white hover:bg-red-400 focus:ring-2 focus:ring-offset-2 focus:ring-red-400 focus:outline-none transition duration-150 ease-in-out rounded-md text-red-400 hover:text-white px-8 py-2 text-sm">Envoyer</button>
-                  </div>
-              </div>
-          </form>
-      </div>
-  </section>
-
-  <footer class="flex flex-col mx-auto w-full items-center justify-center bg-blue-300 h-fit py-24">
+  <footer class="flex flex-col mx-auto w-full items-center justify-center bg-blue h-fit py-24">
       <a href="https://juicycreation.fr/#qode-home-v2">
           <img src="../assets/juicy_logo_noir-compressor.png" class="h-12" alt="">
       </a>
