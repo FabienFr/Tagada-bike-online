@@ -93,22 +93,22 @@
   <section>
     <div class="mx-auto pt-12 md:pt-16 xl:pt-36">
       <h2
-        class="xl:text-3xl text-xl text-center text-pink mb-4 font-extrabold uppercase"
+        class="xl:text-3xl text-xl text-center text-pink font-extrabold uppercase"
       >
         éco-triporteur à toute allure
       </h2>
-    </div>
-    <div class="w-full h-fit">
-      <img src="../assets/bandeau-Instagram.svg" />
-    </div>
-    <div class="mx-auto flex items-center justify-center px-20 py-5">
-      <a target="_blank" href="https://www.instagram.com/tagadabike/">
-        <img
-          class="h-14 transition hover:duration-500 ease-in-out hover:scale-125"
-          src="../assets/Instagram-Tagadabike.svg"
-          alt=""
-        />
-      </a>
+      <div class="mx-auto flex items-center justify-center px-20 py-5">
+        <a target="_blank" href="https://www.instagram.com/tagadabike/">
+          <img
+            class="h-14 transition hover:duration-500 ease-in-out hover:scale-125"
+            src="../assets/Instagram-Tagadabike.svg"
+            alt=""
+          />
+        </a>
+      </div>
+      <div class="w-full h-fit">
+        <img src="../assets/bandeau-Instagram.svg" />
+      </div>
     </div>
   </section>
 
