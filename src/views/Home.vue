@@ -106,7 +106,7 @@
           />
         </a>
       </div>
-      <div class="w-full h-fit">
+      <div class="flex mx-auto items-center justify-center w-full h-fit">
         <a href="https://www.instagram.com/tagadabike/?hl=fr" target="_blank">
           <img src="../assets/bandeau-Instagram-new.png" />
         </a>
