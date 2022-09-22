@@ -395,8 +395,8 @@
       class="container mx-auto h-full bg-gradient-to-t from-white via-gray-200 to-white mb-12"
     >
       <div class="flex flex-col lg:flex-row px-16">
-        <div class="lg:order-2">
-          <img src="../assets/tagada-bike-model-one.png" />
+        <div class="lg:order-2 p-20">
+          <img class="rounded-3xl opacity-90" src="../assets/Rocket.png" />
         </div>
         <div class="lg:order-1 flex flex-col items-center justify-center">
           <img src="../assets/Rocket.svg" alt="" class="h-24 mb-6" />
@@ -407,8 +407,8 @@
         </div>
       </div>
       <div class="flex flex-col lg:flex-row px-16">
-        <div>
-          <img src="../assets/tagada-bike-model-two.png" />
+        <div class="p-20">
+          <img class="rounded-3xl opacity-90" src="../assets/Ringo.png" />
         </div>
         <div class="flex flex-col items-center justify-center">
           <img src="../assets/Ringo.svg" class="h-24 mb-6" />
