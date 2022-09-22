@@ -269,16 +269,11 @@
             </div>
         <p class="xl:text-xl text-lg text-center text-pink font-bold uppercase px-4">Nous concevons des oeuvres uniques et sur mesure (souvent XXL)</p>
     </div>
-    <div class="flex flex-col lg:flex-row container items-center justify-center mx-auto">
+    <div class="flex flex-col lg:flex-row items-center justify-center">
         <div class="w-full lg:w-1/2 px-6">
             <p>Notre mission ? Valoriser les marques ou les projets ambicieux, en leur fournissant les plus beaux des écrins. 
             <br/><br/>L’aventure Tagada Bike a germé au sein du studio de Juicy Creation. Avec ce nouveau projet, nous voulions nous réinventer et nous challenger en apportant une solution plus mobile pour aller à la rencontre de votre public, quel qu’il soit, où qu'il soit.<br/><br/> Conscients et sensibles aux enjeux environnementaux, nous concevons des solutions les plus neutres possibles : nos triporteurs sont éco conçus, avec plus de 80% de matériaux recyclés. Nous utilisons une impression verte pour traiter vos choix de personnalisation. 
             </p>
-        </div>
-        <div class="px-2 w-full lg:w-1/2 pt-8 lg:pt-0">
-            <a href="https://www.instagram.com/juicy_creation/?hl=fr" target="_blank">
-                <img class="h-full lg:h-60" src="../assets/Presta-Jamel-Comedy-Club.png" alt="">
-            </a>
         </div>
     </div>
   </section>
