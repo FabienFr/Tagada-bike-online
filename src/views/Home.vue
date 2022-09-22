@@ -1,5 +1,5 @@
 <template>
-  <header class="relative h-fit pt-12 xl:pt-16 bg-gradient-to-t from-white to-gray-300">
+  <header class="relative w-full h-fit pt-12 xl:pt-16 bg-gradient-to-t from-white to-gray-300">
     <div class="">
         <div class="container h-1/6 md:max-w-8xl mx-auto">
             <nav class="flex flex-wrap items-center justify-center w-full">
