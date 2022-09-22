@@ -400,7 +400,7 @@
         </div>
         <div class="lg:order-1 flex flex-col items-center justify-center">
           <img src="../assets/Rocket.svg" alt="" class="h-24 mb-6" />
-          <p class="pb-20 md:p-6">
+          <p class="px-6 pb-20 md:p-6">
             Lumières et sound-system intégré, avec Rocket c’est toute la
             cavalerie qui débarque en fanfare.
           </p>
@@ -412,7 +412,7 @@
         </div>
         <div class="flex flex-col items-center justify-center">
           <img src="../assets/Ringo.svg" class="h-24 mb-6" />
-          <p class="pb-20 md:p-6">
+          <p class="px-6 pb-20 md:p-6">
             Amis des festivals ou des opérations de street cleaning, Ringo est
             le compagnon de ceux qui s’engagent.
           </p>
