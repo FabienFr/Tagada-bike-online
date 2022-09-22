@@ -107,7 +107,9 @@
         </a>
       </div>
       <div class="w-full h-fit">
-        <img src="../assets/bandeau-Instagram.svg" />
+        <a href="https://www.instagram.com/tagadabike/?hl=fr" target="_blank">
+          <img src="../assets/bandeau-Instagram-new.png" />
+        </a>
       </div>
     </div>
   </section>
