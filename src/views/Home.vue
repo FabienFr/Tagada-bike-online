@@ -74,19 +74,19 @@
       </button>
   </section>
 
-  <section id="pois" class="relative container mx-auto overflow-hidden mt-36">
-      <div class="container mx-auto h-fit">
+  <section class="relative w-full mx-auto bg-yellow overflow-hidden mt-36">
+      <div class="mx-auto h-fit">
           <div class="flex w-full h-full">
-              <img src="../assets/Point.svg" class="absolute w-1/6 xl:w-2/6 -top-36 right-12 h-72" alt="">
-              <img src="../assets/Point.svg" class="absolute w-1/6 xl:w-2/6 -top-36 left-12 h-72" alt="">
-              <img src="../assets/Point.svg" class="absolute w-1/6 xl:w-2/6 -bottom-36 right-12 h-72" alt="">
-              <img src="../assets/Point.svg" class="absolute w-1/6 xl:w-2/6 -bottom-36 left-12 h-72" alt="">
+              <img src="../assets/Point.svg" class="absolute w-1/6 xl:w-2/6 -top-36 -right-32 h-72" alt="">
+              <img src="../assets/Point.svg" class="absolute w-1/6 xl:w-2/6 -top-36 -left-32 h-72" alt="">
+              <img src="../assets/Point.svg" class="absolute w-1/6 xl:w-2/6 -bottom-36 right-32 h-72" alt="">
+              <img src="../assets/Point.svg" class="absolute w-1/6 xl:w-2/6 -bottom-36 left-32 h-72" alt="">
           </div>
-          <div class="bg-yellow bg-opacity-50">
+          <div class="">
               <h2 class="relative mb-4 py-12 xl:text-3xl text-xl text-center text-gray-800 font-extrabold uppercase subpixel-antialiased">
                   Le tiercé gagnant de vos événements
               </h2>
-              <div class="mx-auto flex flex-row flex-wrap px-6 xl:px-60">
+              <div class="container mx-auto flex flex-row flex-wrap px-6 xl:px-60">
                   <div class="relative xl:w-1/3 px-6 pb-6">
                       <h3 class="pb-2 text-2xl lg:text-3xl">Unique</h3>
                       <div class="h-0.5 w-full bg-pink"></div>
@@ -247,8 +247,8 @@
           <div class="flex w-full h-full">
               <img src="../assets/LosangeJaune.svg" class="absolute -top-12 -left-10 h-40 xl:h-72" alt="">
               <img src="../assets/LosangeJaune.svg" class="absolute -top-12 -right-10 h-40 xl:h-72" alt="">
-              <img src="../assets/LosangeJaune.svg" class="absolute -bottom-20 right-2 lg:right-52 h-40 xl:h-72" alt="">
-              <img src="../assets/LosangeJaune.svg" class="absolute -bottom-20 left-2 lg:left-52 h-40 xl:h-72" alt="">
+              <img src="../assets/LosangeJaune.svg" class="absolute -bottom-20 right-2 lg:right-60 h-40 xl:h-72" alt="">
+              <img src="../assets/LosangeJaune.svg" class="absolute -bottom-20 left-2 lg:left-60 h-40 xl:h-72" alt="">
           </div>
           <div>
               <h4 class="relative text-3xl font-bold text-gray-800 text-center">Votre imagination est sans limite ?<br>Notre créativité aussi !</h4>
