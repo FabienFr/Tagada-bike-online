@@ -98,7 +98,11 @@
         éco-triporteur à toute allure
       </h2>
       <div class="mx-auto flex items-center justify-center px-20 py-5">
-        <a target="_blank" href="https://www.instagram.com/tagadabike/">
+        <a
+          class="pb-2"
+          target="_blank"
+          href="https://www.instagram.com/tagadabike/"
+        >
           <img
             class="h-14 transition hover:duration-500 ease-in-out hover:scale-125"
             src="../assets/Instagram-Tagadabike.svg"
