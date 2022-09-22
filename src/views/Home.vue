@@ -88,14 +88,14 @@
               </h2>
               <div class="container mx-auto flex flex-row flex-wrap px-6 xl:px-60">
                   <div class="relative xl:w-1/3 px-6 pb-6">
-                      <h3 class="pb-2 text-2xl lg:text-3xl">Unique</h3>
+                      <h3 class="pb-2 text-2xl lg:text-3xl">Tape à l’oeil</h3>
                       <div class="h-0.5 w-full bg-pink"></div>
-                      <p class="pt-2 text-gray-800 text-justify">Sobre et élégante, pop et acidulée ou bien fraiche et distinguée, à chaque monture sa personnalité et son design unique, du choix des matières aux finitions. Faites le choix d’un attelage atypique vecteur d’attention et de curiosité.</p>
+                      <p class="pt-2 text-gray-800 text-justify">Sobre et élégante, pop et acidulée ou bien fraiche et distinguée, votre monture ne passera jamais inaperçue. Agile, rapidement déployable, que d’atouts réunis pour vos lancements de produits, action street marketing, activation de marque, festival, etc.  Faites le choix d’un attelage atypique vecteur d’attention et de curiosité.</p>
                   </div>
                   <div class="relative xl:w-1/3 px-6 pb-6">
                       <h3 class="pb-2 text-2xl lg:text-3xl">Éco-conçu</h3>
                       <div class="h-0.5 w-full bg-pink"></div>
-                      <p class="pt-2 text-gray-800 text-justify">Conçus au sein de nos ateliers, les coffres des montures Tagada Bike sont réalisés à partir de panneaux de plastique recyclé tandis que l’emploi de matériaux issus du réemploi ou biosourcés est privilégié pour tous les autres éléments de fabrication.</p>
+                      <p class="pt-2 text-gray-800 text-justify">Conçus au sein de nos ateliers, les coffres des montures Tagada Bike sont réalisés à partir de panneaux de plastique recyclé en Bretagne. L’emploi de matériaux issus du réemploi ou bio sourcés est privilégié pour tous les autres éléments de fabrication.</p>
                   </div>
                   <div class="relative xl:w-1/3 px-6 pb-6">
                       <h3 class="pb-2 text-2xl lg:text-3xl break-normal">Customisable</h3>
@@ -156,8 +156,7 @@
       <div class="container mx-auto">
           <div class="grid mx-auto grid-cols-2 md:grid-cols-5">
               <div class="aspect-square flex flex-col order-1 items-center justify-center w-full h-full">
-                  <span class="text-pink text-6xl lg:text-8xl font-extrabold">2</span>
-                  <span class="text-blue text-lg text-center">Portes d'ouvertures latérales</span>
+                  <span class="text-pink text-lg xl:text-2xl text-center font-extrabold px-1">Trappes d'accès supérieur <br/>et <br/> latéral</span>
               </div>
               <div class="aspect-square flex flex-col order-2 items-center justify-center w-full h-full bg-pink">
                   <span class="text-white text-3xl lg:text-4xl font-bold pt-3 pr-12">Coffre</span>
@@ -170,28 +169,29 @@
               </div>
               <div class="aspect-square flex flex-col order-3 md:order-4 items-center justify-center w-full h-full bg-pink">
                   <span class="text-white text-2xl lg:text-4xl">Assistance<br />électrique</span>
-                  <span class="text-sm lg:text-md">(sur demande)</span>
+                  <span class="text-sm lg:text-md">(en option)</span>
               </div>
               <div class="aspect-square flex flex-col order-5 items-center justify-center w-full h-full">
-                  <span class="text-pink text-6xl lg:text-8xl font-extrabold">2</span>
-                  <span class="text-blue text-lg">tablettes</span>
-                  <span class="text-blue text-lg">avant ou arrière</span>
+                <div class="flex flex-row">
+                    <span class="text-pink text-6xl lg:text-8xl font-extrabold">2</span>
+                    <span class="text-blue text-lg">m2</span>
+                </div>
+                  <span class="text-blue text-lg text-center">de surface personnalisable</span>
               </div>
               <div class="aspect-square flex flex-col order-6 items-center justify-center w-full h-full bg-pink">
-                  <span class="text-white text-6xl lg:text-8xl font-extrabold">2</span>
-                  <span class="text-white text-lg text-center">Trappes d'accès supérieur</span>
+                  <span class="text-white text-3xl lg:text-8xl font-extrabold">tablettes</span>
+                  <span class="text-white text-lg text-center">avant et arrière</span>
               </div>
               <div class="aspect-square flex flex-col order-8 md:order-7 items-center justify-center w-full h-full">
                   <span class="text-pink text-2xl lg:text-3xl text-center pt-2">Bacs <br />Isothermes</span>
                   <span class="text-blue text-6xl lg:text-8xl font-extrabold">8L</span>
-                  <span class="pb-2">(sur demande)</span>
+                  <span class="text-sm lg:text-md pb-2">(en option)</span>
               </div>
               <div class="aspect-square flex flex-col order-7 lg:order-8 items-center justify-center w-full h-full bg-pink">
-                  <span class="text-white text-lg">Batterie</span>
+                  <span class="text-white text-center text-md lg:text-lg">Rechargez vos équipements</span>
+                  <span class="text-xl font-extrabold text-blue">Batterie</span>
                   <span class="text-white text-3xl lg:text-4xl font-extrabold">12V 40ah</span>
-                  <span class="text-white text-md lg:text-lg">avec adaptateur</span>
-                  <span class="text-white text-3xl lg:text-4xl">120V</span>
-                  <span class="text-white text-md">(sur demande)</span>
+                  <span class="text-black text-sm lg:text-md">(en option)</span>
               </div>
               <div class="aspect-square flex flex-col order-9 items-center justify-center w-full h-full">
                   <span class="text-pink text-lg">Jusqu'à</span>
@@ -260,7 +260,30 @@
       </div>
   </section>
 
-  <section class="mb-20 ">
+  <section class="container mx-auto mt-32 mb-32">
+    <div class="mx-auto mb-12">
+        <div class="flex flex-row flex-no-wrap items-center justify-center pb-12">
+                <img class="h-20" src="../assets/Logo-Tagada.svg" alt="">
+                <span class="font-extrabold text-gray-400 text-4xl px-6">X</span>
+                <img src="../assets/Logo-Juicy-gold.jpg" alt="" class="h-10">
+            </div>
+        <p class="xl:text-xl text-lg text-center text-pink font-bold uppercase px-4">Nous concevons des oeuvres uniques et sur mesure (souvent XXL)</p>
+    </div>
+    <div class="flex flex-col lg:flex-row container items-center justify-center mx-auto">
+        <div class="w-full lg:w-1/2 px-6">
+            <p>Notre mission ? Valoriser les marques ou les projets ambicieux, en leur fournissant les plus beaux des écrins. 
+            <br/><br/>L’aventure Tagada Bike a germé au sein du studio de Juicy Creation. Avec ce nouveau projet, nous voulions nous réinventer et nous challenger en apportant une solution plus mobile pour aller à la rencontre de votre public, quel qu’il soit, où qu'il soit.<br/><br/> Conscients et sensibles aux enjeux environnementaux, nous concevons des solutions les plus neutres possibles : nos triporteurs sont éco conçus, avec plus de 80% de matériaux recyclés. Nous utilisons une impression verte pour traiter vos choix de personnalisation. 
+            </p>
+        </div>
+        <div class="px-2 w-full lg:w-1/2 pt-8 lg:pt-0">
+            <a href="https://www.instagram.com/juicy_creation/?hl=fr" target="_blank">
+                <img class="h-full lg:h-60" src="../assets/Presta-Jamel-Comedy-Club.png" alt="">
+            </a>
+        </div>
+    </div>
+  </section>
+
+  <!-- <section class="mb-20 ">
       <div class="mx-auto pt-32 mb-12">
           <h2 class="xl:text-3xl text-xl text-center text-pink mb-4 font-extrabold uppercase">
               votre casaque
@@ -280,7 +303,7 @@
               <span class="text-md lg:text-xl text-center uppercase">de surface <br>à personnaliser</span>
           </div>
       </div>
-  </section>
+  </section> -->
 
   <footer class="flex flex-col mx-auto w-full items-center justify-center bg-blue h-fit py-24">
       <a href="https://juicycreation.fr/#qode-home-v2">
