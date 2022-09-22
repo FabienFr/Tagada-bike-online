@@ -213,10 +213,10 @@
         </p>
       </div>
       <div>
-        <img src="../assets/bg-products/1.jpg" class="w-42 pb-20 md:pb-0" />
+        <img src="../assets/bg-products/1.png" class="w-42 pb-20 md:pb-0" />
       </div>
       <div class="hidden md:block">
-        <img src="../assets/bg-products/3.jpg" class="w-42" />
+        <img src="../assets/bg-products/3.png" class="w-42" />
       </div>
       <div class="flex flex-col items-center justify-center lg:mx-8">
         <!-- <h4 class="text-5xl lg:text-7xl pb-4 lg:pb-12">RUBY</h4> -->
@@ -228,7 +228,7 @@
         </p>
       </div>
       <div class="md:hidden">
-        <img src="../assets/bg-products/3.jpg" class="w-42 pb-20" />
+        <img src="../assets/bg-products/3.png" class="w-42 pb-20" />
       </div>
       <div class="flex flex-col items-center justify-center lg:mx-8">
         <!-- <h4 class="text-5xl lg:text-7xl pb-4 lg:pb-12">TORNADO</h4> -->
@@ -240,7 +240,7 @@
         </p>
       </div>
       <div>
-        <img src="../assets/bg-products/5.jpg" class="w-42" />
+        <img src="../assets/bg-products/5.png" class="w-42" />
       </div>
       <img
         src="../assets/BandeEtoilesGauche.svg"
