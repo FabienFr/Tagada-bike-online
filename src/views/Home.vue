@@ -25,7 +25,11 @@
             <h4
               class="text-lg font-bold tracking-wide leading-tight text-gray-800 hover:text-pink text-center py-5"
             >
-              <a href="#contact"> CONTACT </a>
+              <a
+                href="mailto:contact@tagadabike.com?subject=Tagada Bike - Demande de renseignements"
+              >
+                CONTACT
+              </a>
             </h4>
           </div>
           <div class="flex flex-row mt-5">
@@ -40,7 +44,11 @@
               <h4
                 class="text-lg font-bold tracking-wide leading-tight hover:text-pink text-gray-800 text-center py-5"
               >
-                <a href="#contact"> CONTACT </a>
+                <a
+                  href="mailto:contact@tagadabike.com?subject=Tagada Bike - Demande de renseignements"
+                >
+                  CONTACT
+                </a>
               </h4>
             </div>
           </div>
@@ -472,7 +480,7 @@
         <img
           src="../assets/Logo-Juicy-gold.jpg"
           alt=""
-          class="h-12 pb-2 mb-6"
+          class="h-16 pb-2 mb-6"
         />
         <span
           class="font-extrabold text-gray-400 text-4xl py-6 lg:py-0 px-6 mb-6"
