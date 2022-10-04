@@ -558,28 +558,6 @@
       </a>
     </div>
   </section>
-  <!-- FORM
-  <section class="mb-20 ">
-      <div class="mx-auto pt-32 mb-12">
-          <h2 class="xl:text-3xl text-xl text-center text-pink mb-4 font-extrabold uppercase">
-              votre casaque
-          </h2> 
-          <p class="px-3 xl:text-xl text-lg text-center uppercase">Faites briller vos couleurs sur la ligne d’arrivée</p>
-      </div>
-
-      <div class="container grid grid-cols-1 md:grid-cols-3 justify-items-center justify-around mx-auto">
-          <div class="flex flex-col items-center justify-center h-60 w-60 lg:h-72 lg:w-72 rounded-full bg-blue mb-12">
-              <span class="text-8xl lg:text-9xl text-yellow font-extrabold">2</span>
-              <span class="text-md lg:text-xl text-center uppercase">enseignes<br>pour votre logo</span>
-          </div>
-          <img src="../assets/tagada-bike-model-three.png" alt="" class="h-72 mb-12">
-          <div class="relative flex flex-col items-center justify-center h-60 w-60 lg:h-72 lg:w-72 rounded-full bg-blue">
-              <span class="text-8xl lg:text-9xl text-yellow font-extrabold">2</span>
-              <span class="absolute text-2xl text-yellow top-16 right-16">M&#xB2;</span>
-              <span class="text-md lg:text-xl text-center uppercase">de surface <br>à personnaliser</span>
-          </div>
-      </div>
-  </section> -->
   <footer text-center
     class="flex flex-row mx-auto w-full items-center justify-center bg-blue h-fit py-24"
   > 
