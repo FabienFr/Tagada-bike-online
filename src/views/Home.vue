@@ -72,7 +72,11 @@
           src="../assets/tagada-bike-model-three.png"
           alt="éco-triporteur équipé pour vos événements - modèle entièrement customisable n°3"
         />
-        <img class="h-52 lg:h-96" src="../assets/tagada-bike-model-two.png" alt="éco-triporteur équipé pour vos événements - modèle entièrement customisable n°2"/>
+        <img
+          class="h-52 lg:h-96"
+          src="../assets/tagada-bike-model-two.png"
+          alt="éco-triporteur équipé pour vos événements - modèle entièrement customisable n°2"
+        />
         <img
           class="hidden md:block h-44"
           src="../assets/tagada-bike-model-one.png"
@@ -126,7 +130,10 @@
       </div>
       <div class="flex mx-auto items-center justify-center w-full h-fit">
         <a href="https://www.instagram.com/tagadabike/?hl=fr" target="_blank">
-          <img src="../assets/bandeau-Instagram-new.png"  alt="références clients - éco-triporteurs sur mesure"/>
+          <img
+            src="../assets/bandeau-Instagram-new.png"
+            alt="références clients - éco-triporteurs sur mesure"
+          />
         </a>
       </div>
     </div>
@@ -171,8 +178,9 @@
               votre monture ne passera jamais inaperçue.
             </p>
             <p class="pt-2 text-gray-800 text-left xl:text-justify">
-              Agile, rapidement déployable, que d’atouts réunis pour vos lancements de produits,
-              action street marketing, activation de marque, festival, etc.
+              Agile, rapidement déployable, que d’atouts réunis pour vos
+              lancements de produits, action street marketing, activation de
+              marque, festival, etc.
             </p>
             <p class="pt-2 text-gray-800 text-left xl:text-justify">
               Faites le choix d’un attelage atypique vecteur d’attention et de
@@ -188,8 +196,8 @@
               Bretagne.
             </p>
             <p class="pt-2 text-gray-800 text-left xl:text-justify">
-              L’emploi de matériaux issus du réemploi ou bio sourcés
-              est privilégié pour tous les autres éléments de fabrication.
+              L’emploi de matériaux issus du réemploi ou bio sourcés est
+              privilégié pour tous les autres éléments de fabrication.
             </p>
           </div>
           <div class="relative xl:w-1/3 px-6 pb-6">
@@ -201,9 +209,8 @@
               son cavalier.
             </p>
             <p class="pt-2 text-gray-800 text-left xl:text-justify">
-              Tablettes, porte toppings, bacs isothermes,
-              batterie… choisissez l’équipement idéal pour arriver en tête de
-              course.
+              Tablettes, porte toppings, bacs isothermes, batterie… choisissez
+              l’équipement idéal pour arriver en tête de course.
             </p>
           </div>
         </div>
@@ -230,21 +237,37 @@
     >
       <div class="flex flex-col items-center justify-center lg:mx-8">
         <!-- <h4 class="text-5xl lg:text-7xl pb-4 lg:pb-12">LUCKY</h4> -->
-        <img src="../assets/Lucky.png" alt="éco-triporteur logo modèle Lucky" class="h-12 lg:h-20 mb-6" />
+        <img
+          src="../assets/Lucky.png"
+          alt="éco-triporteur logo modèle Lucky"
+          class="h-12 lg:h-20 mb-6"
+        />
         <p class="text-md lg:text-xl text-justify mx-3 pb-6">
           Tendre et malicieux, avec sa robe acidulée et son allure printanière,
           Lucky saura user de son charme pour toutes vos opérations séduction.
         </p>
       </div>
       <div>
-        <img src="../assets/bg-products/1.png"  alt="éco-triporteur modèle Lucky" class="w-42 pb-20 md:pb-0" />
+        <img
+          src="../assets/bg-products/1.png"
+          alt="éco-triporteur modèle Lucky"
+          class="w-42 pb-20 md:pb-0"
+        />
       </div>
       <div class="hidden md:block">
-        <img src="../assets/bg-products/3.png"  alt="éco-triporteur modèle Ruby" class="w-42" />
+        <img
+          src="../assets/bg-products/3.png"
+          alt="éco-triporteur modèle Ruby"
+          class="w-42"
+        />
       </div>
       <div class="flex flex-col items-center justify-center lg:mx-8">
         <!-- <h4 class="text-5xl lg:text-7xl pb-4 lg:pb-12">RUBY</h4> -->
-        <img src="../assets/Ruby.svg" alt="éco-triporteur logo modèle Ruby" class="h-10 lg:h-16 mb-6" />
+        <img
+          src="../assets/Ruby.svg"
+          alt="éco-triporteur logo modèle Ruby"
+          class="h-10 lg:h-16 mb-6"
+        />
         <p class="text-md lg:text-xl text-justify mx-3 pb-6">
           Précieux et élégant. Avec ses effets marbrés et supports cuivrés, le
           charme de Ruby ne passe pas inaperçu lorsqu’il s’agit d’épater la
@@ -252,11 +275,19 @@
         </p>
       </div>
       <div class="md:hidden">
-        <img src="../assets/bg-products/3.png" alt="éco-triporteur modèle Ruby" class="w-42 pb-20" />
+        <img
+          src="../assets/bg-products/3.png"
+          alt="éco-triporteur modèle Ruby"
+          class="w-42 pb-20"
+        />
       </div>
       <div class="flex flex-col items-center justify-center lg:mx-8">
         <!-- <h4 class="text-5xl lg:text-7xl pb-4 lg:pb-12">TORNADO</h4> -->
-        <img src="../assets/Tornado.svg" alt="éco-triporteur logo modèle Tornado" class="h-12 lg:h-20 mb-6" />
+        <img
+          src="../assets/Tornado.svg"
+          alt="éco-triporteur logo modèle Tornado"
+          class="h-12 lg:h-20 mb-6"
+        />
         <p class="text-md lg:text-xl text-justify mx-3 pb-6">
           Intrépide et élancé, des lignes droites, un design épuré sur une robe
           monochrome. Derrière son apparente sobriété se cache un atout de choix
@@ -264,7 +295,11 @@
         </p>
       </div>
       <div>
-        <img src="../assets/bg-products/5.png" alt="éco-triporteur logo modèle Tornado" class="w-42" />
+        <img
+          src="../assets/bg-products/5.png"
+          alt="éco-triporteur logo modèle Tornado"
+          class="w-42"
+        />
       </div>
       <img
         src="../assets/BandeEtoilesGauche.svg"
@@ -277,8 +312,9 @@
         alt=""
       />
     </div>
-    <p class="xl:text-xl text-lg text-center px-96 mt-12">
-      Tous nos triporteurs sont disponibles à la location pour la durée de vos campagnes de communication... de 1 jour à plusieurs mois. 
+    <p class="xl:text-xl text-lg text-center px-6 lg:px-96 mt-12">
+      Tous nos triporteurs sont disponibles à la location pour la durée de vos
+      campagnes de communication... de 1 jour à plusieurs mois.
     </p>
   </section>
   <!-- Attelages -->
@@ -287,7 +323,7 @@
       <h2
         class="text-xl xl:text-3xl text-center text-white font-extrabold uppercase"
       >
-        Nos Attelages 
+        Nos Attelages
       </h2>
     </div>
     <div class="container mx-auto">
@@ -315,18 +351,23 @@
         <div
           class="aspect-square flex flex-col order-4 md:order-3 items-center justify-center w-full h-full"
         >
-          <span class="text-pink text-5xl lg:text-7xl font-extrabold">100kg</span>
-          <span class="text-blue text2xl lg:text-3xl text-center font-extrabold pt-2"
+          <span class="text-pink text-5xl lg:text-7xl font-extrabold"
+            >100kg</span
+          >
+          <span
+            class="text-blue text2xl lg:text-3xl text-center font-extrabold pt-2"
             >de charge utile</span
           >
         </div>
         <div
           class="aspect-square flex flex-col order-3 md:order-4 items-center justify-center w-full h-full bg-pink"
         >
-          <span class="text-white text-2xl lg:text-4xl text-center font-extrabold"
+          <span
+            class="text-white text-2xl lg:text-4xl text-center font-extrabold"
             >Assistance</span
           >
-          <span class="text-blue uppercase text-2xl lg:text-4xl text-center font-extrabold"
+          <span
+            class="text-blue uppercase text-2xl lg:text-4xl text-center font-extrabold"
             >électrique</span
           >
         </div>
@@ -344,41 +385,51 @@
         <div
           class="aspect-square flex flex-col order-6 items-center justify-center w-full h-full bg-pink"
         >
-          <span class="text-blue text-3xl lg:text-4xl xl:text-5xl font-extrabold"
+          <span
+            class="text-blue text-3xl lg:text-4xl xl:text-5xl font-extrabold"
             >tablettes</span
           >
-          <span class="text-white text-lg lg:text-xl xl:text-2xl text-center">avant et arrière</span>
+          <span class="text-white text-lg lg:text-xl xl:text-2xl text-center"
+            >avant et arrière</span
+          >
         </div>
         <div
           class="aspect-square flex flex-col order-8 md:order-7 items-center justify-center w-full h-full"
         >
-          <span class="text-pink text-xl lg:text-2xl xl:text-3xl text-center font-extrabold pt-2"
+          <span
+            class="text-pink text-xl lg:text-2xl xl:text-3xl text-center font-extrabold pt-2"
             >Large choix de décorations et accessoires</span
           >
         </div>
         <div
           class="aspect-square flex flex-col order-7 lg:order-8 items-center justify-center w-full h-full bg-pink"
         >
-        <span class="text-3xl lg:text-5xl xl:6xl font-extrabold text-blue"
-        >Batterie</span
-        >
-        <span class="text-white text-center text-md xl:text-lg px-1"
-          >Rechargez vos équipements</span
-        >
+          <span class="text-3xl lg:text-5xl xl:6xl font-extrabold text-blue"
+            >Batterie</span
+          >
+          <span class="text-white text-center text-md xl:text-lg px-1"
+            >Rechargez vos équipements</span
+          >
         </div>
         <div
           class="aspect-square flex flex-col order-9 items-center justify-center w-full h-full"
         >
           <span class="text-pink text-2xl">Dimensions</span>
-          <span class="text-blue text-2xl xl:text-4xl font-extrabold">L = 250</span>
-          <span class="text-blue text-2xl xl:text-4xl font-extrabold">l = 90</span>
-          <span class="text-blue text-2xl xl:text-4xl font-extrabold">h = 200</span>
+          <span class="text-blue text-2xl xl:text-4xl font-extrabold"
+            >L = 250</span
+          >
+          <span class="text-blue text-2xl xl:text-4xl font-extrabold"
+            >l = 90</span
+          >
+          <span class="text-blue text-2xl xl:text-4xl font-extrabold"
+            >h = 200</span
+          >
         </div>
         <div
           class="aspect-square flex flex-col order-10 items-center justify-center w-full h-full bg-pink"
         >
           <span class="text-white text-lg xl:text-2xl text-center pb-4"
-            >Nous étudions <br/>toutes vos envies...</span
+            >Nous étudions <br />toutes vos envies...</span
           >
           <button
             onclick="location.href='mailto:contact@tagadabike.com?subject=Tagada Bike - Demande de renseignements'"
@@ -419,10 +470,18 @@
     >
       <div class="flex flex-col lg:flex-row px-16">
         <div class="lg:order-2 lg:p-20">
-          <img class="rounded-3xl opacity-90 w-[650px]" src="../assets/Rocket.png" alt="éco-triporteur modèle Rocket"/>
+          <img
+            class="rounded-3xl opacity-90 w-[650px]"
+            src="../assets/Rocket.png"
+            alt="éco-triporteur modèle Rocket"
+          />
         </div>
         <div class="lg:order-1 flex flex-col items-center justify-center">
-          <img src="../assets/Rocket.svg" alt="éco-triporteur logo modèle Rocket" class="h-24 mt-6 mb-6" />
+          <img
+            src="../assets/Rocket.svg"
+            alt="éco-triporteur logo modèle Rocket"
+            class="h-24 mt-6 mb-6"
+          />
           <p class="px-4 pb-20 md:p-6">
             Lumières et sound-system intégré, avec Rocket c’est toute la
             cavalerie qui débarque en fanfare.
@@ -431,10 +490,18 @@
       </div>
       <div class="flex flex-col lg:flex-row px-16">
         <div class="lg:p-20">
-          <img class="rounded-3xl opacity-90 w-[650px]" src="../assets/Ringo.png" alt="éco-triporteur modèle Ringo"/>
+          <img
+            class="rounded-3xl opacity-90 w-[650px]"
+            src="../assets/Ringo.png"
+            alt="éco-triporteur modèle Ringo"
+          />
         </div>
         <div class="flex flex-col items-center justify-center">
-          <img src="../assets/Ringo.svg" alt="éco-triporteur logo modèle Ringo" class="h-24 mt-6 mb-6" />
+          <img
+            src="../assets/Ringo.svg"
+            alt="éco-triporteur logo modèle Ringo"
+            class="h-24 mt-6 mb-6"
+          />
           <p class="px-4 pb-20 md:p-6">
             Amis des festivals ou des opérations de street cleaning, Ringo est
             le compagnon de ceux qui s’engagent.
@@ -489,16 +556,18 @@
     </div>
   </section>
   <!-- Aventure -->
-  <section class="relative mx-auto mt-32 mb-12 bg-gradient-to-b from-white via-gray-200 to-white">
+  <section
+    class="relative overflow-hidden mx-auto mt-32 mb-12 bg-gradient-to-b from-white via-gray-200 to-white"
+  >
     <div>
       <img
-          src="../assets/BandeEtoilesGauche.svg"
-          class="absolute rotate-180 top-0 -left-48 lg:-left-64 h-full"
-          alt=""
+        src="../assets/BandeEtoilesGauche.svg"
+        class="absolute rotate-180 top-0 -left-52 md:-left-32 lg:-left-4 h-full"
+        alt=""
       />
       <img
         src="../assets/BandeEtoilesGauche.svg"
-        class="absolute rotate-180 top-0 -right-48 lg:-right-64 h-full"
+        class="absolute rotate-180 top-0 -right-52 md:-right-32 lg:-right-4 h-full"
         alt=""
       />
     </div>
@@ -506,12 +575,17 @@
       <h3
         class="xl:text-3xl text-xl text-center text-pink font-bold uppercase px-4 pb-12"
       >
-      L’aventure Tagada Bike <br/>a germé au sein du studio de Juicy Creation
+        L’aventure Tagada Bike <br />a germé au sein du studio de Juicy Creation
       </h3>
     </div>
     <div class="flex flex-col lg:flex-row items-center justify-center">
-      <div class="w-full lg:w-1/3 px-8 md:px-48 lg:px-6 text-justify">
-        <a href="https://juicycreation.fr/" name="site web juicy création" aria-label="Venez découvrir les nombreuses créations sur mesure & xxl de nos équipes" target="_blank">
+      <div class="w-full lg:w-1/3 xl:mr-20 px-8 md:px-48 lg:px-6 text-justify">
+        <a
+          href="https://juicycreation.fr/"
+          name="site web juicy création"
+          aria-label="Venez découvrir les nombreuses créations sur mesure & xxl de nos équipes"
+          target="_blank"
+        >
           <img
             src="../assets/Logo-Juicy-gold.jpg"
             alt=""
@@ -519,28 +593,55 @@
           />
         </a>
         <p>
-          Nous concevons des œuvres uniques et sur mesure (souvent XXL) pour valoriser
-          les marques et leur fournir le plus beau des écrins.<br/><br/>
-          Avec ce nouveau projet, nous voulions nous réinventer et nous challenger en
-          apportant une solution plus mobile pour aller à la rencontre de votre public, quel
-          qu’il soit.<br/><br/>
+          Nous concevons des œuvres uniques et sur mesure (souvent XXL) pour
+          valoriser les marques et leur fournir le plus beau des écrins.<br /><br />
+          Avec ce nouveau projet, nous voulions nous réinventer et nous
+          challenger en apportant une solution plus mobile pour aller à la
+          rencontre de votre public, quel qu’il soit.<br /><br />
           Conscient et sensible aux enjeux environnementaux, notre mission est
-          d’apporter une solution la plus neutre possible : nos triporteurs sont éco conçus,
-          avec plus de 80% de matériaux recyclés et une impression verte pour vos choix
-          de personnalisation.
+          d’apporter une solution la plus neutre possible : nos triporteurs sont
+          éco conçus, avec plus de 80% de matériaux recyclés et une impression
+          verte pour vos choix de personnalisation.
         </p>
       </div>
-      <a target="_blank" href="https://www.instagram.com/juicy_creation/?hl=fr" name="Juicy Création Instagram" aria-label="Venez découvrir les références de l'équipe pluridsciplinaire de Juicy Création">
+      <a
+        target="_blank"
+        href="https://www.instagram.com/juicy_creation/?hl=fr"
+        name="Juicy Création Instagram"
+        aria-label="Venez découvrir les références de l'équipe pluridsciplinaire de Juicy Création"
+      >
         <div class="grid grid-cols-2 pt-12 lg:pt-0">
-          <img class="rounded-tl-2xl object-cover object-center w-[150px] h-[150px] md:w-[200px] md:h-[200px]" src="../assets/Insta1.jpg"  alt="éco-triporteur pour vos énénements - Snowpark - Juicy création">
-          <img class="rounded-tr-2xl object-cover object-center w-[150px] h-[150px] md:w-[200px] md:h-[200px]" src="../assets/Insta2.jpg" alt="éco-triporteur pour vos énénements - Muggler - Juicy création">
-          <img class="rounded-bl-2xl  object-center w-[150px] h-[150px] md:w-[200px] md:h-[200px]" src="../assets/Insta3.jpg" alt="éco-triporteur pour vos énénements - Val-de-Reuil - Juicy création">
-          <img class="rounded-br-2xl object-cover object-center w-[150px] h-[150px] md:w-[200px] md:h-[200px]" src="../assets/Insta4.jpg" alt="éco-triporteur pour vos énénements - JAmel Comedy Club - Juicy création">
+          <img
+            class="rounded-tl-2xl object-cover object-center w-[150px] h-[150px] md:w-[200px] md:h-[200px]"
+            src="../assets/Insta1.jpg"
+            alt="éco-triporteur pour vos énénements - Snowpark - Juicy création"
+          />
+          <img
+            class="rounded-tr-2xl object-cover object-center w-[150px] h-[150px] md:w-[200px] md:h-[200px]"
+            src="../assets/Insta2.jpg"
+            alt="éco-triporteur pour vos énénements - Muggler - Juicy création"
+          />
+          <img
+            class="rounded-bl-2xl object-center w-[150px] h-[150px] md:w-[200px] md:h-[200px]"
+            src="../assets/Insta3.jpg"
+            alt="éco-triporteur pour vos énénements - Val-de-Reuil - Juicy création"
+          />
+          <img
+            class="rounded-br-2xl object-cover object-center w-[150px] h-[150px] md:w-[200px] md:h-[200px]"
+            src="../assets/Insta4.jpg"
+            alt="éco-triporteur pour vos énénements - JAmel Comedy Club - Juicy création"
+          />
         </div>
       </a>
     </div>
-    <div class="flex flex-col lg:flex-row items-center justify-center pt-12 pb-4">
-      <img class="h-28 pt-6" src="../assets/Logo-Tagada.svg" alt="logo tagadabike - éco-triporteur pour vos énénements" />
+    <div
+      class="flex flex-col lg:flex-row items-center justify-center pt-12 pb-4"
+    >
+      <img
+        class="h-28 pt-6"
+        src="../assets/Logo-Tagada.svg"
+        alt="logo tagadabike - éco-triporteur pour vos énénements"
+      />
     </div>
     <div class="mx-auto flex items-center justify-center px-20">
       <a
@@ -558,12 +659,19 @@
       </a>
     </div>
   </section>
-  <footer text-center
+  <footer
+    text-center
     class="flex flex-row mx-auto w-full items-center justify-center bg-blue h-fit py-24"
-  > 
-    <div class="container flex flex-col lg:flex-row items-start justify-between px-12">
-      <div class="w-full pb-10 lg-pb-0 lg:w-4/12 text-center lg:text-left text-sm">
-        <h4 class="text-white font-bold uppercase text-2xl pb-2">Le quinté gagnant</h4>
+  >
+    <div
+      class="container flex flex-col lg:flex-row items-start justify-between px-12"
+    >
+      <div
+        class="w-full pb-10 lg-pb-0 lg:w-4/12 text-center lg:text-left text-sm"
+      >
+        <h4 class="text-white font-bold uppercase text-2xl pb-2">
+          Le quinté gagnant
+        </h4>
         <ul class="text-white text-xs lg:text-sm lg:list-disc">
           <li>Agence évènementielle</li>
           <li>Traiteur – Restauration – Hôtellerie</li>
@@ -572,13 +680,28 @@
         </ul>
       </div>
       <div class="w-full pb-10 lg-pb-0 lg:w-3/12 text-center text-sm">
-        <h4 class="text-white uppercase text-2xl font-bold">triporteurs <br/>éco-conçus <br/>pour événements <br/>à votre image</h4><br/>
-        <span class="text-white text-xs italic">* Parier comporte des risques, sauf avec Tagada Bike, la valeur sure pour vos <bold>évènements</bold>, <bold>lancement de produits</bold>, <bold>activation de marque</bold>, <bold>points d’information</bold>, <bold>Food show</bold>...</span>
+        <h4 class="text-white uppercase text-2xl font-bold">
+          triporteurs <br />éco-conçus <br />pour événements <br />à votre image
+        </h4>
+        <br />
+        <span class="text-white text-xs italic"
+          >* Parier comporte des risques, sauf avec Tagada Bike, la valeur sure
+          pour vos <bold>évènements</bold>, <bold>lancement de produits</bold>,
+          <bold>activation de marque</bold>, <bold>points d’information</bold>,
+          <bold>Food show</bold>...</span
+        >
       </div>
       <div class="w-full lg:w-4/12 text-center lg:text-right text-sm">
-        <h4 class="text-white font-bold uppercase text-2xl pb-2">pas <br/>de formulaire <br/>à remplir</h4>
-        <span class="text-white text-xs lg:text-sm">Vous avez déjà bien à faire, à nous de cravacher</span><br/>
-        <span class="text-white text-xs lg:text-sm">Alors appelez nous, whatsappez nous, mailez-nous <br/>et on vous répondra au galop !</span>
+        <h4 class="text-white font-bold uppercase text-2xl pb-2">
+          pas <br />de formulaire <br />à remplir
+        </h4>
+        <span class="text-white text-xs lg:text-sm"
+          >Vous avez déjà bien à faire, à nous de cravacher</span
+        ><br />
+        <span class="text-white text-xs lg:text-sm"
+          >Alors appelez nous, whatsappez nous, mailez-nous <br />et on vous
+          répondra au galop !</span
+        >
       </div>
     </div>
   </footer>
