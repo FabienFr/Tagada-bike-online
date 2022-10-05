@@ -587,9 +587,9 @@
           target="_blank"
         >
           <img
-            src="../assets/Logo-Juicy-gold.jpg"
-            alt=""
-            class="mx-auto h-14 mb-8"
+            src="../assets/Juicy_Logo_Or.png"
+            alt="Logo de l'agence de design Juicy Création"
+            class="mx-auto h-16 mb-8"
           />
         </a>
         <p>
