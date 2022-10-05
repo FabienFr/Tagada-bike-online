@@ -144,22 +144,22 @@
       <div class="flex w-full h-full">
         <img
           src="../assets/Point.svg"
-          class="absolute w-1/6 xl:w-2/6 -top-36 -right-32 h-72"
+          class="absolute w-1/6 xl:w-2/6 -top-12 -right-8 xl:-top-36 xl:-right-32 h-72"
           alt=""
         />
         <img
           src="../assets/Point.svg"
-          class="absolute w-1/6 xl:w-2/6 -top-36 -left-32 h-72"
+          class="absolute w-1/6 xl:w-2/6 -top-12 -left-8 xl:-top-36 xl:-left-32 h-72"
           alt=""
         />
         <img
           src="../assets/Point.svg"
-          class="absolute w-1/6 xl:w-2/6 -bottom-36 right-32 h-72"
+          class="absolute w-1/6 xl:w-2/6 -bottom-12 -left-8 xl:-bottom-36 xl:right-32 h-72"
           alt=""
         />
         <img
           src="../assets/Point.svg"
-          class="absolute w-1/6 xl:w-2/6 -bottom-36 left-32 h-72"
+          class="absolute w-1/6 xl:w-2/6 -bottom-12 -right-8 xl:-bottom-36 h-72"
           alt=""
         />
       </div>
@@ -312,13 +312,13 @@
         alt=""
       />
     </div>
-    <p class="xl:text-xl text-lg text-center px-6 lg:px-96 mt-12">
+    <p class="xl:text-xl text-lg text-center px-6 lg:px-96 mt-20">
       Tous nos triporteurs sont disponibles à la location pour la durée de vos
       campagnes de communication... de 1 jour à plusieurs mois.
     </p>
   </section>
   <!-- Attelages -->
-  <section class="mt-36">
+  <section class="mt-20">
     <div class="mx-auto mt-12 md:mt-16 xl:mt-36 py-8 bg-blue">
       <h2
         class="text-xl xl:text-3xl text-center text-white font-extrabold uppercase"
@@ -466,7 +466,7 @@
       </p>
     </div>
     <div
-      class="container mx-auto h-full bg-gradient-to-t from-white via-gray-200 to-white mb-12"
+      class="container mx-auto h-full bg-gradient-to-t from-white via-gray-200 to-white"
     >
       <div class="flex flex-col lg:flex-row px-16">
         <div class="lg:order-2 lg:p-20">
@@ -512,7 +512,7 @@
   </section>
   <!-- Imagination -->
   <section
-    class="relative flex flex-col bg-blue mx-auto w-full overflow-hidden items-center justify-center h-fit mt-36 px-3 py-24"
+    class="relative flex flex-col bg-blue mx-auto w-full overflow-hidden items-center justify-center h-fit mt-20 px-3 py-24"
   >
     <div class="container mx-auto h-fit">
       <div class="flex w-full h-full">
