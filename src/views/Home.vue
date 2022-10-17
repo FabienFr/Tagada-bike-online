@@ -592,7 +592,7 @@
       />
       <img
         src="../assets/BandeEtoilesGauche.svg"
-        class="absolute rotate-180 top-0 -right-48 lg:-right-64 h-full"
+        class="absolute rotate-180 top-0 -right-52 md:-right-32 lg:-right-4 h-full"
         alt=""
       />
     </div>
