@@ -745,7 +745,7 @@
     </div>
     <div class="flex flex-row mx-auto items-center justify-center">
       <div
-        class="container flex flex-col lg:flex-row items-start justify-between px-12 xl:px-16"
+        class="container flex flex-col lg:flex-row items-start justify-between px-6 xl:px-16"
       >
         <div
           class="w-full pb-10 lg-pb-0 lg:w-4/12 text-center lg:text-left text-sm"
@@ -796,18 +796,18 @@
           </h4>
           <div class="xl:pt-10 2xl:pt-0">
             <span class="text-white text-xs 2xl:text-sm"
-              >Vous avez déjà bien à faire, <br />à nous de cravacher.</span
-            ><br />
-            <span class="text-white text-xs 2xl:text-sm pl-12"
-              >Alors appelez nous,<br />
-              whatsappez nous, <br />mailez-nous, <br />et on vous répondra au
-              galop !</span
+              >Vous avez déjà bien assez à faire, <br/>à nous de cravacher.<br/>On vous répondra au
+              galop !
+            </span><br />
+            <span class="text-white text-xs 2xl:text-sm xl:pl-12"
+              >Brice : <a href="tel:+33688981689">+33 6 88 98 16 89</a><br/>David : <a href="tel:+33673711744">+33 6 73 71 17 44</a><br/><a href='mailto:contact@tagadabike.com?subject=Tagada Bike - Demande de renseignements'>contact@tagadabike.com</a><br />
+              </span
             >
           </div>
         </div>
       </div>
     </div>
-    <div class="container flex mx-auto justify-center">
+    <div class="container flex mx-auto justify-center pt-8 ">
       <a
         aria-label="Chat on WhatsApp"
         href="https://wa.me/673711744"
@@ -816,7 +816,7 @@
         <img
           alt="Chat on WhatsApp"
           src="../assets/whatsapp-100.svg"
-          class="h-16"
+          class="h-12 md:h-16"
         />
       </a>
     </div>
