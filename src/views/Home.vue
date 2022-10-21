@@ -3,7 +3,9 @@
     <div class="pt-14 lg:pt-0">
       <div class="container h-1/6 md:max-w-8xl mx-auto">
         <nav class="flex flex-wrap items-center justify-center w-full">
-          <div class="hidden sm:block px-6 w-full sm:w-1/2 md:w-1/4 text-center">
+          <div
+            class="hidden sm:block px-6 w-full sm:w-1/2 md:w-1/4 text-center"
+          >
             <button
               class="text-xl lg:text-3xl font-bold tracking-wide leading-tight text-gray-800 hover:text-pink py-5"
             >
@@ -19,7 +21,9 @@
               />
             </a>
           </div>
-          <div class="hidden sm:block px-6 w-full sm:w-1/2 md:w-1/4 text-center">
+          <div
+            class="hidden sm:block px-6 w-full sm:w-1/2 md:w-1/4 text-center"
+          >
             <button
               class="text-xl lg:text-3xl font-bold tracking-wide leading-tight text-gray-800 hover:text-pink py-5"
             >
@@ -64,7 +68,9 @@
           autoplay
           src="../assets/Memories_video_home_Tagada_Bike.mp4"
         >
-          <div class="video-error text-pink border-2 p-4">Problème de réseau...</div>
+          <div class="video-error text-pink border-2 p-4">
+            Problème de réseau...
+          </div>
         </video>
       </div>
     </div>
@@ -151,21 +157,27 @@
       >
         l&apos;écurie
       </h2>
-      <p class="text-lg xl:text-xl 2xl:text-2xl 3xl:text-3xl text-center mb-12 uppercase">
+      <p
+        class="text-lg xl:text-xl 2xl:text-2xl 3xl:text-3xl text-center mb-12 uppercase"
+      >
         Dans les startings blocs pour rencontrer votre audience
       </p>
     </div>
     <div
       class="container relative mx-auto grid grid-cols-1 md:grid-cols-2 px-12 sm:px-22"
     >
-      <div class="order-1 flex flex-col items-center justify-center md:my-2 lg:mx-8">
+      <div
+        class="order-1 flex flex-col items-center justify-center md:my-2 lg:mx-8"
+      >
         <!-- <h4 class="text-5xl lg:text-7xl pb-4 lg:pb-12">LUCKY</h4> -->
         <img
           src="../assets/Lucky.png"
           alt="éco-triporteur logo modèle Lucky"
           class="h-12 sm:h-10 xl:h-20 mt-2 mb-6"
         />
-        <p class="text-sm xl:text-xl 2xl:text-2xl px-0 sm:px-4 xl:px-4 2xl:px-8 3xl:px-48 pb-6">
+        <p
+          class="text-sm xl:text-xl 2xl:text-2xl px-0 sm:px-4 xl:px-4 2xl:px-8 3xl:px-48 pb-6"
+        >
           Tendre et malicieux, avec sa robe acidulée et son allure printanière,
           Lucky saura user de son charme pour toutes vos opérations séduction.
         </p>
@@ -177,13 +189,17 @@
           class="w-42 pb-20 md:pb-0"
         />
       </div>
-      <div class="order-3 md:order-4 flex flex-col items-center justify-center lg:mx-8 md:my-2">
+      <div
+        class="order-3 md:order-4 flex flex-col items-center justify-center lg:mx-8 md:my-2"
+      >
         <img
           src="../assets/Ruby.svg"
           alt="éco-triporteur logo modèle Ruby"
           class="h-10 sm:h-8 xl:h-16 mt-2 mb-6"
         />
-        <p class="text-sm xl:text-xl 2xl:text-2xl px-0 sm:px-4 xl:px-4 2xl:px-8 3xl:px-48 pb-6">
+        <p
+          class="text-sm xl:text-xl 2xl:text-2xl px-0 sm:px-4 xl:px-4 2xl:px-8 3xl:px-48 pb-6"
+        >
           Précieux et élégant. Avec ses effets marbrés et supports cuivrés, le
           charme de Ruby ne passe pas inaperçu lorsqu’il s’agit d’épater la
           galerie.
@@ -196,13 +212,17 @@
           class="w-42 pb-20 md:pb-0"
         />
       </div>
-      <div class="order-5 flex flex-col items-center justify-center lg:mx-8 md:my-2">
+      <div
+        class="order-5 flex flex-col items-center justify-center lg:mx-8 md:my-2"
+      >
         <img
           src="../assets/Tornado.svg"
           alt="éco-triporteur logo modèle Tornado"
           class="h-12 sm:h-8 xl:h-20 mt-2 mb-6"
         />
-        <p class="text-sm xl:text-xl 2xl:text-2xl px-0 sm:px-4 xl:px-4 2xl:px-8 3xl:px-48 pb-6">
+        <p
+          class="text-sm xl:text-xl 2xl:text-2xl px-0 sm:px-4 xl:px-4 2xl:px-8 3xl:px-48 pb-6"
+        >
           Intrépide et élancé, des lignes droites, un design épuré sur une robe
           monochrome. Derrière son apparente sobriété se cache un atout de choix
           pour se distinguer
@@ -226,12 +246,17 @@
         alt=""
       />
     </div>
-    <p
-      class="mx-auto w-[300px] sm:w-[600px] xl:w-[800px] border-4 rounded-lg border-pink text-lg xl:text-2xl text-center text-pink p-6 mt-20"
-    >
-      Tous nos triporteurs sont disponibles à la location <br />pour la durée de
-      vos campagnes de communication <br />de 1 jour à plusieurs mois.
-    </p>
+    <div class="pt-20">
+      <div class="flex w-full mx-auto justify-center top-[30%]">
+        <img src="../assets/tagadaBump.svg" class="h-20" alt="" />
+      </div>
+      <p
+        class="mx-auto w-[300px] sm:w-[600px] xl:w-[800px] border-4 rounded-lg border-pink border-dotted text-lg xl:text-2xl text-center text-pink p-6 mt-2"
+      >
+        Tous nos triporteurs sont disponibles à la location <br />pour la durée
+        de vos campagnes de communication <br />de 1 jour à plusieurs mois.
+      </p>
+    </div>
   </section>
 
   <!-- Tiercé gagnant -->
@@ -287,20 +312,28 @@
         >
           Le tiercé gagnant de vos événements
         </h2>
-        <div class="container mx-auto flex flex-row flex-wrap px-6 2xl:px-32 3xl:px-96">
+        <div
+          class="container mx-auto flex flex-row flex-wrap px-6 2xl:px-32 3xl:px-96"
+        >
           <div class="relative xl:w-1/3 px-6 pb-6">
             <h3 class="pb-2 text-2xl lg:text-3xl">Tape à l’oeil</h3>
             <div class="h-0.5 w-full bg-pink"></div>
-            <p class="pt-2 text-gray-800 text-left 3xl:text-justify 2xl:text-2xl">
+            <p
+              class="pt-2 text-gray-800 text-left 3xl:text-justify 2xl:text-2xl"
+            >
               Sobre et élégante, pop et acidulée ou bien fraiche et distinguée,
               votre monture ne passera jamais inaperçue.
             </p>
-            <p class="pt-2 text-gray-800 text-left 3xl:text-justify 2xl:text-2xl">
+            <p
+              class="pt-2 text-gray-800 text-left 3xl:text-justify 2xl:text-2xl"
+            >
               Agile, rapidement déployable, que d’atouts réunis pour vos
               lancements de produits, action street marketing, activation de
               marque, festival, etc.
             </p>
-            <p class="pt-2 text-gray-800 text-left 3xl:text-justify 2xl:text-2xl">
+            <p
+              class="pt-2 text-gray-800 text-left 3xl:text-justify 2xl:text-2xl"
+            >
               Faites le choix d’un attelage atypique vecteur d’attention et de
               curiosité.
             </p>
@@ -308,12 +341,16 @@
           <div class="relative xl:w-1/3 px-6 pb-6">
             <h3 class="pb-2 text-2xl lg:text-3xl">Éco-conçu</h3>
             <div class="h-0.5 w-full bg-pink"></div>
-            <p class="pt-2 text-gray-800 text-left 3xl:text-justify 2xl:text-2xl">
+            <p
+              class="pt-2 text-gray-800 text-left 3xl:text-justify 2xl:text-2xl"
+            >
               Conçus au sein de nos ateliers, les coffres des montures Tagada
               Bike sont réalisés à partir de panneaux de plastique recyclé en
               Bretagne.
             </p>
-            <p class="pt-2 text-gray-800 text-left 3xl:text-justify 2xl:text-2xl">
+            <p
+              class="pt-2 text-gray-800 text-left 3xl:text-justify 2xl:text-2xl"
+            >
               L’emploi de matériaux issus du réemploi ou bio sourcés est
               privilégié pour tous les autres éléments de fabrication.
             </p>
@@ -321,12 +358,16 @@
           <div class="relative xl:w-1/3 px-6 pb-6">
             <h3 class="pb-2 text-2xl lg:text-3xl break-normal">Customisable</h3>
             <div class="h-0.5 w-full bg-pink"></div>
-            <p class="pt-2 text-gray-800 text-left 3xl:text-justify 2xl:text-2xl">
+            <p
+              class="pt-2 text-gray-800 text-left 3xl:text-justify 2xl:text-2xl"
+            >
               Imaginée pour s’adapter à toutes les courses, chaque monture
               Tagada Bike est customisable pour répondre au mieux aux besoins de
               son cavalier.
             </p>
-            <p class="pt-2 text-gray-800 text-left 3xl:text-justify 2xl:text-2xl">
+            <p
+              class="pt-2 text-gray-800 text-left 3xl:text-justify 2xl:text-2xl"
+            >
               Tablettes, porte toppings, bacs isothermes, batterie… choisissez
               l’équipement idéal pour arriver en tête de course.
             </p>
@@ -352,25 +393,29 @@
         >
           <span
             class="text-pink text-lg xl:text-2xl 2xl:text-4xl 3xl:text-5xl text-center font-extrabold px-1"
-            >Trappes d'accès <br/><span class="text-blue">supérieures</span> <br />et <br />
+            >Trappes d'accès <br /><span class="text-blue">supérieures</span>
+            <br />et <br />
             <span class="text-blue">latérales</span></span
           >
         </div>
         <div
           class="aspect-square flex flex-col order-2 items-center justify-center w-full h-full bg-pink"
         >
-          <span class="text-white text-3xl lg:text-4xl 2xl:text-5xl 3xl:text-6xl font-bold pt-3"
+          <span
+            class="text-white text-3xl lg:text-4xl 2xl:text-5xl 3xl:text-6xl font-bold pt-3"
             >Coffre</span
           >
           <span class="text-blue text-7xl lg:text-9xl font-extrabold">XL</span>
-          <span class="pb-3 text-white text-5xl lg:text-6xl 2xl:text-7xl font-bold"
+          <span
+            class="pb-3 text-white text-5xl lg:text-6xl 2xl:text-7xl font-bold"
             >500L</span
           >
         </div>
         <div
           class="aspect-square flex flex-col order-4 md:order-3 items-center justify-center w-full h-full"
         >
-          <span class="text-pink text-5xl lg:text-7xl  2xl:text-7xl 3xl:text-9xl font-extrabold"
+          <span
+            class="text-pink text-5xl lg:text-7xl 2xl:text-7xl 3xl:text-9xl font-extrabold"
             >100kg</span
           >
           <span
@@ -393,12 +438,15 @@
         <div
           class="aspect-square flex flex-col order-5 items-center justify-center w-full h-full"
         >
-          <span class="text-blue text-lg lg:text-2xl 2xl:text-4xl 3xl:text-5xl text-center"
+          <span
+            class="text-blue text-lg lg:text-2xl 2xl:text-4xl 3xl:text-5xl text-center"
             >surface <br />personnalisable</span
           >
           <div class="flex flex-row">
             <span class="text-pink text-6xl lg:text-9xl font-extrabold">2</span>
-            <span class="text-blue text-xl 2xl:text-3xl font-extrabold mt-1">m2</span>
+            <span class="text-blue text-xl 2xl:text-3xl font-extrabold mt-1"
+              >m2</span
+            >
           </div>
         </div>
         <div
@@ -408,8 +456,9 @@
             class="text-blue text-3xl lg:text-4xl xl:text-5xl 2xl:text-6xl 3xl:text-8xl font-extrabold"
             >tablettes</span
           >
-          <span class="text-white text-lg lg:text-xl xl:text-2xl 2xl:text-5xl text-center"
-            >avant <br/>et arrière</span
+          <span
+            class="text-white text-lg lg:text-xl xl:text-2xl 2xl:text-5xl text-center"
+            >avant <br />et arrière</span
           >
         </div>
         <div
@@ -417,16 +466,20 @@
         >
           <span
             class="text-pink text-xl lg:text-2xl xl:text-3xl 2xl:text-4xl 3xl:text-5xl text-center font-extrabold pt-2"
-            >Large choix de <br/><span class="text-blue">décorations</span> <br/>et<br/> <span class="text-blue">accessoires</span></span
+            >Large choix de <br /><span class="text-blue">décorations</span>
+            <br />et<br />
+            <span class="text-blue">accessoires</span></span
           >
         </div>
         <div
           class="aspect-square flex flex-col order-7 lg:order-8 items-center justify-center w-full h-full bg-pink"
         >
-          <span class="text-3xl lg:text-5xl xl:6xl 2xl:text-6xl 3xl:text-8xl font-extrabold text-blue"
+          <span
+            class="text-3xl lg:text-5xl xl:6xl 2xl:text-6xl 3xl:text-8xl font-extrabold text-blue"
             >Batterie</span
           >
-          <span class="text-white text-center text-md xl:text-lg 2xl:text-4xl px-1"
+          <span
+            class="text-white text-center text-md xl:text-lg 2xl:text-4xl px-1"
             >Rechargez vos équipements</span
           >
         </div>
@@ -434,21 +487,26 @@
           class="aspect-square flex flex-col order-9 items-center justify-center w-full h-full"
         >
           <span class="text-pink text-2xl 2xl:text-5xl">Dimensions</span>
-          <span class="text-blue text-2xl xl:text-4xl 2xl:text-6xl 3xl:text-7xl font-extrabold"
+          <span
+            class="text-blue text-2xl xl:text-4xl 2xl:text-6xl 3xl:text-7xl font-extrabold"
             >L = 250</span
           >
-          <span class="text-blue text-2xl xl:text-4xl 2xl:text-6xl 3xl:text-7xl font-extrabold"
+          <span
+            class="text-blue text-2xl xl:text-4xl 2xl:text-6xl 3xl:text-7xl font-extrabold"
             >l = 90</span
           >
-          <span class="text-blue text-2xl xl:text-4xl 2xl:text-6xl 3xl:text-7xl font-extrabold"
+          <span
+            class="text-blue text-2xl xl:text-4xl 2xl:text-6xl 3xl:text-7xl font-extrabold"
             >h = 200</span
           >
         </div>
         <div
           class="aspect-square flex flex-col order-10 items-center justify-center w-full h-full bg-pink"
         >
-          <span class="text-white text-lg xl:text-2xl 2xl:text-4xl 3xl:text-5xl text-center pb-2 2xl:pb-6"
-            >Nous étudions <br />toutes vos envies...</span>
+          <span
+            class="text-white text-lg xl:text-2xl 2xl:text-4xl 3xl:text-5xl text-center pb-2 2xl:pb-6"
+            >Nous étudions <br />toutes vos envies...</span
+          >
           <button
             onclick="location.href='mailto:contact@tagadabike.com?subject=Tagada Bike - Demande de renseignements'"
             class="p-2 2xl:p-4 3xl:p-8 bg-blue hover:bg-white text-white hover:text-pink text-lg 2xl:text-4xl 3xl:text-5xl uppercase"
@@ -480,14 +538,18 @@
       >
         nos étalons
       </h2>
-      <p class="text-lg xl:text-xl 2xl:text-2xl 3xl:text-3xl text-center uppercase px-4">
+      <p
+        class="text-lg xl:text-xl 2xl:text-2xl 3xl:text-3xl text-center uppercase px-4"
+      >
         Des montures d’exception pour sortir le grand jeu
       </p>
     </div>
     <div
       class="container mx-auto h-full bg-gradient-to-t from-white via-gray-200 to-white mb-12 px-6 2xl:px-40 3xl:px-96"
     >
-      <div class="mx-auto flex flex-col lg:flex-row px-4 xl:px-16 2xl:px-32 xl:pb-16">
+      <div
+        class="mx-auto flex flex-col lg:flex-row px-4 xl:px-16 2xl:px-32 xl:pb-16"
+      >
         <div class="lg:order-2 lg:w-5/12 2xl:p-0 2xl:mb-24">
           <img
             class="rounded-lg opacity-90 md:mx-auto md:w-[320px] lg:w-[650px] xl:[w-850px] 2xl:pr-40"
@@ -495,7 +557,9 @@
             alt="éco-triporteur modèle Rocket"
           />
         </div>
-        <div class="lg:order-1 lg:w-7/12 flex flex-col items-center justify-center">
+        <div
+          class="lg:order-1 lg:w-7/12 flex flex-col items-center justify-center"
+        >
           <img
             src="../assets/Rocket.svg"
             alt="éco-triporteur logo modèle Rocket"
@@ -508,7 +572,7 @@
         </div>
       </div>
       <div class="mx-auto flex flex-col lg:flex-row px-4 xl:px-16 2xl:px-32">
-        <div class=" lg:w-5/12 2xl:p-0">
+        <div class="lg:w-5/12 2xl:p-0">
           <img
             class="rounded-lg opacity-90 md:mx-auto md:w-[320px] lg:w-[650px] 2xl:pl-40"
             src="../assets/Ringo.png"
@@ -662,11 +726,8 @@
   </section>
 
   <!-- footer -->
-  <footer
-    text-center
-    class="w-full bg-pink h-fit pt-16 pb-12"
-  >
-  <div class="mx-auto pb-16">
+  <footer text-center class="w-full bg-pink h-fit pt-16 pb-12">
+    <div class="mx-auto pb-16">
       <h2
         class="text-xl xl:text-4xl 2xl:text-4xl 3xl:text-5xl text-center text-white font-extrabold uppercase pb-10"
       >
@@ -689,10 +750,14 @@
         <div
           class="w-full pb-10 lg-pb-0 lg:w-4/12 text-center lg:text-left text-sm"
         >
-          <h4 class="text-white font-bold uppercase text-md xl:text-lg 2xl:text-2xl pb-2">
+          <h4
+            class="text-white font-bold uppercase text-md xl:text-lg 2xl:text-2xl pb-2"
+          >
             Le quinté gagnant
           </h4>
-          <ul class="text-white text-xs 2xl:text-sm lg:list-disc xl:pt-10 2xl:pt-0">
+          <ul
+            class="text-white text-xs 2xl:text-sm lg:list-disc xl:pt-10 2xl:pt-0"
+          >
             <li>Agence évènementielle</li>
             <li>Traiteur – Restauration – Hôtellerie</li>
             <li>Festival – Rassemblement festif</li>
@@ -702,17 +767,21 @@
         <div class="lg:hidden mx-auto h-0.5 w-12 mb-8 bg-white"></div>
         <div class="w-full pb-10 lg-pb-0 lg:w-4/12 text-center text-sm">
           <h4 class="lg:hidden text-white uppercase text-md font-bold">
-            triporteurs <br />éco-conçus <br />pour événements <br />à votre image
+            triporteurs <br />éco-conçus <br />pour événements <br />à votre
+            image
           </h4>
-          <h4 class="hidden lg:block text-white uppercase text-md xl:text-lg 2xl:text-2xl font-bold">
+          <h4
+            class="hidden lg:block text-white uppercase text-md xl:text-lg 2xl:text-2xl font-bold"
+          >
             triporteurs éco-conçus pour événements à votre image
           </h4>
           <br />
           <span class="text-white text-xs italic"
             >Parier comporte des risques, sauf avec Tagada Bike, la valeur sure
-            pour vos <bold>évènements</bold>, <bold>lancement de produits</bold>,
-            <bold>activation de marque</bold>, <bold>points d’information</bold>,
-            <bold>Food show</bold>...</span
+            pour vos <bold>évènements</bold>,
+            <bold>lancement de produits</bold>,
+            <bold>activation de marque</bold>,
+            <bold>points d’information</bold>, <bold>Food show</bold>...</span
           >
         </div>
         <div class="lg:hidden mx-auto h-0.5 w-12 mb-8 bg-white"></div>
@@ -720,23 +789,25 @@
           <h4 class="lg:hidden text-white font-bold uppercase text-md pb-2">
             pas <br />de formulaire <br />à remplir
           </h4>
-          <h4 class="hidden lg:block text-white font-bold uppercase text-md xl:text-lg 2xl:text-2xl pb-2">
+          <h4
+            class="hidden lg:block text-white font-bold uppercase text-md xl:text-lg 2xl:text-2xl pb-2"
+          >
             pas de formulaire à remplir
           </h4>
           <div class="xl:pt-10 2xl:pt-0">
             <span class="text-white text-xs 2xl:text-sm"
-              >Vous avez déjà bien à faire, <br/>à nous de cravacher.</span
+              >Vous avez déjà bien à faire, <br />à nous de cravacher.</span
             ><br />
             <span class="text-white text-xs 2xl:text-sm pl-12"
-              >Alors appelez nous,<br/> whatsappez nous, <br/>mailez-nous, <br />et on vous
-              répondra au galop !</span
+              >Alors appelez nous,<br />
+              whatsappez nous, <br />mailez-nous, <br />et on vous répondra au
+              galop !</span
             >
           </div>
         </div>
       </div>
     </div>
   </footer>
-
 </template>
 
 <style></style>
