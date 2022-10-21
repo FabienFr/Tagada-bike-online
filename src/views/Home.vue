@@ -638,7 +638,7 @@
         </p>
         <button
           onclick="location.href='mailto:contact@tagadabike.com?subject=Tagada Bike - Demande de renseignements'"
-          class="relative mx-auto rounded-full flex items-center justify-center h-8 w-32 mt-8 py-6 bg-pink hover:bg-yellow text-blue font-extrabold uppercase"
+          class="relative mx-auto rounded-full flex items-center justify-center h-8 w-32 mt-8 py-6 bg-yellow hover:bg-pink text-blue font-extrabold uppercase"
         >
           contact
         </button>
