@@ -807,6 +807,19 @@
         </div>
       </div>
     </div>
+    <div class="container flex mx-auto justify-center">
+      <a
+        aria-label="Chat on WhatsApp"
+        href="https://wa.me/673711744"
+        target="_blank"
+      >
+        <img
+          alt="Chat on WhatsApp"
+          src="../assets/whatsapp-100.svg"
+          class="h-16"
+        />
+      </a>
+    </div>
   </footer>
 </template>
 
