@@ -565,7 +565,7 @@
             alt="éco-triporteur logo modèle Rocket"
             class="h-24 mt-6 mb-4"
           />
-          <h4 class="text-blue text-lg lg:text-xl 2xl:text-3xl text-center font-bold py-6">Set DJ <br/>pour animations de qualité</h4>
+          <h4 class="text-blue text-lg lg:text-xl xl:text-2xl 2xl:text-3xl text-center font-bold py-6">Set DJ <br/>pour animations de qualité</h4>
           <p class="2xl:text-2xl px-4 pb-20 md:px-48 3xl:px-40 lg:px-6">
             Lumières et sound-system intégré, avec Rocket c’est toute la
             cavalerie qui débarque en fanfare.
@@ -586,7 +586,7 @@
             alt="éco-triporteur logo modèle Ringo"
             class="h-24 mt-6 mb-4"
           />
-          <h4 class="text-pink text-lg lg:text-xl 2xl:text-3xl text-center font-bold py-6">Set environnement <br/>pour animations responsables</h4>
+          <h4 class="text-pink text-lg lg:text-xl xl:text-2xl 2xl:text-3xl text-center font-bold py-6">Set environnement <br/>pour animations responsables</h4>
           <p class="2xl:text-2xl px- md:px-48 3xl:px-40 lg:px-6">
             Amis des festivals ou des opérations de street cleaning, Ringo est
             le compagnon de ceux qui s’engagent.
