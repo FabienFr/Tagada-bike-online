@@ -164,7 +164,7 @@
       </p>
     </div>
     <div
-      class="container relative mx-auto grid grid-cols-1 md:grid-cols-2 px-6 sm:px-32 2xl:px-96"
+      class="container relative mx-auto grid grid-cols-1 md:grid-cols-2 px-6 sm:px-32 xl:px-60 2xl:px-144"
     >
       <div
         class="order-1 flex flex-col items-center justify-center md:my-2 lg:mx-8"
@@ -175,7 +175,7 @@
           class="h-12 sm:h-10 xl:h-20 mt-2 mb-6"
         />
         <p
-          class="text-sm xl:text-xl 2xl:text-2xl px-0 sm:px-4 xl:px-4 2xl:px-8 3xl:px-48 pb-6"
+          class="text-sm xl:text-xl 2xl:text-2xl px-0 sm:px-4 xl:px-4 2xl:px-8 pb-6"
         >
           Tendre et malicieux, avec sa robe acidulée et son allure printanière,
           Lucky saura user de son charme pour toutes vos opérations séduction.
@@ -215,7 +215,7 @@
           class="h-10 sm:h-8 xl:h-16 mt-2 mb-6"
         />
         <p
-          class="text-sm xl:text-xl 2xl:text-2xl px-0 sm:px-4 xl:px-4 2xl:px-8 3xl:px-48 pb-6"
+          class="text-sm xl:text-xl 2xl:text-2xl px-0 sm:px-4 xl:px-4 2xl:px-8 pb-6"
         >
           Précieux et élégant. Avec ses effets marbrés et supports cuivrés, le
           charme de Ruby ne passe pas inaperçu lorsqu’il s’agit d’épater la
@@ -256,7 +256,7 @@
           class="h-12 sm:h-8 xl:h-20 mt-2 mb-6"
         />
         <p
-          class="text-sm xl:text-xl 2xl:text-2xl px-0 sm:px-4 xl:px-4 2xl:px-8 3xl:px-48 pb-6"
+          class="text-sm xl:text-xl 2xl:text-2xl px-0 sm:px-4 xl:px-4 2xl:px-8 pb-6"
         >
           Intrépide et élancé, des lignes droites, un design épuré sur une robe
           monochrome. Derrière son apparente sobriété se cache un atout de choix
@@ -598,7 +598,7 @@
       </p>
     </div>
     <div
-      class="container relative mx-auto grid grid-cols-1 md:grid-cols-2 px-6 sm:px-32 2xl:px-96"
+      class="container relative mx-auto grid grid-cols-1 md:grid-cols-2 px-6 sm:px-32 xl:px-60 2xl:px-144"
     >
       <div
         class="order-1 flex flex-col items-center justify-center md:my-2 lg:mx-8"
@@ -608,8 +608,8 @@
           alt="éco-triporteur logo modèle Lucky"
           class="h-12 sm:h-10 xl:h-28 mt-2 mb-6"
         />
-        <h4 class="text-blue text-lg lg:text-xl 2xl:text-3xl text-center font-bold py-6">Set DJ <br/>pour animations de qualité</h4>
-        <p class="2xl:text-2xl px-4 pb-20 2xl:px-48 3xl:px-40 lg:px-6 text-center">
+        <h4 class="text-blue text-lg lg:text-xl 2xl:text-3xl text-center font-bold sm:py-6">Set DJ <br/>pour animations de qualité</h4>
+        <p class="2xl:text-2xl px-4 pb-8 2xl:pb-20 2xl:px-48 3xl:px-40 lg:px-3 text-center">
           Lumières et sound-system intégré, avec Rocket c’est toute la
           cavalerie qui débarque en fanfare.
         </p>
@@ -647,8 +647,8 @@
           alt="éco-triporteur logo modèle Ringo"
           class="h-12 sm:h-10 xl:h-28 mt-2 mb-6"
         />
-        <h4 class="text-pink text-lg lg:text-xl 2xl:text-3xl text-center font-bold py-6">Set environnement <br/>pour animations responsables</h4>
-        <p class="2xl:text-2xl px-4 pb-20 2xl:px-48 3xl:px-40 lg:px-3 text-center">
+        <h4 class="text-pink text-lg lg:text-xl 2xl:text-3xl text-center font-bold sm:py-6">Set environnement <br/>pour animations responsables</h4>
+        <p class="2xl:text-2xl px-4 pb-8 2xl:pb-20 2xl:px-48 3xl:px-40 lg:px-3 text-center">
           Amis des festivals ou des opérations de street cleaning, Ringo est
           le compagnon de ceux qui s’engagent.
         </p>

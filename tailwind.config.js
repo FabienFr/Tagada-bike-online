@@ -12,6 +12,10 @@ module.exports = {
         "3xl": "1980px",
         "4xl": "2560px",
       },
+      spacing: {
+        '128': '32rem',
+        '144': '36rem',
+      }
     },
   },
   plugins: [],
