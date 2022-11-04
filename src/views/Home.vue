@@ -37,15 +37,15 @@
           </div>
           <div class="sm:hidden flex flex-row mt-5">
             <div class="px-6 w-1/2">
-              <h4
-                class="text-lg font-bold tracking-wide leading-tight hover:text-pink text-gray-800 text-center py-5"
+              <button
+                class="text-lg font-bold tracking-wide leading-tight hover:text-pink text-gray-800 text-center pb-5"
               >
                 <a href="#ecurie" aria-label="Section écurie"> ECURIE </a>
-              </h4>
+              </button>
             </div>
             <div class="px-6 w-1/2">
-              <h4
-                class="text-lg font-bold tracking-wide leading-tight hover:text-pink text-gray-800 text-center py-5"
+              <button
+                class="text-lg font-bold tracking-wide leading-tight hover:text-pink text-gray-800 text-center pb-5"
               >
                 <a
                   href="mailto:contact@tagadabike.com?subject=Tagada Bike - Demande de renseignements"
@@ -53,7 +53,7 @@
                 >
                   CONTACT
                 </a>
-              </h4>
+              </button>
             </div>
           </div>
         </nav>
@@ -69,7 +69,7 @@
           src="../assets/Memories_video_home_Tagada_Bike.mp4"
         >
           <div class="video-error text-pink border-2 p-4">
-            Problème de réseau...
+            Désolé, problème de réseau...
           </div>
         </video>
       </div>
@@ -95,13 +95,13 @@
     <img
       id="losange4"
       src="../assets/LosangeRose.svg"
-      class="absolute opacity-80 top-[44%] right-6 h-24 lg:h-36 xl:h-48 2xl:h-72"
+      class="absolute opacity-80 top-[44%] right-1 md:right-6 h-24 lg:h-36 xl:h-48 2xl:h-72"
       alt=""
     />
     <img
       id="losange5"
       src="../assets/LosangeRose.svg"
-      class="absolute opacity-80 top-[44%] left-6 h-24 lg:h-36 xl:h-48 2xl:h-72"
+      class="absolute opacity-80 top-[44%] left-1 md:left-6 h-24 lg:h-36 xl:h-48 2xl:h-72"
       alt=""
     />
     <!-- <img
@@ -134,7 +134,7 @@
       class="absolute xl:hidden opacity-80 -bottom-[6%] md:-bottom-[2%] w-full mx-auto h-24 lg:h-36 xl:h-48"
       alt=""
     />
-    <div class="mx-auto h-1/6 pt-8 pb-16 md:pt-12 md:pb-36 lg:pt-16 xl:pb-20">
+    <div class="mx-auto h-1/6 pt-8 pb-16 md:pt-12 lg:pt-16 xl:pt-20 md:pb-36 xl:pb-20">
       <div class="hidden xl:block mx-auto h-0.5 w-12 mb-8 bg-pink"></div>
       <h1
         class="text-xl xl:text-5xl 2xl:text-5xl 3xl:text-6xl text-center text-pink font-extrabold uppercase"
@@ -149,7 +149,7 @@
   <!-- Ecurie -->
   <section
     id="ecurie"
-    class="overflow-hidden mt-10 xl:mt-2 pt-6 bg-gradient-to-b from-white via-gray-200 to-white"
+    class="overflow-hidden mt-10 xl:mt-0 pt-6 bg-gradient-to-b from-white via-gray-200 to-white"
   >
     <div class="mx-auto">
       <h2
@@ -164,7 +164,7 @@
       </p>
     </div>
     <div
-      class="container relative mx-auto grid grid-cols-1 md:grid-cols-2 px-12 sm:px-22"
+      class="container relative mx-auto grid grid-cols-1 md:grid-cols-2 px-6 sm:px-32 2xl:px-96"
     >
       <div
         class="order-1 flex flex-col items-center justify-center md:my-2 lg:mx-8"
@@ -185,21 +185,21 @@
         <swiper :navigation="true" :modules="modules" class="mySwiper">
           <swiper-slide>
             <img
-              src="../assets/bg-products/1.png"
+              src="../assets/Lucky/Eco_triporteur_lucky_2.jpeg"
               alt="éco-triporteur modèle Lucky"
               class="w-42"
             />
           </swiper-slide>
           <swiper-slide>
             <img
-              src="../assets/bg-products/1.png"
+              src="../assets/Lucky/Eco_triporteur_lucky_1.png"
               alt="éco-triporteur modèle Lucky"
               class="w-42"
             />
           </swiper-slide>
           <swiper-slide>
             <img
-              src="../assets/bg-products/1.png"
+              src="../assets/Lucky/Eco_triporteur_lucky_3.jpeg"
               alt="éco-triporteur modèle Lucky"
               class="w-42"
             />
@@ -226,22 +226,22 @@
         <swiper :navigation="true" :modules="modules" class="mySwiper">
           <swiper-slide>
             <img
-              src="../assets/bg-products/3.png"
-              alt="éco-triporteur modèle Lucky"
+              src="../assets/Ruby/Eco_triporteur_ruby_2.jpeg"
+              alt="éco-triporteur modèle Ruby"
               class="w-42"
             />
           </swiper-slide>
           <swiper-slide>
             <img
-              src="../assets/bg-products/3.png"
-              alt="éco-triporteur modèle Lucky"
+              src="../assets/Ruby/Eco_triporteur_ruby_3.jpg"
+              alt="éco-triporteur modèle Ruby"
               class="w-42"
             />
           </swiper-slide>
           <swiper-slide>
             <img
-              src="../assets/bg-products/3.png"
-              alt="éco-triporteur modèle Lucky"
+              src="../assets/Ruby/Eco_triporteur_ruby_1.jpeg"
+              alt="éco-triporteur modèle Ruby"
               class="w-42"
             />
           </swiper-slide>
@@ -267,21 +267,21 @@
         <swiper :navigation="true" :modules="modules" class="mySwiper">
           <swiper-slide>
             <img
-              src="../assets/bg-products/5.png"
+              src="../assets/Tornado/Eco_triporteur_tornado_1.jpg"
               alt="éco-triporteur modèle Lucky"
               class="w-42"
             />
           </swiper-slide>
           <swiper-slide>
             <img
-              src="../assets/bg-products/5.png"
+              src="../assets/Tornado/Eco_triporteur_tornado_3.jpg"
               alt="éco-triporteur modèle Lucky"
               class="w-42"
             />
           </swiper-slide>
           <swiper-slide>
             <img
-              src="../assets/bg-products/5.png"
+              src="../assets/Tornado/Eco_triporteur_tornado_2.jpg"
               alt="éco-triporteur modèle Lucky"
               class="w-42"
             />
@@ -301,7 +301,7 @@
     </div>
     <div class="pt-20">
       <div class="flex w-full mx-auto justify-center top-[30%]">
-        <img src="../assets/tagadaBump.svg" class="h-20" alt="" />
+        <img src="../assets/tagadaBump.svg" class="h-16" alt="" />
       </div>
       <p
         class="mx-auto w-[300px] sm:w-[600px] xl:w-[800px] text-xl xl:text-3xl text-center text-pink font-bold p-6 mt-2"
@@ -598,7 +598,7 @@
       </p>
     </div>
     <div
-      class="container relative mx-auto grid grid-cols-1 md:grid-cols-2 px-12 sm:px-22"
+      class="container relative mx-auto grid grid-cols-1 md:grid-cols-2 px-6 sm:px-32 2xl:px-96"
     >
       <div
         class="order-1 flex flex-col items-center justify-center md:my-2 lg:mx-8"
@@ -606,10 +606,10 @@
         <img
           src="../assets/Rocket.svg"
           alt="éco-triporteur logo modèle Lucky"
-          class="h-12 sm:h-10 xl:h-20 mt-2 mb-6"
+          class="h-12 sm:h-10 xl:h-28 mt-2 mb-6"
         />
         <h4 class="text-blue text-lg lg:text-xl 2xl:text-3xl text-center font-bold py-6">Set DJ <br/>pour animations de qualité</h4>
-        <p class="2xl:text-2xl px-4 pb-20 md:px-48 3xl:px-40 lg:px-6 text-center">
+        <p class="2xl:text-2xl px-4 pb-20 2xl:px-48 3xl:px-40 lg:px-6 text-center">
           Lumières et sound-system intégré, avec Rocket c’est toute la
           cavalerie qui débarque en fanfare.
         </p>
@@ -618,21 +618,21 @@
         <swiper :navigation="true" :modules="modules" class="mySwiper">
           <swiper-slide>
             <img
-              src="../assets/Rocket.png"
+              src="../assets/Rocket/Eco_triporteur_rocket_3.jpg"
               alt="éco-triporteur modèle Rocket"
               class="w-42"
             />
           </swiper-slide>
           <swiper-slide>
             <img
-              src="../assets/Rocket.png"
+              src="../assets/Rocket/Eco_triporteur_rocket_1.png"
               alt="éco-triporteur modèle Lucky"
               class="w-42"
             />
           </swiper-slide>
           <swiper-slide>
             <img
-              src="../assets/Rocket.png"
+              src="../assets/Rocket/Eco_triporteur_rocket_2.jpeg"
               alt="éco-triporteur modèle Lucky"
               class="w-42"
             />
@@ -645,10 +645,10 @@
         <img
           src="../assets/Ringo.svg"
           alt="éco-triporteur logo modèle Ringo"
-          class="h-12 sm:h-10 xl:h-20 mt-2 mb-6"
+          class="h-12 sm:h-10 xl:h-28 mt-2 mb-6"
         />
         <h4 class="text-pink text-lg lg:text-xl 2xl:text-3xl text-center font-bold py-6">Set environnement <br/>pour animations responsables</h4>
-        <p class="2xl:text-2xl px-4 pb-20 md:px-48 3xl:px-40 lg:px-3 text-center">
+        <p class="2xl:text-2xl px-4 pb-20 2xl:px-48 3xl:px-40 lg:px-3 text-center">
           Amis des festivals ou des opérations de street cleaning, Ringo est
           le compagnon de ceux qui s’engagent.
         </p>
@@ -657,21 +657,21 @@
         <swiper :navigation="true" :modules="modules" class="mySwiper">
           <swiper-slide>
             <img
-              src="../assets/Ringo.png"
+              src="../assets/Ringo/Eco_triporteur_ringo_2.jpg"
               alt="éco-triporteur modèle Ringo"
               class="w-42"
             />
           </swiper-slide>
           <swiper-slide>
             <img
-              src="../assets/Ringo.png"
+              src="../assets/Ringo/Eco_triporteur_ringo_3.jpg"
               alt="éco-triporteur modèle Ringo"
               class="w-42"
             />
           </swiper-slide>
           <swiper-slide>
             <img
-              src="../assets/Ringo.png"
+              src="../assets/Ringo/Eco_triporteur_ringo_1.png"
               alt="éco-triporteur modèle Ringo"
               class="w-42"
             />
