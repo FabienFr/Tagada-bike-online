@@ -828,7 +828,7 @@
       >
         <img
           alt="Linkedin link"
-          src="../assets/Linkedin_icon.svg"
+          src="../assets/linkedin_icon.svg"
           class="px-5 h-10 md:h-12"
         />
       </a>
