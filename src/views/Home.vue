@@ -169,7 +169,6 @@
       <div
         class="order-1 flex flex-col items-center justify-center md:my-2 lg:mx-8"
       >
-        <!-- <h4 class="text-5xl lg:text-7xl pb-4 lg:pb-12">LUCKY</h4> -->
         <img
           src="../assets/Lucky.png"
           alt="éco-triporteur logo modèle Lucky"
@@ -182,12 +181,30 @@
           Lucky saura user de son charme pour toutes vos opérations séduction.
         </p>
       </div>
-      <div class="order-2">
-        <img
-          src="../assets/bg-products/1.png"
-          alt="éco-triporteur modèle Lucky"
-          class="w-42 pb-20 md:pb-0"
-        />
+      <div class="order-2 pb-20 md:pb-0">
+        <swiper :navigation="true" :modules="modules" class="mySwiper">
+          <swiper-slide>
+            <img
+              src="../assets/bg-products/1.png"
+              alt="éco-triporteur modèle Lucky"
+              class="w-42"
+            />
+          </swiper-slide>
+          <swiper-slide>
+            <img
+              src="../assets/bg-products/1.png"
+              alt="éco-triporteur modèle Lucky"
+              class="w-42"
+            />
+          </swiper-slide>
+          <swiper-slide>
+            <img
+              src="../assets/bg-products/1.png"
+              alt="éco-triporteur modèle Lucky"
+              class="w-42"
+            />
+          </swiper-slide>
+        </swiper>
       </div>
       <div
         class="order-3 md:order-4 flex flex-col items-center justify-center lg:mx-8 md:my-2"
@@ -205,12 +222,30 @@
           galerie.
         </p>
       </div>
-      <div class="order-4 md:order-3">
-        <img
-          src="../assets/bg-products/3.png"
-          alt="éco-triporteur modèle Ruby"
-          class="w-42 pb-20 md:pb-0"
-        />
+      <div class="order-4 md:order-3 pb-20 md:pb-0">
+        <swiper :navigation="true" :modules="modules" class="mySwiper">
+          <swiper-slide>
+            <img
+              src="../assets/bg-products/3.png"
+              alt="éco-triporteur modèle Lucky"
+              class="w-42"
+            />
+          </swiper-slide>
+          <swiper-slide>
+            <img
+              src="../assets/bg-products/3.png"
+              alt="éco-triporteur modèle Lucky"
+              class="w-42"
+            />
+          </swiper-slide>
+          <swiper-slide>
+            <img
+              src="../assets/bg-products/3.png"
+              alt="éco-triporteur modèle Lucky"
+              class="w-42"
+            />
+          </swiper-slide>
+        </swiper>
       </div>
       <div
         class="order-5 flex flex-col items-center justify-center lg:mx-8 md:my-2"
@@ -229,11 +264,29 @@
         </p>
       </div>
       <div class="order-6">
-        <img
-          src="../assets/bg-products/5.png"
-          alt="éco-triporteur logo modèle Tornado"
-          class="w-42"
-        />
+        <swiper :navigation="true" :modules="modules" class="mySwiper">
+          <swiper-slide>
+            <img
+              src="../assets/bg-products/5.png"
+              alt="éco-triporteur modèle Lucky"
+              class="w-42"
+            />
+          </swiper-slide>
+          <swiper-slide>
+            <img
+              src="../assets/bg-products/5.png"
+              alt="éco-triporteur modèle Lucky"
+              class="w-42"
+            />
+          </swiper-slide>
+          <swiper-slide>
+            <img
+              src="../assets/bg-products/5.png"
+              alt="éco-triporteur modèle Lucky"
+              class="w-42"
+            />
+          </swiper-slide>
+        </swiper>
       </div>
       <img
         src="../assets/BandeEtoilesGauche.svg"
@@ -545,54 +598,96 @@
       </p>
     </div>
     <div
-      class="container mx-auto h-full bg-gradient-to-t from-white via-gray-200 to-white mb-12 px-6 2xl:px-40 3xl:px-96"
+      class="container relative mx-auto grid grid-cols-1 md:grid-cols-2 px-12 sm:px-22"
     >
       <div
-        class="mx-auto flex flex-col lg:flex-row px-4 xl:px-16 2xl:px-32 xl:pb-16"
+        class="order-1 flex flex-col items-center justify-center md:my-2 lg:mx-8"
       >
-        <div class="lg:order-2 lg:w-5/12 2xl:p-0 2xl:mb-24">
-          <img
-            class="rounded-lg opacity-90 md:mx-auto md:w-[320px] lg:w-[650px] xl:[w-850px] 2xl:pr-40"
-            src="../assets/Rocket.png"
-            alt="éco-triporteur modèle Rocket"
-          />
-        </div>
-        <div
-          class="lg:order-1 lg:w-7/12 flex flex-col items-center justify-center"
-        >
-          <img
-            src="../assets/Rocket.svg"
-            alt="éco-triporteur logo modèle Rocket"
-            class="h-24 mt-6 mb-4"
-          />
-          <h4 class="text-blue text-lg lg:text-xl 2xl:text-3xl text-center font-bold py-6">Set DJ <br/>pour animations de qualité</h4>
-          <p class="2xl:text-2xl px-4 pb-20 md:px-48 3xl:px-40 lg:px-6">
-            Lumières et sound-system intégré, avec Rocket c’est toute la
-            cavalerie qui débarque en fanfare.
-          </p>
-        </div>
+        <img
+          src="../assets/Rocket.svg"
+          alt="éco-triporteur logo modèle Lucky"
+          class="h-12 sm:h-10 xl:h-20 mt-2 mb-6"
+        />
+        <h4 class="text-blue text-lg lg:text-xl 2xl:text-3xl text-center font-bold py-6">Set DJ <br/>pour animations de qualité</h4>
+        <p class="2xl:text-2xl px-4 pb-20 md:px-48 3xl:px-40 lg:px-6 text-center">
+          Lumières et sound-system intégré, avec Rocket c’est toute la
+          cavalerie qui débarque en fanfare.
+        </p>
       </div>
-      <div class="mx-auto flex flex-col lg:flex-row px-4 xl:px-16 2xl:px-32">
-        <div class="lg:w-5/12 2xl:p-0">
-          <img
-            class="rounded-lg opacity-90 md:mx-auto md:w-[320px] lg:w-[650px] 2xl:pl-40"
-            src="../assets/Ringo.png"
-            alt="éco-triporteur modèle Ringo"
-          />
-        </div>
-        <div class="lg:w-7/12 flex flex-col items-center justify-center">
-          <img
-            src="../assets/Ringo.svg"
-            alt="éco-triporteur logo modèle Ringo"
-            class="h-24 mt-6 mb-4"
-          />
-          <h4 class="text-pink text-lg lg:text-xl 2xl:text-3xl text-center font-bold py-6">Set environnement <br/>pour animations responsables</h4>
-          <p class="2xl:text-2xl px- md:px-48 3xl:px-40 lg:px-6">
-            Amis des festivals ou des opérations de street cleaning, Ringo est
-            le compagnon de ceux qui s’engagent.
-          </p>
-        </div>
+      <div class="order-2 pb-20 md:pb-0">
+        <swiper :navigation="true" :modules="modules" class="mySwiper">
+          <swiper-slide>
+            <img
+              src="../assets/Rocket.png"
+              alt="éco-triporteur modèle Rocket"
+              class="w-42"
+            />
+          </swiper-slide>
+          <swiper-slide>
+            <img
+              src="../assets/Rocket.png"
+              alt="éco-triporteur modèle Lucky"
+              class="w-42"
+            />
+          </swiper-slide>
+          <swiper-slide>
+            <img
+              src="../assets/Rocket.png"
+              alt="éco-triporteur modèle Lucky"
+              class="w-42"
+            />
+          </swiper-slide>
+        </swiper>
       </div>
+      <div
+        class="order-3 md:order-4 flex flex-col items-center justify-center lg:mx-8 md:my-2"
+      >
+        <img
+          src="../assets/Ringo.svg"
+          alt="éco-triporteur logo modèle Ringo"
+          class="h-12 sm:h-10 xl:h-20 mt-2 mb-6"
+        />
+        <h4 class="text-pink text-lg lg:text-xl 2xl:text-3xl text-center font-bold py-6">Set environnement <br/>pour animations responsables</h4>
+        <p class="2xl:text-2xl px-4 pb-20 md:px-48 3xl:px-40 lg:px-3 text-center">
+          Amis des festivals ou des opérations de street cleaning, Ringo est
+          le compagnon de ceux qui s’engagent.
+        </p>
+      </div>
+      <div class="order-4 md:order-3 pb-20 md:pb-0">
+        <swiper :navigation="true" :modules="modules" class="mySwiper">
+          <swiper-slide>
+            <img
+              src="../assets/Ringo.png"
+              alt="éco-triporteur modèle Ringo"
+              class="w-42"
+            />
+          </swiper-slide>
+          <swiper-slide>
+            <img
+              src="../assets/Ringo.png"
+              alt="éco-triporteur modèle Ringo"
+              class="w-42"
+            />
+          </swiper-slide>
+          <swiper-slide>
+            <img
+              src="../assets/Ringo.png"
+              alt="éco-triporteur modèle Ringo"
+              class="w-42"
+            />
+          </swiper-slide>
+        </swiper>
+      </div>
+      <img
+        src="../assets/BandeEtoilesGauche.svg"
+        class="absolute rotate-180 top-0 -left-48 lg:-left-64 h-full"
+        alt=""
+      />
+      <img
+        src="../assets/BandeEtoilesGauche.svg"
+        class="absolute rotate-180 top-0 -right-48 lg:-right-64 h-full"
+        alt=""
+      />
     </div>
   </section>
 
@@ -720,7 +815,7 @@
           <img
             class="rounded-br-full object-cover object-center w-[150px] h-[150px] md:w-[200px] md:h-[200px]"
             src="../assets/Insta4.jpg"
-            alt="éco-triporteur pour vos énénements - JAmel Comedy Club - Juicy création"
+            alt="éco-triporteur pour vos énénements - Jamel Comedy Club - Juicy création"
           />
         </div>
       </a>
@@ -846,5 +941,32 @@
     </div>
   </footer>
 </template>
+
+<script>
+  // Import Swiper Vue.js components
+  import { Swiper, SwiperSlide } from "swiper/vue";
+
+  // Import Swiper styles
+  import "swiper/css";
+
+  import "swiper/css/navigation";
+
+  import "../styles/style.css";
+
+  // import required modules
+  import { Navigation } from "swiper";
+
+  export default {
+    components: {
+      Swiper,
+      SwiperSlide,
+    },
+    setup() {
+      return {
+        modules: [Navigation],
+      };
+    },
+  };
+</script>
 
 <style></style>
