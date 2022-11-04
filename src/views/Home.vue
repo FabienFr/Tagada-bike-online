@@ -251,7 +251,7 @@
         <img src="../assets/tagadaBump.svg" class="h-20" alt="" />
       </div>
       <p
-        class="mx-auto w-[300px] sm:w-[600px] xl:w-[800px] border-4 rounded-lg border-pink border-dotted text-lg xl:text-2xl text-center text-pink p-6 mt-2"
+        class="mx-auto w-[300px] sm:w-[600px] xl:w-[800px] text-xl xl:text-3xl text-center text-pink font-bold p-6 mt-2"
       >
         Tous nos triporteurs sont disponibles à la location <br />pour la durée
         de vos campagnes de communication <br />de 1 jour à plusieurs mois.
@@ -814,9 +814,31 @@
         target="_blank"
       >
         <img
-          alt="Chat on WhatsApp"
+          alt="Chat WhatsApp link"
           src="../assets/whatsapp-100.svg"
-          class="h-12 md:h-16"
+          class="pr-2 h-10 md:h-12"
+        />
+      </a>
+      <a
+        aria-label="Chat on Linkedin"
+        href="https://www.linkedin.com/showcase/tagada-bike/"
+        target="_blank"
+      >
+        <img
+          alt="Linkedin link"
+          src="../assets/Linkedin_icon.svg"
+          class="px-5 h-10 md:h-12"
+        />
+      </a>
+      <a
+        aria-label="Chat on Instagram"
+        href="https://www.instagram.com/tagadabike/?hl=fr"
+        target="_blank"
+      >
+        <img
+          alt="Instagram link"
+          src="../assets/instagram_icon.svg"
+          class="pl-2 h-10 md:h-12"
         />
       </a>
     </div>
