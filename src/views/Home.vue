@@ -822,6 +822,17 @@
         />
       </a>
       <a
+        aria-label="Chat on Linkedin"
+        href="https://www.linkedin.com/showcase/tagada-bike/"
+        target="_blank"
+      >
+        <img
+          alt="Linkedin link"
+          src="../assets/linkedin-icon.svg"
+          class="px-5 h-10 md:h-12"
+        />
+      </a>
+      <a
         aria-label="Chat on Instagram"
         href="https://www.instagram.com/tagadabike/?hl=fr"
         target="_blank"
