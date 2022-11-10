@@ -497,7 +497,7 @@
           src="../assets/Rocket.svg"
           alt="éco-triporteur logo modèle Rocket"
           class="h-12 sm:h-10 xl:h-20 3xl:h-28 mt-2 mb-6" />
-        <h4 class="text-blue text-lg lg:text-xl 2xl:text-3xl text-center font-bold sm:py-6">Set DJ <br />pour animations
+        <h4 class="text-blue text-sm xl:text-xl 2xl:text-2xl  text-center font-bold sm:py-6">Set DJ <br />pour animations
           de qualité</h4>
         <p class="2xl:text-2xl px-4 pb-8 2xl:pb-20 2xl:px-12 3xl:px-40 lg:px-3 text-center">
           Lumières et sound-system intégré, avec Rocket c’est toute la
@@ -532,7 +532,7 @@
           src="../assets/Ringo.svg"
           alt="éco-triporteur logo modèle Ringo"
           class="h-12 sm:h-10 xl:h-20 3xl:h-28 mt-2 mb-6" />
-        <h4 class="text-pink text-lg lg:text-xl 2xl:text-3xl text-center font-bold sm:py-6">Set environnement <br />pour
+        <h4 class="text-pink text-sm xl:text-xl 2xl:text-2xl text-center font-bold sm:py-6">Set environnement <br />pour
           animations responsables</h4>
         <p class="2xl:text-2xl px-4 pb-8 2xl:pb-20 2xl:px-12 3xl:px-40 lg:px-3 text-center">
           Amis des festivals ou des opérations de street cleaning, Ringo est
