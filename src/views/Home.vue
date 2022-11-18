@@ -134,7 +134,7 @@
   <!-- Ecurie -->
   <section
     id="ecurie"
-    class="overflow-hidden mt-10 xl:mt-0 pt-6 bg-gradient-to-b from-white via-gray-200 to-white">
+    class="relative overflow-hidden mt-10 xl:mt-0 pt-6 bg-gradient-to-b from-gray-300 via-gray-200 to-gray-300">
     <div class="mx-auto">
       <h2
         class="text-xl xl:text-4xl 2xl:text-4xl 3xl:text-5xl text-center text-pink mb-4 font-extrabold uppercase">
@@ -146,7 +146,7 @@
       </p>
     </div>
     <div
-      class="container relative mx-auto grid grid-cols-1 md:grid-cols-2 px-6 xl:px-32 3xl:px-96 4xl:px-144 5xl:px-160">
+      class="container mx-auto grid grid-cols-1 md:grid-cols-2 px-6 xl:px-32 3xl:px-96 4xl:px-144 5xl:px-160">
       <div
         class="order-1 flex flex-col items-center justify-center md:my-2 lg:mx-8">
         <img
@@ -252,13 +252,55 @@
         </swiper>
       </div>
       <img
-        src="../assets/BandeEtoilesGauche.svg"
-        class="absolute rotate-180 top-0 -left-60 sm:-left-24 md:-left-12 lg:-left-32 xl:-left-44 2xl:-left-56 h-full"
-        alt="" />
+        src="../assets/Etoile.svg"
+        class="absolute h-20 xl:h-40 2xl:h-44 5xl:h-64 top-[7%] md:top-[12%] -left-8 md:left-6 xl:left-[1%] 2xl:left-1 3xl:left-[8%] 4xl:left-[10%] h-full"
+      />
       <img
-        src="../assets/BandeEtoilesGauche.svg"
-        class="absolute rotate-180 top-0 -right-60 sm:-right-24 lg:-right-32 xl:-right-44 2xl:-right-56 h-full"
-        alt="" />
+        src="../assets/Etoile.svg"
+        class="absolute md:hidden 2xl:block h-20 2xl:h-44 5xl:h-64 top-[7%] xl:top-[12%] -right-8 xl:-right-2 2xl:right-1 3xl:right-[8%] 4xl:right-[10%] h-full" 
+      />
+      <img
+        src="../assets/Etoile.svg"
+        class="absolute hidden md:flex h-20 2xl:h-44 5xl:h-64 top-[17%] md:top-[26%] xl:top-[30%] -left-8 xl:-left-2 2xl:-left-20 h-full" 
+      />
+      <img
+        src="../assets/Etoile.svg"
+        class="absolute md:hidden h-20 2xl:h-44 5xl:h-64 top-[33%] -left-8 md:left-6 h-full" 
+      />
+      <img
+        src="../assets/Etoile.svg"
+        class="absolute hidden xl:block h-20 xl:h-40 2xl:h-44 5xl:h-64 top-[63%] 2xl:top-[70%] -left-16 md:xl:-left-2 xl:left-[1%] 2xl:-left-20 h-full" 
+      />
+      <img
+        src="../assets/Etoile.svg"
+        class="absolute h-20 2xl:h-44 5xl:h-64 top-[58%] md:top-[60%] xl:top-[50%] -left-8 md:left-6 xl:-left-2 2xl:-left-1 3xl:left-[8%] 4xl:left-[10%] h-full" 
+      />
+      <img
+        src="../assets/Etoile.svg"
+        class="absolute hidden md:flex h-20 2xl:h-44 5xl:h-64 top-[90%] md:top-[74%] xl:top-[80%] 2xl:top-[90%] -left-16 md:-left-6 xl:-left-2 2xl:left-[1%] 3xl:left-[8%] 4xl:left-[10%] h-full"
+      />
+      <img
+        src="../assets/Etoile.svg"
+        class="absolute hidden xl:flex h-20  2xl:h-44 5xl:h-64 top-[30%] xl:top-[24%] 2xl:top-[30%] -right-16 xl:-right-2 2xl:-right-20 h-full" 
+      />
+      <img
+        src="../assets/Etoile.svg"
+        class="absolute h-20 xl:h-40 2xl:h-44 5xl:h-64 top-[33%] md:top-[36%] xl:top-[38%] 2xl:top-[50%] -right-8 md:right-6 3xl:right-[8%] 4xl:right-[10%] h-full" 
+      />
+
+      <img
+        src="../assets/Etoile.svg"
+        class="absolute hidden md:flex h-20 2xl:h-44 5xl:h-64 top-[60%] md:top-[50%] xl:top-[56%] 2xl:top-[70%] -right-16 md:-right-6 xl:-right-2 2xl:-right-20 h-full" 
+      />
+
+      <img
+        src="../assets/Etoile.svg"
+        class="absolute md:hidden h-20 2xl:h-44 5xl:h-64 top-[58%] -right-8 h-full" 
+      />
+      <img
+        src="../assets/Etoile.svg"
+        class="absolute hidden 2xl:block h-20 2xl:h-44 5xl:h-64 top-[90%] -right-16 xl:-right-2 2xl:right-[1%] 3xl:right-[8%] 4xl:right-[10%] h-full" 
+      />
     </div>
     <div class="pt-20">
       <div class="flex w-full mx-auto justify-center top-[30%]">
@@ -472,16 +514,71 @@
   </section>
 
   <!-- Etalons -->
-  <section class="mx-auto overflow-hidden relative mt-20 bg-gradient-to-b from-white via-gray-200 to-white">
-    <div class="opacity-50">
+  <section class="mx-auto relative overflow-hidden relative mt-20 bg-gradient-to-b from-gray-300 via-gray-200 to-gray-300">
+    <div class="opacity-70">
       <img
-        src="../assets/BandeDePoints.svg"
-        class="absolute top-0 -left-16 xl:-left-2 3xl:left-32 5xl:left-68 h-full"
-        alt="" />
+        src="../assets/PointB.svg"
+        class="absolute h-14 xl:h-16 2xl:h-24 top-[1%] -left-2 h-full"
+      />
       <img
-        src="../assets/BandeDePoints.svg"
-        class="absolute rotate-180 top-0 -right-16 xl:-right-2 3xl:right-32 5xl:right-68 w-64 h-full"
-        alt="" />
+        src="../assets/PointB.svg"
+        class="absolute h-14 xl:h-16 top-[16%] -left-2 lg:left-[4%] 3xl:left-[8%] 4xl:left-[10%] h-full"
+      />
+      <img
+        src="../assets/PointB.svg"
+        class="absolute h-14 xl:h-16 2xl:h-24 top-[30%] -left-2 xl:-left-2 h-full"
+      />
+      <img
+        src="../assets/PointB.svg"
+        class="absolute h-14 xl:h-16 top-[45%] -left-2 lg:left-[4%] 3xl:left-[8%] 4xl:left-[10%] h-full"
+      />
+      <img
+        src="../assets/PointB.svg"
+        class="absolute h-14 xl:h-16 2xl:h-24 top-[60%] -left-2 xl:-left-2 h-full"
+      />
+      <img
+        src="../assets/PointB.svg"
+        class="absolute h-14 xl:h-16 top-[75%] -left-2 lg:left-[4%] 3xl:left-[8%] 4xl:left-[10%] h-full" 
+      />
+      <img
+        src="../assets/PointB.svg"
+        class="absolute h-14 xl:h-16 2xl:h-24 top-[90%] -left-2 xl:-left-2 h-full"
+      />
+      <img
+        src="../assets/PointB.svg"
+        class="absolute h-14 xl:h-16 top-[105%] -left-2 xl:-left-2 3xl:right-[8%] 4xl:left-[10%] h-full"
+      />
+      <img
+        src="../assets/PointB.svg"
+        class="absolute h-14 xl:h-16 2xl:h-24 top-[1%] -right-2 lg:right-[4%] xl:-right-2 h-full" />
+      <img
+        src="../assets/PointB.svg"
+        class="absolute h-14 xl:h-16 top-[16%] -right-2 xl:right-[4%] 3xl:right-[8%] 4xl:right-[10%] h-full"
+      />
+      <img
+        src="../assets/PointB.svg"
+        class="absolute h-14 xl:h-16 2xl:h-24 top-[30%] -right-2 lg:right-[4%] xl:-right-2 h-full"
+      />
+      <img
+        src="../assets/PointB.svg"
+        class="absolute h-14 xl:h-16 top-[45%] -right-2 xl:right-[4%] 3xl:right-[8%] 4xl:right-[10%] h-full"
+      />
+      <img
+        src="../assets/PointB.svg"
+        class="absolute h-14 xl:h-16 2xl:h-24 top-[60%] -right-2 lg:right-[4%] xl:-right-2 h-full"
+      />
+      <img
+        src="../assets/PointB.svg"
+        class="absolute h-14 xl:h-16 top-[75%] -right-2 xl:right-[4%] 3xl:right-[8%] 4xl:right-[10%] h-full" 
+      />
+      <img
+        src="../assets/PointB.svg"
+        class="absolute h-14 xl:h-16 2xl:h-24 top-[90%] -right-2 lg:right-[4%] xl:-right-2 h-full"
+      />
+      <img
+        src="../assets/PointB.svg"
+        class="absolute h-14 xl:h-16 top-[105%] -right-2 xl:right-[4%] 3xl:right-[8%] 4xl:right-[10%] h-full"
+      />
     </div>
     <div class="mx-auto mb-16">
       <h2
