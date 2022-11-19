@@ -134,7 +134,7 @@
   <!-- Ecurie -->
   <section
     id="ecurie"
-    class="relative overflow-hidden mt-10 xl:mt-0 pt-6 bg-gradient-to-b from-gray-300 via-gray-200 to-gray-300">
+    class="relative overflow-hidden mt-10 xl:mt-0 pt-6 bg-gradient-to-b from-white via-gray-200 to-white">
     <div class="mx-auto">
       <h2
         class="text-xl xl:text-4xl 2xl:text-4xl 3xl:text-5xl text-center text-pink mb-4 font-extrabold uppercase">
@@ -252,54 +252,64 @@
         </swiper>
       </div>
       <img
+        id="etoile1"
         src="../assets/Etoile.svg"
-        class="absolute h-20 xl:h-40 2xl:h-44 5xl:h-64 top-[7%] md:top-[12%] -left-8 md:left-6 xl:left-[1%] 2xl:left-1 3xl:left-[8%] 4xl:left-[10%] h-full"
+        class="absolute h-[80px] xl:h-[140px] 2xl:h-[176px] 5xl:h-[256px] top-[7%] md:top-[12%] -left-8 md:left-6 xl:left-[1%] 2xl:left-1 3xl:left-[8%] 4xl:left-[10%]"
       />
       <img
+        id="etoile2"
         src="../assets/Etoile.svg"
-        class="absolute md:hidden 2xl:block h-20 2xl:h-44 5xl:h-64 top-[7%] xl:top-[12%] -right-8 xl:-right-2 2xl:right-1 3xl:right-[8%] 4xl:right-[10%] h-full" 
+        class="absolute md:hidden 2xl:block h-[80px] xl:h-[140px] 2xl:h-[176px] 5xl:h-[256px] top-[7%] xl:top-[12%] -right-8 xl:-right-2 2xl:right-1 3xl:right-[8%] 4xl:right-[10%]" 
       />
       <img
+        id="etoile3"
         src="../assets/Etoile.svg"
-        class="absolute hidden md:flex h-20 2xl:h-44 5xl:h-64 top-[17%] md:top-[26%] xl:top-[30%] -left-8 xl:-left-2 2xl:-left-20 h-full" 
+        class="absolute hidden md:flex h-[80px] xl:h-[140px] 2xl:h-[176px] 5xl:h-[256px] top-[17%] md:top-[26%] xl:top-[30%] -left-8 xl:-left-2 2xl:-left-20" 
       />
       <img
+        id="etoile4"
         src="../assets/Etoile.svg"
-        class="absolute md:hidden h-20 2xl:h-44 5xl:h-64 top-[33%] -left-8 md:left-6 h-full" 
+        class="absolute md:hidden h-[80px] xl:h-[140px] 2xl:h-[176px] 5xl:h-[256px] top-[33%] -left-8 md:left-6" 
       />
       <img
+        id="etoile5"
         src="../assets/Etoile.svg"
-        class="absolute hidden xl:block h-20 xl:h-40 2xl:h-44 5xl:h-64 top-[63%] 2xl:top-[70%] -left-16 md:xl:-left-2 xl:left-[1%] 2xl:-left-20 h-full" 
+        class="absolute hidden xl:block h-[80px] xl:h-[140px] 2xl:h-[176px] 5xl:h-[256px] top-[63%] 2xl:top-[70%] -left-16 md:xl:-left-2 xl:left-[1%] 2xl:-left-20" 
       />
       <img
+        id="etoile6"
         src="../assets/Etoile.svg"
-        class="absolute h-20 2xl:h-44 5xl:h-64 top-[58%] md:top-[60%] xl:top-[50%] -left-8 md:left-6 xl:-left-2 2xl:-left-1 3xl:left-[8%] 4xl:left-[10%] h-full" 
+        class="absolute h-[80px] xl:h-[140px] 2xl:h-[176px] 5xl:h-[256px] top-[58%] md:top-[60%] xl:top-[50%] -left-8 md:left-6 xl:-left-2 2xl:-left-1 3xl:left-[8%] 4xl:left-[10%]" 
       />
       <img
+        id="etoile7"
         src="../assets/Etoile.svg"
-        class="absolute hidden md:flex h-20 2xl:h-44 5xl:h-64 top-[90%] md:top-[74%] xl:top-[80%] 2xl:top-[90%] -left-16 md:-left-6 xl:-left-2 2xl:left-[1%] 3xl:left-[8%] 4xl:left-[10%] h-full"
+        class="absolute hidden md:flex h-[80px] xl:h-[140px] 2xl:h-[176px] 5xl:h-[256px] top-[90%] md:top-[74%] xl:top-[80%] 2xl:top-[90%] -left-16 md:-left-6 xl:-left-2 2xl:left-[1%] 3xl:left-[8%] 4xl:left-[10%]"
       />
       <img
+        id="etoile8"
         src="../assets/Etoile.svg"
-        class="absolute hidden xl:flex h-20  2xl:h-44 5xl:h-64 top-[30%] xl:top-[24%] 2xl:top-[30%] -right-16 xl:-right-2 2xl:-right-20 h-full" 
+        class="absolute hidden xl:flex h-[80px] xl:h-[140px] 2xl:h-[176px] 5xl:h-[256px] top-[30%] xl:top-[24%] 2xl:top-[30%] -right-16 xl:-right-2 2xl:-right-20" 
       />
       <img
+        id="etoile9"
         src="../assets/Etoile.svg"
-        class="absolute h-20 xl:h-40 2xl:h-44 5xl:h-64 top-[33%] md:top-[36%] xl:top-[38%] 2xl:top-[50%] -right-8 md:right-6 3xl:right-[8%] 4xl:right-[10%] h-full" 
-      />
-
-      <img
-        src="../assets/Etoile.svg"
-        class="absolute hidden md:flex h-20 2xl:h-44 5xl:h-64 top-[60%] md:top-[50%] xl:top-[56%] 2xl:top-[70%] -right-16 md:-right-6 xl:-right-2 2xl:-right-20 h-full" 
-      />
-
-      <img
-        src="../assets/Etoile.svg"
-        class="absolute md:hidden h-20 2xl:h-44 5xl:h-64 top-[58%] -right-8 h-full" 
+        class="absolute h-[80px] xl:h-[140px] 2xl:h-[176px] 5xl:h-[256px] top-[33%] md:top-[36%] xl:top-[38%] 2xl:top-[50%] -right-8 md:right-6 3xl:right-[8%] 4xl:right-[10%]" 
       />
       <img
+        id="etoile10"
         src="../assets/Etoile.svg"
-        class="absolute hidden 2xl:block h-20 2xl:h-44 5xl:h-64 top-[90%] -right-16 xl:-right-2 2xl:right-[1%] 3xl:right-[8%] 4xl:right-[10%] h-full" 
+        class="absolute hidden md:block h-[80px] xl:h-[140px] 2xl:h-[176px] 5xl:h-[256px] top-[60%] md:top-[50%] xl:top-[56%] 2xl:top-[70%] -right-16 md:-right-6 xl:-right-2 2xl:-right-20" 
+      />
+      <img
+        id="etoile11"
+        src="../assets/Etoile.svg"
+        class="absolute md:hidden h-[80px] top-[58%] -right-8" 
+      />
+      <img
+        id="etoile12"
+        src="../assets/Etoile.svg"
+        class="absolute hidden 2xl:block h-[80px] xl:h-[140px] 2xl:h-[176px] 5xl:h-[256px] top-[90%] -right-16 xl:-right-2 2xl:right-[1%] 3xl:right-[8%] 4xl:right-[10%]" 
       />
     </div>
     <div class="pt-20">
@@ -321,37 +331,37 @@
         <img
           id="point1"
           src="../assets/Point.svg"
-          class="absolute -top-2 md:-top-[144px] -right-16 md:-right-32 h-40 md:h-60"
+          class="absolute -top-[8px] md:-top-[144px] -right-[64px] md:-right-[128px] h-[160px] md:h-[240px]"
           alt="" />
         <img
           id="point2"
           src="../assets/Point.svg"
-          class="absolute top-[400px] md:-top-[144px] -left-16 md:-left-32 h-40 md:h-60"
-          alt="" />
-        <img
-          id="point4"
-          src="../assets/Point.svg"
-          class="md:hidden absolute top-[800px] md:-top-[144px] -right-16 md:-left-32 h-40 md:h-60"
-          alt="" />
-        <img
-          id="point5"
-          src="../assets/Point.svg"
-          class="md:hidden absolute top-[1200px] md:-top-[144px] -left-16 md:-left-32 h-40 md:h-60"
+          class="absolute top-[400px] md:-top-[144px] -left-[64px] md:-left-[128px] h-[160px] md:h-[240px]"
           alt="" />
         <img
           id="point3"
           src="../assets/Point.svg"
-          class="hidden md:block absolute w-full mx-auto -bottom-[170px] xl:-top-[144px] h-40 md:h-60"
+          class="md:hidden absolute top-[800px] md:-top-[144px] -right-[64px] md:-left-[128px] h-[160px] md:h-[240px]"
+          alt="" />
+        <img
+          id="point4"
+          src="../assets/Point.svg"
+          class="md:hidden absolute top-[1200px] md:-top-[144px] -left-[64px] md:-left-[128px] h-[160px] md:h-[240px]"
+          alt="" />
+        <img
+          id="point5"
+          src="../assets/Point.svg"
+          class="hidden md:block absolute w-full mx-auto -bottom-[170px] xl:-top-[144px] h-[160px] md:h-[240px]"
           alt="" />
         <img
           id="point6"
           src="../assets/Point.svg"
-          class="hidden xl:block absolute -bottom-[170px] xl:-bottom-[144px] xl:left-[16%] 2xl:left-[20%] h-40 md:h-60"
+          class="hidden xl:block absolute -bottom-[170px] xl:-bottom-[144px] xl:left-[16%] 2xl:left-[20%] h-[160px] md:h-[240px]"
           alt="" />
         <img
           id="point7"
           src="../assets/Point.svg"
-          class="hidden xl:block absolute -bottom-[170px] xl:-bottom-[144px] xl:right-[16%] 2xl:right-[20%] h-40 md:h-60"
+          class="hidden xl:block absolute -bottom-[170px] xl:-bottom-[144px] xl:right-[16%] 2xl:right-[20%] h-[160px] md:h-[240px]"
           alt="" />
       </div>
       <div>
@@ -514,70 +524,86 @@
   </section>
 
   <!-- Etalons -->
-  <section class="mx-auto relative overflow-hidden relative mt-20 bg-gradient-to-b from-gray-300 via-gray-200 to-gray-300">
+  <section class="mx-auto relative overflow-hidden mt-20 bg-gradient-to-b from-white via-gray-200 to-white">
     <div class="opacity-70">
       <img
+        id="pointB1"
         src="../assets/PointB.svg"
-        class="absolute h-14 xl:h-16 2xl:h-24 top-[1%] -left-2 h-full"
+        class="absolute h-14 xl:h-16 2xl:h-24 top-[1%] -left-2"
       />
       <img
+        id="pointB2"
         src="../assets/PointB.svg"
-        class="absolute h-14 xl:h-16 top-[16%] -left-2 lg:left-[4%] 3xl:left-[8%] 4xl:left-[10%] h-full"
+        class="absolute h-14 xl:h-16 top-[16%] -left-2 lg:left-[4%] 3xl:left-[8%] 4xl:left-[10%]"
       />
       <img
+        id="pointB3"
         src="../assets/PointB.svg"
-        class="absolute h-14 xl:h-16 2xl:h-24 top-[30%] -left-2 xl:-left-2 h-full"
+        class="absolute h-14 xl:h-16 2xl:h-24 top-[30%] -left-2 xl:-left-2"
       />
       <img
+        id="pointB4"
         src="../assets/PointB.svg"
-        class="absolute h-14 xl:h-16 top-[45%] -left-2 lg:left-[4%] 3xl:left-[8%] 4xl:left-[10%] h-full"
+        class="absolute h-14 xl:h-16 top-[45%] -left-2 lg:left-[4%] 3xl:left-[8%] 4xl:left-[10%]"
       />
       <img
+        id="pointB5"
         src="../assets/PointB.svg"
-        class="absolute h-14 xl:h-16 2xl:h-24 top-[60%] -left-2 xl:-left-2 h-full"
+        class="absolute h-14 xl:h-16 2xl:h-24 top-[60%] -left-2 xl:-left-2"
       />
       <img
+        id="pointB6"
         src="../assets/PointB.svg"
-        class="absolute h-14 xl:h-16 top-[75%] -left-2 lg:left-[4%] 3xl:left-[8%] 4xl:left-[10%] h-full" 
+        class="absolute h-14 xl:h-16 top-[75%] -left-2 lg:left-[4%] 3xl:left-[8%] 4xl:left-[10%]" 
       />
       <img
+        id="pointB7"
         src="../assets/PointB.svg"
-        class="absolute h-14 xl:h-16 2xl:h-24 top-[90%] -left-2 xl:-left-2 h-full"
+        class="absolute h-14 xl:h-16 2xl:h-24 top-[90%] -left-2 xl:-left-2"
       />
       <img
+        id="pointB8"
         src="../assets/PointB.svg"
-        class="absolute h-14 xl:h-16 top-[105%] -left-2 xl:-left-2 3xl:right-[8%] 4xl:left-[10%] h-full"
+        class="absolute h-14 xl:h-16 top-[105%] -left-2 xl:-left-2 3xl:right-[8%] 4xl:left-[10%]"
       />
       <img
+        id="pointB9"
         src="../assets/PointB.svg"
-        class="absolute h-14 xl:h-16 2xl:h-24 top-[1%] -right-2 lg:right-[4%] xl:-right-2 h-full" />
+        class="absolute h-14 xl:h-16 2xl:h-24 top-[1%] -right-2 lg:right-[4%] xl:-right-2" />
       <img
+        id="pointB10"
         src="../assets/PointB.svg"
-        class="absolute h-14 xl:h-16 top-[16%] -right-2 xl:right-[4%] 3xl:right-[8%] 4xl:right-[10%] h-full"
+        class="absolute h-14 xl:h-16 top-[16%] -right-2 xl:right-[4%] 3xl:right-[8%] 4xl:right-[10%]"
       />
       <img
+        id="pointB11"
         src="../assets/PointB.svg"
-        class="absolute h-14 xl:h-16 2xl:h-24 top-[30%] -right-2 lg:right-[4%] xl:-right-2 h-full"
+        class="absolute h-14 xl:h-16 2xl:h-24 top-[30%] -right-2 lg:right-[4%] xl:-right-2"
       />
       <img
+        id="pointB12"
         src="../assets/PointB.svg"
-        class="absolute h-14 xl:h-16 top-[45%] -right-2 xl:right-[4%] 3xl:right-[8%] 4xl:right-[10%] h-full"
+        class="absolute h-14 xl:h-16 top-[45%] -right-2 xl:right-[4%] 3xl:right-[8%] 4xl:right-[10%]"
       />
       <img
+        id="pointB13"
         src="../assets/PointB.svg"
-        class="absolute h-14 xl:h-16 2xl:h-24 top-[60%] -right-2 lg:right-[4%] xl:-right-2 h-full"
+        class="absolute h-14 xl:h-16 2xl:h-24 top-[60%] -right-2 lg:right-[4%] xl:-right-2"
       />
       <img
+        id="pointB14"
         src="../assets/PointB.svg"
-        class="absolute h-14 xl:h-16 top-[75%] -right-2 xl:right-[4%] 3xl:right-[8%] 4xl:right-[10%] h-full" 
+        class="absolute h-14 xl:h-16 top-[75%] -right-2 xl:right-[4%] 3xl:right-[8%] 4xl:right-[10%]" 
+      />
+      <img  
+        id="pointB15"
+        src="../assets/PointB.svg"
+        class="absolute h-14 xl:h-16 2xl:h-24 top-[90%] -right-2 lg:right-[4%] xl:-right-2"
       />
       <img
+        id="pointB16"
         src="../assets/PointB.svg"
-        class="absolute h-14 xl:h-16 2xl:h-24 top-[90%] -right-2 lg:right-[4%] xl:-right-2 h-full"
-      />
-      <img
-        src="../assets/PointB.svg"
-        class="absolute h-14 xl:h-16 top-[105%] -right-2 xl:right-[4%] 3xl:right-[8%] 4xl:right-[10%] h-full"
+        class="absolute h-14 xl:h-16 top-[105%] -right-2 xl:right-[4%] 3xl:right-[8%] 4xl:right-[10%]"
       />
     </div>
     <div class="mx-auto mb-16">
@@ -673,22 +699,22 @@
         <img
           id="losangeA"
           src="../assets/LosangeJaune.svg"
-          class="absolute top-10 sm:-top-[83px] -left-10 h-32 sm:h-40 lg:h-52 xl:h-60 2xl:h-80"
+          class="absolute top-[40px] sm:-top-[83px] -left-[40px] h-[128px] sm:h-[160px] lg:h-[208px] xl:h-[240px] 2xl:h-[320px]"
           alt="" />
         <img
           id="losangeB"
           src="../assets/LosangeJaune.svg"
-          class="absolute top-10 sm:-top-[83px] -right-10 h-32 sm:h-40 lg:h-52 xl:h-60 2xl:h-80"
+          class="absolute top-[40px] sm:-top-[83px] -right-[40px] h-[128px] sm:h-[160px] lg:h-[208px] xl:h-[240px] 2xl:h-[320px]"
           alt="" />
         <img
           id="losangeC"
           src="../assets/LosangeJaune.svg"
-          class="absolute -bottom-10 md:-bottom-16 lg:-bottom-20 xl:-bottom-10 2xl:-bottom-20 right-1 sm:right-6 md:right-24 lg:right-28 xl:right-40 2xl:right-80 h-32 sm:h-40 lg:h-52 xl:h-60 2xl:h-80"
+          class="absolute bottom-[40px] sm:-bottom[200px] md:-bottom-[64px] lg:-bottom-20 xl:-bottom-[40px] 2xl:-bottom-20 right-1 sm:right-6 md:right-24 lg:right-28 xl:right-40 2xl:right-80 h-32 sm:h-40 lg:h-52 xl:h-60 2xl:h-80"
           alt="" />
         <img
           id="losangeD"
           src="../assets/LosangeJaune.svg"
-          class="absolute -bottom-10 md:-bottom-16 lg:-bottom-20 xl:-bottom-10 2xl:-bottom-20 left-1 sm:left-6 md:left-24 lg:left-28 xl:left-40 2xl:left-80 h-32 sm:h-40 lg:h-52 xl:h-60 2xl:h-80"
+          class="absolute bottom-[40px] md:-bottom-[64px] lg:-bottom-20 xl:-bottom-[40px] 2xl:-bottom-20 left-1 sm:left-6 md:left-24 lg:left-28 xl:left-40 2xl:left-80 h-32 sm:h-40 lg:h-52 xl:h-60 2xl:h-80"
           alt="" />
       </div>
       <div>
