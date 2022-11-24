@@ -8,7 +8,9 @@ module.exports = {
         blue: "#78cecd",
       },
       screens: {
-        "2xl": "1536px",
+        "lg": "1024px",
+        "xl": "1280px",
+        "2xl": "1440px",
         "3xl": "1980px",
         "4xl": "2560px",
         "5xl": "3840px",
