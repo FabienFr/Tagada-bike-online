@@ -464,7 +464,7 @@
           <span
             class="text-white text-2xl lg:text-4xl 2xl:text-5xl 3xl:text-6xl text-center font-extrabold">Assistance</span>
           <span
-            class="text-blue uppercase text-2xl lg:text-4xl 2xl:text-5xl 3xl:text-7xl text-center font-extrabold">électrique</span>
+            class="text-blue uppercase text-2xl lg:text-3xl xl:text-4xl 2xl:text-5xl 3xl:text-7xl text-center font-extrabold">électrique</span>
         </div>
         <div
           class="aspect-square flex flex-col order-5 items-center justify-center w-full h-full">
@@ -699,22 +699,22 @@
         <img
           id="losangeA"
           src="../assets/LosangeJaune.svg"
-          class="absolute top-[40px] sm:-top-[83px] -left-[40px] h-[128px] sm:h-[160px] lg:h-[208px] xl:h-[240px] 2xl:h-[320px]"
+          class="absolute top-[40px] sm:-top-[83px] -left-[40px] h-[112px] sm:h-[160px] lg:h-[208px] xl:h-[240px] 2xl:h-[320px]"
           alt="" />
         <img
           id="losangeB"
           src="../assets/LosangeJaune.svg"
-          class="absolute top-[40px] sm:-top-[83px] -right-[40px] h-[128px] sm:h-[160px] lg:h-[208px] xl:h-[240px] 2xl:h-[320px]"
+          class="absolute top-[40px] sm:-top-[83px] -right-[40px] h-[112px] sm:h-[160px] lg:h-[208px] xl:h-[240px] 2xl:h-[320px]"
           alt="" />
         <img
           id="losangeC"
           src="../assets/LosangeJaune.svg"
-          class="absolute bottom-[40px] sm:-bottom[200px] md:-bottom-[64px] lg:-bottom-20 xl:-bottom-[40px] 2xl:-bottom-20 right-1 sm:right-6 md:right-24 lg:right-28 xl:right-40 2xl:right-80 h-32 sm:h-40 lg:h-52 xl:h-60 2xl:h-80"
+          class="absolute bottom-[40px] sm:-bottom[200px] md:-bottom-[64px] lg:-bottom-20 xl:-bottom-[40px] 2xl:-bottom-20 right-1 sm:right-6 md:right-24 lg:right-28 xl:right-40 2xl:right-[13.5%] h-[112px] sm:h-40 lg:h-52 xl:h-60 2xl:h-80"
           alt="" />
         <img
           id="losangeD"
           src="../assets/LosangeJaune.svg"
-          class="absolute bottom-[40px] md:-bottom-[64px] lg:-bottom-20 xl:-bottom-[40px] 2xl:-bottom-20 left-1 sm:left-6 md:left-24 lg:left-28 xl:left-40 2xl:left-80 h-32 sm:h-40 lg:h-52 xl:h-60 2xl:h-80"
+          class="absolute bottom-[40px] md:-bottom-[64px] lg:-bottom-20 xl:-bottom-[40px] 2xl:-bottom-20 left-1 sm:left-6 md:left-24 lg:left-28 xl:left-40 2xl:left-[13.5%] h-[112px] sm:h-40 lg:h-52 xl:h-60 2xl:h-80"
           alt="" />
       </div>
       <div>
@@ -737,16 +737,179 @@
   </section>
 
   <!-- Aventure -->
-  <section class="relative container overflow-hidden mx-auto mt-28 mb-16 px-6 xl:px-32 3xl:px-96 4xl:px-144 5xl:px-160">
+  <section class="relative overflow-hidden mx-auto mt-28 mb-16 px-6 xl:px-32 3xl:px-96 4xl:px-144 5xl:px-160 bg-gradient-to-b from-white via-gray-200 to-white">
     <div>
+      <!-- mobile -->
+      <div class="md:hidden">
+        <img
+          id="etoile1"
+          src="../assets/Etoile.svg"
+          class="absolute h-[60px] top-[3%] left-4" 
+        />
+        <img
+          id="etoile2"
+          src="../assets/Etoile.svg"
+          class="absolute h-[60px] top-[3%] right-4" 
+        />
+        <img
+          id="etoile3"
+          src="../assets/Etoile.svg"
+          class="absolute h-[80px] top-[17%] -left-8" 
+        />
+        <img
+          id="etoile4"
+          src="../assets/Etoile.svg"
+          class="absolute h-[80px] top-[17%] -right-8" 
+        />
+        <img
+          id="etoile5"
+          src="../assets/Etoile.svg"
+          class="absolute h-[80px] top-[62%] -left-8" 
+        />
+        <img
+          id="etoile6"
+          src="../assets/Etoile.svg"
+          class="absolute h-[80px] top-[62%] -right-8" 
+        />
+      </div>
+      <!-- tablette -->
+      <div class="hidden md:flex lg:hidden">
+        <img
+          id="etoile5"
+          src="../assets/Etoile.svg"
+          class="absolute h-[60px] top-[5%] -right-8" />
+        <img
+          id="etoile6"
+          src="../assets/Etoile.svg"
+          class="absolute h-[60px] top-[5%] -left-8" />
+        <img
+          id="etoile9"
+          src="../assets/Etoile.svg"
+          class="absolute h-[80px] top-[13%] right-8" />
+        <img
+          id="etoile10"
+          src="../assets/Etoile.svg"
+          class="absolute h-[80px] top-[13%] left-8" />
+        <img
+          id="etoile7"
+          src="../assets/Etoile.svg"
+          class="absolute h-[60px] top-[50%] -right-8" />
+        <img
+          id="etoile8"
+          src="../assets/Etoile.svg"
+          class="absolute h-[60px] top-[50%] -left-8" />
+        <img
+          id="etoile6"
+          src="../assets/Etoile.svg"
+          class="absolute h-[80px] top-[67%] left-8" />
+        <img
+          id="etoile9"
+          src="../assets/Etoile.svg"
+          class="absolute h-[80px] top-[67%] right-8" />
+        <img
+          id="etoile7"
+          src="../assets/Etoile.svg"
+          class="absolute h-[60px] top-[84%] -right-8" />
+        <img
+          id="etoile8"
+          src="../assets/Etoile.svg"
+          class="absolute h-[60px] top-[84%] -left-8" />
+      </div>
+      <!-- desktop -->
+      <div class="hidden lg:flex">
+        <img
+          id="etoile5"
+          src="../assets/Etoile.svg"
+          class="absolute h-[80px] 2xl:h-[176px] top-[5%] -right-8" />
+        <img
+          id="etoile6"
+          src="../assets/Etoile.svg"
+          class="absolute h-[80px] 2xl:h-[176px] top-[5%] -left-8" />
+        <img
+          id="etoile9"
+          src="../assets/Etoile.svg"
+          class="absolute h-[112px] xl:h-[176px] top-[23%] 2xl:top-[30%] right-8 2xl:right-[14%]" />
+        <img
+          id="etoile10"
+          src="../assets/Etoile.svg"
+          class="absolute h-[112px] xl:h-[176px] top-[23%] 2xl:top-[30%] left-8 2xl:left-[14%]" />
+        <img
+          id="etoile7"
+          src="../assets/Etoile.svg"
+          class="absolute h-[80px] 2xl:h-[176px] top-[48%] xl:top-[58%] -right-8" />
+        <img
+          id="etoile8"
+          src="../assets/Etoile.svg"
+          class="absolute h-[80px] 2xl:h-[176px] top-[48%] xl:top-[58%] -left-8" />
+        <img
+          id="etoile6"
+          src="../assets/Etoile.svg"
+          class="absolute h-[80px] 2xl:h-[176px] top-[80%] 2xl:top-[90%] -left-8 xl:left-[6%] 2xl:left-[14%]" />
+        <img
+          id="etoile9"
+          src="../assets/Etoile.svg"
+          class="absolute h-[80px] 2xl:h-[176px] top-[80%] 2xl:top-[90%] -right-8 xl:right-[6%] 2xl:right-[14%]" />
+      </div>
+      <!-- <img
+        id="etoile1"
+        src="../assets/Etoile.svg"
+        class="absolute h-[80px] xl:h-[140px] 2xl:h-[176px] 5xl:h-[256px] top-[17%] md:top-[10%] -left-8 md:-left-5 xl:-left-[1%] 2xl:-left-4 3xl:left-[8%] 4xl:left-[10%]" />
+      
       <img
-        src="../assets/BandeEtoilesGauche.svg"
-        class="absolute rotate-180 top-0 -left-48 lg:-left-64 h-full"
-        alt="" />
+        id="etoile2"
+        src="../assets/Etoile.svg"
+        class="absolute md:hidden 2xl:block h-[80px] xl:h-[140px] 2xl:h-[176px] 5xl:h-[256px] top-[7%] md:-top-[2%] xl:top-[2%] -right-8 xl:-right-2 2xl:right-1 3xl:right-[8%] 4xl:right-[10%]" 
+      />
       <img
-        src="../assets/BandeEtoilesGauche.svg"
-        class="absolute rotate-180 top-0 -right-52 md:-right-32 lg:-right-4 h-full"
-        alt="" />
+        id="etoile3"
+        src="../assets/Etoile.svg"
+        class="absolute hidden md:flex h-[80px] xl:h-[140px] 2xl:h-[176px] 5xl:h-[256px] top-[17%] md:top-[12%] xl:top-[30%] -left-8 xl:-left-2 2xl:-left-20" 
+      />
+      <img
+        id="etoile4"
+        src="../assets/Etoile.svg"
+        class="absolute md:hidden h-[80px] top-[17%] -left-8 md:left-6" 
+      />
+      <img
+        id="etoile5"
+        src="../assets/Etoile.svg"
+        class="absolute hidden xl:block h-[80px] xl:h-[140px] 2xl:h-[176px] 5xl:h-[256px] top-[63%] 2xl:top-[83%] -left-16 md:xl:-left-2 xl:left-[1%] 2xl:-left-20" 
+      />
+      <img
+        id="etoile6"
+        src="../assets/Etoile.svg"
+        class="absolute h-[80px] xl:h-[140px] 2xl:h-[176px] 5xl:h-[256px] top-[63%] md:top-[60%] xl:top-[50%] -left-8 md:left-6 xl:-left-2 2xl:-left-1 3xl:left-[8%] 4xl:left-[10%]" 
+      />
+      <img
+        id="etoile7"
+        src="../assets/Etoile.svg"
+        class="absolute hidden md:flex h-[80px] xl:h-[140px] 2xl:h-[176px] 5xl:h-[256px] top-[90%] md:top-[74%] xl:top-[80%] 2xl:top-[90%] -left-16 md:-left-6 xl:-left-2 2xl:left-[1%] 3xl:left-[8%] 4xl:left-[10%]" 
+      />
+      <img
+        id="etoile8"
+        src="../assets/Etoile.svg"
+        class="absolute hidden xl:flex h-[80px] xl:h-[140px] 2xl:h-[176px] 5xl:h-[256px] top-[30%] xl:top-[24%] 2xl:top-[30%] -right-16 xl:-right-2 2xl:-right-20" 
+      />
+      <img
+        id="etoile9"
+        src="../assets/Etoile.svg"
+        class="absolute h-[80px] xl:h-[140px] 2xl:h-[176px] 5xl:h-[256px] top-[17%] md:top-[74%] xl:top-[38%] 2xl:top-[50%] -right-8 md:-right-6 3xl:right-[8%] 4xl:right-[10%]" 
+      />
+      <img
+        id="etoile10"
+        src="../assets/Etoile.svg"
+        class="absolute hidden md:block 2xl:hidden h-[80px] xl:h-[140px] 2xl:h-[176px] 5xl:h-[256px] top-[60%] md:top-[60%] xl:top-[56%] 2xl:top-[70%] -right-16 md:right-6 xl:-right-2 2xl:-right-20" 
+      />
+      <img
+        id="etoile11"
+        src="../assets/Etoile.svg"
+        class="absolute md:hidden h-[80px] top-[63%] -right-8" 
+      />
+      <img
+        id="etoile12"
+        src="../assets/Etoile.svg"
+        class="absolute hidden 2xl:block h-[80px] xl:h-[140px] 2xl:h-[176px] 5xl:h-[256px] top-[90%] -right-16 xl:-right-2 2xl:right-[1%] 3xl:right-[8%] 4xl:right-[10%]" 
+      /> -->
     </div>
     <a
       href="https://juicycreation.fr/"
@@ -765,7 +928,7 @@
       </h3>
     </div>
     <div class="flex flex-col lg:flex-row items-center justify-center w-full mb-12">
-      <div class="w-full lg:w-5/12">
+      <div class="w-full lg:w-1/2">
         <p class="text-sm xl:text-xl 2xl:text-2xl">
           Nous concevons des œuvres uniques et sur mesure (souvent XXL) pour
           valoriser les marques et leur fournir le plus beau des écrins.<br /><br />
@@ -844,7 +1007,13 @@
               <li>Retail – Grande Distribution</li>
             </ul>
           </div>
-          <div class="lg:hidden mx-auto h-0.5 w-12 mb-8 bg-white"></div>
+          <div class="lg:hidden mx-auto mb-8">
+            <img
+              id="losange1"
+              src="../assets/LosangeBlanc.svg"
+              class="h-12 md:h-20"
+              alt="" />
+          </div>
           <div class="w-full pb-10 lg-pb-0 lg:w-4/12 text-center text-sm">
             <h4 class="lg:hidden text-white uppercase text-md font-bold">
               triporteurs <br />éco-conçus <br />pour événements <br />à votre
@@ -862,7 +1031,13 @@
               <bold>points d’information</bold>, <bold>Food show</bold>...
             </span>
           </div>
-          <div class="lg:hidden mx-auto h-0.5 w-12 mb-8 bg-white"></div>
+          <div class="lg:hidden mx-auto mb-8">
+            <img
+              id="losange1"
+              src="../assets/LosangeBlanc.svg"
+              class="h-12 md:h-20"
+              alt="" />
+          </div>
           <div class="w-full lg:w-4/12 text-center lg:text-right text-sm">
             <h4 class="lg:hidden text-white font-bold uppercase text-md pb-2">
               pas <br />de formulaire <br />à remplir
