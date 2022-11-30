@@ -918,22 +918,21 @@
 
   <!-- footer -->
   <footer text-center class="w-full bg-pink h-fit pt-16 pb-12">
-    <div class="container mx-auto px-3 xl:px-32 3xl:px-0 4xl:px-40 5xl:px-96">
+    <div class="container mx-auto px-3 4xl:px-40 5xl:px-96">
       <div class="mx-auto pb-16 2xl:pb-12">
         <h2
           class="text-xl xl:text-4xl 2xl:text-4xl 3xl:text-5xl text-center text-white font-extrabold uppercase pb-10">
           éco-triporteurs à toute allure
         </h2>
-
+        <img
+          src="../assets/bandeau-Instagram-new.png"
+          class="hidden xl:flex 3xl:hidden xl:w-[2000px] w-full"
+          alt="références clients - éco-triporteurs sur mesure" />
         <div class="flex mx-auto items-center justify-center w-full h-fit">
           <a href="https://www.instagram.com/tagadabike/?hl=fr" target="_blank">
             <img
               src="../assets/bandeau-Instagram-new-xxl.png"
               class="hidden 3xl:flex w-full"
-              alt="références clients - éco-triporteurs sur mesure" />
-            <img
-              src="../assets/bandeau-Instagram-new.png"
-              class="hidden xl:flex 3xl:hidden xl:w-[2000px] w-full"
               alt="références clients - éco-triporteurs sur mesure" />
             <img
               src="../assets/bandeau-Instagram-new-mobile.png"
