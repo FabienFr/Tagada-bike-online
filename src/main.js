@@ -100,7 +100,7 @@ window.addEventListener("scroll", function () {
   l1.style.top = tl1 + y * 1.1 + "px";
   l2.style.top = tl2 + y * 0.5 + "px";
   l3.style.top = tl3 + y * 0.5 + "px";
-  l4.style.top = tl4 + y * -2 + "px";
+  l4.style.top = tl4 + y * -1.4 + "px";
   l5.style.top = tl5 + y * 1.53 + "px";
   l6.style.top = tl6 + y * 1.53 + "px";
   l7.style.top = tl7 + y * -0.5 + "px";
