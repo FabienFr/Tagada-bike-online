@@ -68,58 +68,60 @@
         </video>
       </div>
     </div>
+
+    <!-- // Both -->
     <img
-      id="losange1"
+      id="losangeRoseMidLeft"
+      src="../assets/LosangeRose.svg"
+      class="absolute opacity-80 top-[44%] left-1 md:left-6 h-24 lg:h-36 xl:h-48 2xl:h-56 3xl:h-72"
+      alt="" />
+    <img
+      id="losangeRoseMidRight"
+      src="../assets/LosangeRose.svg"
+      class="absolute opacity-80 top-[44%] right-1 md:right-6 h-24 lg:h-36 xl:h-48 2xl:h-56 3xl:h-72"
+      alt="" />
+
+    <!-- // mobile -->
+    <img
+      id="losangeRoseUp"
       src="../assets/LosangeRose.svg"
       class="md:hidden absolute opacity-80 top-[0.8%] w-full mx-auto h-24 lg:h-36 xl:h-48"
       alt="" />
     <img
-      id="losange2"
-      src="../assets/LosangeRose.svg"
-      class="hidden md:block absolute opacity-80 top-[0.8%] left-6 h-24 lg:h-36 xl:h-48 2xl:h-72"
-      alt="" />
-    <img
-      id="losange3"
-      src="../assets/LosangeRose.svg"
-      class="hidden md:block absolute opacity-80 top-[0.8%] right-6 h-24 lg:h-36 xl:h-48 2xl:h-72"
-      alt="" />
-    <img
-      id="losange4"
-      src="../assets/LosangeRose.svg"
-      class="absolute opacity-80 top-[44%] right-1 md:right-6 h-24 lg:h-36 xl:h-48 2xl:h-72"
-      alt="" />
-    <img
-      id="losange5"
-      src="../assets/LosangeRose.svg"
-      class="absolute opacity-80 top-[44%] left-1 md:left-6 h-24 lg:h-36 xl:h-48 2xl:h-72"
-      alt="" />
-    <!-- <img
-      id="losange6"
-      src="../assets/LosangeRose.svg"
-      class="absolute opacity-80 top-[275px] md:top-[520px] lg:top-[680px] xl:top-[770px] 2xl:top-[1000px] 3xl:top-[1300px] -right-6 md:right-20 xl:right-48 2xl:right-[550px] h-24 lg:h-36 xl:h-48"
-      alt=""
-    />
-    <img
-      id="losange7"
-      src="../assets/LosangeRose.svg"
-      class="absolute opacity-80 top-[275px] md:top-[520px] lg:top-[680px] xl:top-[770px] 2xl:top-[1000px] 3xl:top-[1300px] -left-6 md:left-20 xl:left-48 2xl:left-[550px] h-24 lg:h-36 xl:h-48"
-      alt=""
-    /> -->
-    <img
-      id="losange8"
-      src="../assets/LosangeRose.svg"
-      class="hidden md:block absolute opacity-80 -bottom-[2%] left-6 h-24 lg:h-36 xl:h-48 2xl:h-72"
-      alt="" />
-    <img
-      id="losange9"
-      src="../assets/LosangeRose.svg"
-      class="hidden md:block absolute opacity-80 -bottom-[2%] right-6 h-24 lg:h-36 xl:h-48 2xl:h-72"
-      alt="" />
-    <img
-      id="losange10"
+      id="losangeRoseDown"
       src="../assets/LosangeRose.svg"
       class="absolute xl:hidden opacity-80 -bottom-[6%] md:-bottom-[2%] w-full mx-auto h-24 lg:h-36 xl:h-48"
       alt="" />
+    
+      <!-- // tablet -->
+      <img
+        id="losangeRoseMid"
+        src="../assets/LosangeRose.svg"
+        class="absolute xl:hidden opacity-80 -bottom-[6%] md:-bottom-[2%] w-full mx-auto h-24 lg:h-36 xl:h-48"
+        alt="" />
+
+    <!-- // desktop -->
+    <img
+      id="losangeRoseUpLeft"
+      src="../assets/LosangeRose.svg"
+      class="hidden md:block absolute opacity-80 top-[0.8%] left-6 h-24 lg:h-36 xl:h-48 2xl:h-56 3xl:h-72"
+      alt="" />
+    <img
+      id="losangeRoseUpRight"
+      src="../assets/LosangeRose.svg"
+      class="hidden md:block absolute opacity-80 top-[0.8%] right-6 h-24 lg:h-36 xl:h-48 2xl:h-56 3xl:h-72"
+      alt="" />
+    <img
+      id="losangeRoseDownLeft"
+      src="../assets/LosangeRose.svg"
+      class="hidden md:block absolute opacity-80 -bottom-[2%] left-6 h-24 lg:h-36 xl:h-48 2xl:h-56 3xl:h-72"
+      alt="" />
+    <img
+      id="losangeRoseDownRight"
+      src="../assets/LosangeRose.svg"
+      class="hidden md:block absolute opacity-80 -bottom-[2%] right-6 h-24 lg:h-36 xl:h-48 2xl:h-56 3xl:h-72"
+      alt="" />
+    
     <div class="mx-auto h-1/6 pt-8 pb-16 md:pt-12 lg:pt-16 xl:pt-20 md:pb-36 xl:pb-20">
       <div class="hidden xl:block mx-auto h-0.5 w-12 mb-8 bg-pink"></div>
       <h1
@@ -252,62 +254,62 @@
         </swiper>
       </div>
       <img
-        id="etoile1"
+        id="Etoiles1Grpe1"
         src="../assets/Etoile.svg"
         class="absolute h-[80px] xl:h-[140px] 2xl:h-[176px] 5xl:h-[256px] top-[7%] md:top-[12%] -left-8 md:left-6 xl:left-1 3xl:left-[8%] 4xl:left-[10%]"
       />
       <img
-        id="etoile2"
+        id="Etoiles1Grpe2"
         src="../assets/Etoile.svg"
         class="absolute md:hidden xl:block h-[80px] xl:h-[140px] 2xl:h-[176px] 5xl:h-[256px] top-[7%] xl:top-[12%] -right-8 xl:right-1 3xl:right-[8%] 4xl:right-[10%]" 
       />
       <img
-        id="etoile3"
+        id="Etoiles1Grpe1"
         src="../assets/Etoile.svg"
         class="absolute hidden md:flex h-[80px] xl:h-[140px] 2xl:h-[176px] 5xl:h-[256px] top-[17%] md:top-[26%] xl:top-[30%] -left-8 xl:-left-20" 
       />
       <img
-        id="etoile4"
+        id="Etoiles1Grpe1"
         src="../assets/Etoile.svg"
         class="absolute md:hidden h-[80px] xl:h-[140px] 2xl:h-[176px] 5xl:h-[256px] top-[33%] -left-8 md:left-6" 
       />
       <img
-        id="etoile5"
+        id="Etoiles1Grpe1"
         src="../assets/Etoile.svg"
         class="absolute hidden xl:block h-[80px] xl:h-[140px] 2xl:h-[176px] 5xl:h-[256px] top-[63%] xl:top-[70%] -left-16 md:-left-2 xl:-left-20" 
       />
       <img
-        id="etoile6"
+        id="Etoiles1Grpe1"
         src="../assets/Etoile.svg"
         class="absolute h-[80px] xl:h-[140px] 2xl:h-[176px] 5xl:h-[256px] top-[58%] md:top-[60%] xl:top-[50%] -left-8 md:left-6 xl:-left-1 3xl:left-[8%] 4xl:left-[10%]" 
       />
       <img
-        id="etoile7"
+        id="Etoiles1Grpe1"
         src="../assets/Etoile.svg"
         class="absolute hidden md:flex h-[80px] xl:h-[140px] 2xl:h-[176px] 5xl:h-[256px] top-[90%] md:top-[74%] xl:top-[90%] -left-16 md:-left-6 xl:left-[1%] 3xl:left-[8%] 4xl:left-[10%]"
       />
       <img
-        id="etoile8"
+        id="Etoiles1Grpe2"
         src="../assets/Etoile.svg"
         class="absolute hidden xl:flex h-[80px] xl:h-[140px] 2xl:h-[176px] 5xl:h-[256px] top-[30%] xl:top-[30%] -right-16 xl:-right-20" 
       />
       <img
-        id="etoile9"
+        id="Etoiles1Grpe2"
         src="../assets/Etoile.svg"
         class="absolute h-[80px] xl:h-[140px] 2xl:h-[176px] 5xl:h-[256px] top-[33%] md:top-[36%] xl:top-[50%] -right-8 md:right-6 xl:right-1 3xl:right-[8%] 4xl:right-[10%]" 
       />
       <img
-        id="etoile10"
+        id="Etoiles1Grpe2"
         src="../assets/Etoile.svg"
         class="absolute hidden md:block h-[80px] xl:h-[140px] 2xl:h-[176px] 5xl:h-[256px] top-[60%] md:top-[50%] xl:top-[70%] -right-16 md:-right-6 xl:-right-20" 
       />
       <img
-        id="etoile11"
+        id="Etoiles1Grpe2"
         src="../assets/Etoile.svg"
         class="absolute md:hidden h-[80px] top-[58%] -right-8" 
       />
       <img
-        id="etoile12"
+        id="Etoiles1Grpe2"
         src="../assets/Etoile.svg"
         class="absolute hidden 2xl:block h-[80px] xl:h-[140px] 2xl:h-[176px] 5xl:h-[256px] top-[90%] -right-16 xl:-right-2 2xl:right-[1%] 3xl:right-[8%] 4xl:right-[10%]" 
       />
@@ -375,18 +377,18 @@
             <h3 class="pb-2 text-2xl lg:text-3xl">Tape à l’oeil</h3>
             <div class="h-0.5 w-full bg-pink"></div>
             <p
-              class="pt-2 text-gray-800 text-left 3xl:text-justify text-sm xl:text-xl 2xl:text-2xl">
+              class="pt-2 text-gray-800 text-left text-sm xl:text-xl 2xl:text-2xl">
               Sobre et élégante, pop et acidulée ou bien fraiche et distinguée,
               votre monture ne passera jamais inaperçue.
             </p>
             <p
-              class="pt-2 text-gray-800 text-left 3xl:text-justify text-sm xl:text-xl 2xl:text-2xl">
+              class="pt-2 text-gray-800 text-left text-sm xl:text-xl 2xl:text-2xl">
               Agile, rapidement déployable, que d’atouts réunis pour vos
               lancements de produits, action street marketing, activation de
               marque, festival, etc.
             </p>
             <p
-              class="pt-2 text-gray-800 text-left 3xl:text-justify text-sm xl:text-xl 2xl:text-2xl">
+              class="pt-2 text-gray-800 text-left text-sm xl:text-xl 2xl:text-2xl">
               Faites le choix d’un attelage atypique vecteur d’attention et de
               curiosité.
             </p>
@@ -395,13 +397,13 @@
             <h3 class="pb-2 text-2xl lg:text-3xl">Éco-conçu</h3>
             <div class="h-0.5 w-full bg-pink"></div>
             <p
-              class="pt-2 text-gray-800 text-left 3xl:text-justify text-sm xl:text-xl 2xl:text-2xl">
+              class="pt-2 text-gray-800 text-left text-sm xl:text-xl 2xl:text-2xl">
               Conçus au sein de nos ateliers, les coffres des montures Tagada
               Bike sont réalisés à partir de panneaux de plastique recyclé en
               Bretagne.
             </p>
             <p
-              class="pt-2 text-gray-800 text-left 3xl:text-justify text-sm xl:text-xl 2xl:text-2xl">
+              class="pt-2 text-gray-800 text-left text-sm xl:text-xl 2xl:text-2xl">
               L’emploi de matériaux issus du réemploi ou bio sourcés est
               privilégié pour tous les autres éléments de fabrication.
             </p>
@@ -410,13 +412,13 @@
             <h3 class="pb-2 text-2xl lg:text-3xl break-normal">Customisable</h3>
             <div class="h-0.5 w-full bg-pink"></div>
             <p
-              class="pt-2 text-gray-800 text-left 3xl:text-justify text-sm xl:text-xl 2xl:text-2xl">
+              class="pt-2 text-gray-800 text-left text-sm xl:text-xl 2xl:text-2xl">
               Imaginée pour s’adapter à toutes les courses, chaque monture
               Tagada Bike est customisable pour répondre au mieux aux besoins de
               son cavalier.
             </p>
             <p
-              class="pt-2 text-gray-800 text-left 3xl:text-justify text-sm xl:text-xl 2xl:text-2xl">
+              class="pt-2 text-gray-800 text-left text-sm xl:text-xl 2xl:text-2xl">
               Tablettes, porte toppings, bacs isothermes, batterie… choisissez
               l’équipement idéal pour arriver en tête de course.
             </p>
@@ -534,7 +536,7 @@
       <img
         id="pointB2"
         src="../assets/PointB.svg"
-        class="absolute h-14 xl:h-16 top-[16%] -left-2 lg:left-[4%] 3xl:left-[8%] 4xl:left-[10%]"
+        class="absolute h-14 xl:h-16 top-[16%] -left-2 lg:left-[4%] xl:left-[8%] 3xl:left-[10%] 4xl:left-[15%] 5xl:left-[16%]"
       />
       <img
         id="pointB3"
@@ -544,7 +546,7 @@
       <img
         id="pointB4"
         src="../assets/PointB.svg"
-        class="absolute h-14 xl:h-16 top-[45%] -left-2 lg:left-[4%] 3xl:left-[8%] 4xl:left-[10%]"
+        class="absolute h-14 xl:h-16 top-[45%] -left-2 lg:left-[4%] xl:left-[8%] 3xl:left-[10%] 4xl:left-[15%] 5xl:left-[16%]"
       />
       <img
         id="pointB5"
@@ -554,7 +556,7 @@
       <img
         id="pointB6"
         src="../assets/PointB.svg"
-        class="absolute h-14 xl:h-16 top-[75%] -left-2 lg:left-[4%] 3xl:left-[8%] 4xl:left-[10%]" 
+        class="absolute h-14 xl:h-16 top-[75%] -left-2 lg:left-[4%] xl:left-[8%] 3xl:left-[10%] 4xl:left-[15%] 5xl:left-[16%]" 
       />
       <img
         id="pointB7"
@@ -573,7 +575,7 @@
       <img
         id="pointB10"
         src="../assets/PointB.svg"
-        class="absolute h-14 xl:h-16 top-[16%] -right-2 xl:right-[4%] 3xl:right-[8%] 4xl:right-[10%]"
+        class="absolute h-14 xl:h-16 top-[16%] -right-2 lg:right-[4%] xl:right-[8%] 3xl:right-[10%] 4xl:right-[15%] 5xl:right-[16%]"
       />
       <img
         id="pointB11"
@@ -583,7 +585,7 @@
       <img
         id="pointB12"
         src="../assets/PointB.svg"
-        class="absolute h-14 xl:h-16 top-[45%] -right-2 xl:right-[4%] 3xl:right-[8%] 4xl:right-[10%]"
+        class="absolute h-14 xl:h-16 top-[45%] -right-2 xl:right-[8%] 3xl:right-[10%] 4xl:right-[15%] 5xl:right-[16%]"
       />
       <img
         id="pointB13"
@@ -593,7 +595,7 @@
       <img
         id="pointB14"
         src="../assets/PointB.svg"
-        class="absolute h-14 xl:h-16 top-[75%] -right-2 xl:right-[4%] 3xl:right-[8%] 4xl:right-[10%]" 
+        class="absolute h-14 xl:h-16 top-[75%] -right-2 xl:right-[8%] 3xl:right-[10%] 4xl:right-[15%] 5xl:right-[16%]" 
       />
       <img  
         id="pointB15"
@@ -603,7 +605,7 @@
       <img
         id="pointB16"
         src="../assets/PointB.svg"
-        class="absolute h-14 xl:h-16 top-[105%] -right-2 xl:right-[4%] 3xl:right-[8%] 4xl:right-[10%]"
+        class="absolute h-14 xl:h-16 top-[105%] -right-2 xl:right-[8%] 3xl:right-[10%] 4xl:right-[15%] 5xl:right-[16%]"
       />
     </div>
     <div class="mx-auto mb-16">
