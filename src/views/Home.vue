@@ -254,17 +254,17 @@
       <img
         id="etoile1"
         src="../assets/Etoile.svg"
-        class="absolute h-[80px] xl:h-[140px] 2xl:h-[176px] 5xl:h-[256px] top-[7%] md:top-[12%] -left-8 md:left-6 xl:left-[1%] 2xl:left-1 3xl:left-[8%] 4xl:left-[10%]"
+        class="absolute h-[80px] xl:h-[140px] 2xl:h-[176px] 5xl:h-[256px] top-[7%] md:top-[12%] -left-8 md:left-6 xl:left-1 3xl:left-[8%] 4xl:left-[10%]"
       />
       <img
         id="etoile2"
         src="../assets/Etoile.svg"
-        class="absolute md:hidden 2xl:block h-[80px] xl:h-[140px] 2xl:h-[176px] 5xl:h-[256px] top-[7%] xl:top-[12%] -right-8 xl:-right-2 2xl:right-1 3xl:right-[8%] 4xl:right-[10%]" 
+        class="absolute md:hidden xl:block h-[80px] xl:h-[140px] 2xl:h-[176px] 5xl:h-[256px] top-[7%] xl:top-[12%] -right-8 xl:right-1 3xl:right-[8%] 4xl:right-[10%]" 
       />
       <img
         id="etoile3"
         src="../assets/Etoile.svg"
-        class="absolute hidden md:flex h-[80px] xl:h-[140px] 2xl:h-[176px] 5xl:h-[256px] top-[17%] md:top-[26%] xl:top-[30%] -left-8 xl:-left-2 2xl:-left-20" 
+        class="absolute hidden md:flex h-[80px] xl:h-[140px] 2xl:h-[176px] 5xl:h-[256px] top-[17%] md:top-[26%] xl:top-[30%] -left-8 xl:-left-20" 
       />
       <img
         id="etoile4"
@@ -274,32 +274,32 @@
       <img
         id="etoile5"
         src="../assets/Etoile.svg"
-        class="absolute hidden xl:block h-[80px] xl:h-[140px] 2xl:h-[176px] 5xl:h-[256px] top-[63%] 2xl:top-[70%] -left-16 md:xl:-left-2 xl:left-[1%] 2xl:-left-20" 
+        class="absolute hidden xl:block h-[80px] xl:h-[140px] 2xl:h-[176px] 5xl:h-[256px] top-[63%] xl:top-[70%] -left-16 md:-left-2 xl:-left-20" 
       />
       <img
         id="etoile6"
         src="../assets/Etoile.svg"
-        class="absolute h-[80px] xl:h-[140px] 2xl:h-[176px] 5xl:h-[256px] top-[58%] md:top-[60%] xl:top-[50%] -left-8 md:left-6 xl:-left-2 2xl:-left-1 3xl:left-[8%] 4xl:left-[10%]" 
+        class="absolute h-[80px] xl:h-[140px] 2xl:h-[176px] 5xl:h-[256px] top-[58%] md:top-[60%] xl:top-[50%] -left-8 md:left-6 xl:-left-1 3xl:left-[8%] 4xl:left-[10%]" 
       />
       <img
         id="etoile7"
         src="../assets/Etoile.svg"
-        class="absolute hidden md:flex h-[80px] xl:h-[140px] 2xl:h-[176px] 5xl:h-[256px] top-[90%] md:top-[74%] xl:top-[80%] 2xl:top-[90%] -left-16 md:-left-6 xl:-left-2 2xl:left-[1%] 3xl:left-[8%] 4xl:left-[10%]"
+        class="absolute hidden md:flex h-[80px] xl:h-[140px] 2xl:h-[176px] 5xl:h-[256px] top-[90%] md:top-[74%] xl:top-[90%] -left-16 md:-left-6 xl:left-[1%] 3xl:left-[8%] 4xl:left-[10%]"
       />
       <img
         id="etoile8"
         src="../assets/Etoile.svg"
-        class="absolute hidden xl:flex h-[80px] xl:h-[140px] 2xl:h-[176px] 5xl:h-[256px] top-[30%] xl:top-[24%] 2xl:top-[30%] -right-16 xl:-right-2 2xl:-right-20" 
+        class="absolute hidden xl:flex h-[80px] xl:h-[140px] 2xl:h-[176px] 5xl:h-[256px] top-[30%] xl:top-[30%] -right-16 xl:-right-20" 
       />
       <img
         id="etoile9"
         src="../assets/Etoile.svg"
-        class="absolute h-[80px] xl:h-[140px] 2xl:h-[176px] 5xl:h-[256px] top-[33%] md:top-[36%] xl:top-[38%] 2xl:top-[50%] -right-8 md:right-6 3xl:right-[8%] 4xl:right-[10%]" 
+        class="absolute h-[80px] xl:h-[140px] 2xl:h-[176px] 5xl:h-[256px] top-[33%] md:top-[36%] xl:top-[50%] -right-8 md:right-6 xl:right-1 3xl:right-[8%] 4xl:right-[10%]" 
       />
       <img
         id="etoile10"
         src="../assets/Etoile.svg"
-        class="absolute hidden md:block h-[80px] xl:h-[140px] 2xl:h-[176px] 5xl:h-[256px] top-[60%] md:top-[50%] xl:top-[56%] 2xl:top-[70%] -right-16 md:-right-6 xl:-right-2 2xl:-right-20" 
+        class="absolute hidden md:block h-[80px] xl:h-[140px] 2xl:h-[176px] 5xl:h-[256px] top-[60%] md:top-[50%] xl:top-[70%] -right-16 md:-right-6 xl:-right-20" 
       />
       <img
         id="etoile11"
@@ -739,7 +739,7 @@
   <!-- Aventure -->
   <section class="relative overflow-hidden mx-auto mt-28 mb-16 px-6 xl:px-32 3xl:px-96 4xl:px-144 5xl:px-160 bg-gradient-to-b from-white via-gray-200 to-white">
     <div>
-      <!-- mobile -->
+      <!-- mobile / tablette -->
       <div class="xl:hidden">
         <img
           id="gp-etoile-1"
@@ -752,68 +752,68 @@
           class="absolute h-[60px] top-[3%] sm:top-[75%] lg:top-[80%] right-4" 
         />
         <img
-          id="etoile5"
+          id="gp-etoile-1"
           src="../assets/Etoile.svg"
           class="absolute hidden lg:flex h-[60px] top-[32%] -left-8" />
         <img
-          id="etoile6"
+          id="gp-etoile-1"
           src="../assets/Etoile.svg"
           class="absolute hidden lg:flex h-[60px] top-[32%] -right-8" />
         <img
-          id="etoile3"
+          id="gp-etoile-2"
           src="../assets/Etoile.svg"
           class="absolute h-[80px] top-[17%] sm:top-[11%] -left-8 sm:left-8" 
         />
         <img
-          id="etoile4"
+          id="gp-etoile-2"
           src="../assets/Etoile.svg"
           class="absolute h-[80px] top-[17%] sm:top-[11%] -right-8 sm:right-8" 
         />
         <img
-          id="etoile5"
+          id="gp-etoile-2"
           src="../assets/Etoile.svg"
           class="absolute h-[80px] top-[62%] sm:top-[55%] -left-8 sm:left-8 lg:-left-8" 
         />
         <img
-          id="etoile6"
+          id="gp-etoile-2"
           src="../assets/Etoile.svg"
           class="absolute h-[80px] top-[62%] sm:top-[55%] -right-8 sm:right-8 lg:-right-8" 
         />
       </div>
-      <!-- tablette -->
+      <!-- 2015 laptop -->
       <div class="hidden xl:flex 3xl:hidden">
         <img
-          id="etoile5"
+        id="gp-etoile-3"
+        src="../assets/Etoile.svg"
+        class="absolute h-[60px] top-[5%] -left-8" />
+        <img
+          id="gp-etoile-3"
           src="../assets/Etoile.svg"
           class="absolute h-[60px] top-[5%] -right-8" />
-        <img
-          id="etoile6"
+          <img
+          id="gp-etoile-4"
           src="../assets/Etoile.svg"
-          class="absolute h-[60px] top-[5%] -left-8" />
+          class="absolute h-[80px] xl:h-[140px] 2xl:h-[176px] top-[13%] left-8" />
+          <img
+            id="gp-etoile-4"
+            src="../assets/Etoile.svg"
+            class="absolute h-[80px] xl:h-[140px] 2xl:h-[176px] top-[13%] right-8" />
         <img
-          id="etoile9"
+          id="gp-etoile-3"
           src="../assets/Etoile.svg"
-          class="absolute h-[80px] top-[13%] right-8" />
+          class="absolute h-[60px] 2xl:h-[80px] top-[50%] -right-8" />
         <img
-          id="etoile10"
+          id="gp-etoile-3"
           src="../assets/Etoile.svg"
-          class="absolute h-[80px] top-[13%] left-8" />
+          class="absolute h-[60px] 2xl:h-[80px] top-[50%] -left-8" />
         <img
-          id="etoile7"
+          id="gp-etoile-3"
           src="../assets/Etoile.svg"
-          class="absolute h-[60px] top-[50%] -right-8" />
+          class="absolute h-[80px] xl:[140px] 2xl:h-[128px] top-[67%] left-8" />
         <img
-          id="etoile8"
+          id="gp-etoile-3"
           src="../assets/Etoile.svg"
-          class="absolute h-[60px] top-[50%] -left-8" />
-        <img
-          id="etoile6"
-          src="../assets/Etoile.svg"
-          class="absolute h-[80px] top-[67%] left-8" />
-        <img
-          id="etoile9"
-          src="../assets/Etoile.svg"
-          class="absolute h-[80px] top-[67%] right-8" />
+          class="absolute h-[80px] 2xl:h-[128px] top-[67%] right-8" />
         <img
           id="etoile7"
           src="../assets/Etoile.svg"
@@ -828,35 +828,35 @@
         <img
           id="etoile5"
           src="../assets/Etoile.svg"
-          class="absolute h-[80px] 2xl:h-[176px] top-[5%] -right-8" />
+          class="absolute h-[176px] top-[5%] -right-8" />
         <img
           id="etoile6"
           src="../assets/Etoile.svg"
-          class="absolute h-[80px] 2xl:h-[176px] top-[5%] -left-8" />
+          class="absolute h-[176px] top-[5%] -left-8" />
         <img
           id="etoile9"
           src="../assets/Etoile.svg"
-          class="absolute h-[112px] xl:h-[176px] top-[23%] 2xl:top-[30%] right-8 2xl:right-[14%]" />
+          class="absolute h-[176px] top-[23%] 2xl:top-[30%] right-8 2xl:right-[14%]" />
         <img
           id="etoile10"
           src="../assets/Etoile.svg"
-          class="absolute h-[112px] xl:h-[176px] top-[23%] 2xl:top-[30%] left-8 2xl:left-[14%]" />
+          class="absolute h-[176px] top-[23%] 2xl:top-[30%] left-8 2xl:left-[14%]" />
         <img
           id="etoile7"
           src="../assets/Etoile.svg"
-          class="absolute h-[80px] 2xl:h-[176px] top-[48%] xl:top-[58%] -right-8" />
+          class="absolute h-[176px] top-[48%] xl:top-[58%] -right-8" />
         <img
           id="etoile8"
           src="../assets/Etoile.svg"
-          class="absolute h-[80px] 2xl:h-[176px] top-[48%] xl:top-[58%] -left-8" />
+          class="absolute h-[176px] top-[48%] xl:top-[58%] -left-8" />
         <img
           id="etoile6"
           src="../assets/Etoile.svg"
-          class="absolute h-[80px] 2xl:h-[176px] top-[80%] 2xl:top-[90%] -left-8 xl:left-[6%] 2xl:left-[14%]" />
+          class="absolute h-[176px] top-[80%] 2xl:top-[90%] -left-8 xl:left-[6%] 2xl:left-[14%]" />
         <img
           id="etoile9"
           src="../assets/Etoile.svg"
-          class="absolute h-[80px] 2xl:h-[176px] top-[80%] 2xl:top-[90%] -right-8 xl:right-[6%] 2xl:right-[14%]" />
+          class="absolute h-[176px] top-[80%] 2xl:top-[90%] -right-8 xl:right-[6%] 2xl:right-[14%]" />
       </div>
     </div>
     <a
@@ -918,7 +918,7 @@
 
   <!-- footer -->
   <footer text-center class="w-full bg-pink h-fit pt-16 pb-12">
-    <div class="container mx-auto px-3 xl:px-32 3xl:px-96 4xl:px-144 5xl:px-160">
+    <div class="container mx-auto px-3 xl:px-32 3xl:px-0 4xl:px-40 5xl:px-96">
       <div class="mx-auto pb-16 2xl:pb-12">
         <h2
           class="text-xl xl:text-4xl 2xl:text-4xl 3xl:text-5xl text-center text-white font-extrabold uppercase pb-10">
@@ -928,8 +928,12 @@
         <div class="flex mx-auto items-center justify-center w-full h-fit">
           <a href="https://www.instagram.com/tagadabike/?hl=fr" target="_blank">
             <img
+              src="../assets/bandeau-Instagram-new-xxl.png"
+              class="hidden 3xl:flex w-full"
+              alt="références clients - éco-triporteurs sur mesure" />
+            <img
               src="../assets/bandeau-Instagram-new.png"
-              class="hidden xl:flex xl:w-[2000px] w-full"
+              class="hidden xl:flex 3xl:hidden xl:w-[2000px] w-full"
               alt="références clients - éco-triporteurs sur mesure" />
             <img
               src="../assets/bandeau-Instagram-new-mobile.png"
