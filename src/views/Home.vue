@@ -951,7 +951,7 @@
               alt="" 
             />
             <h4
-              class="text-center text-white font-bold uppercase text-md xl:text-lg 2xl:text-2xl pb-10 2xl:pb-[52px]">
+              class="text-center text-white font-bold uppercase text-md xl:text-lg 2xl:text-2xl pb-10 2xl:pb-[52px] 3xl:pb-5">
               Le quinté gagnant
             </h4>
             <ul
