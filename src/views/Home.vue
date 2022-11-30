@@ -19,7 +19,7 @@
             </a>
           </div>
           <div
-            class="hidden sm:block px-6 w-full sm:w-1/2 md:w-1/4 text-center">
+            class="hidden lg:block px-6 w-full sm:w-1/2 md:w-1/4 text-center">
             <button
               class="text-xl lg:text-3xl font-bold tracking-wide leading-tight text-gray-800 hover:text-pink py-5"
               onclick="location.href='mailto:contact@tagadabike.com?subject=Tagada Bike - Demande de renseignements'">
@@ -31,14 +31,14 @@
               </a>
             </button>
           </div>
-          <div class="sm:hidden flex flex-row mt-5">
-            <div class="px-6 w-1/2">
+          <div class="flex flex-row mt-5">
+            <div class="sm:hidden px-6 w-1/2">
               <button
                 class="text-lg font-bold tracking-wide leading-tight hover:text-pink text-gray-800 text-center pb-5">
                 <a href="#ecurie" aria-label="Section écurie"> ECURIE </a>
               </button>
             </div>
-            <div class="px-6 w-1/2">
+            <div class="lg:hidden px-6 w-1/2">
               <button
                 class="text-lg font-bold tracking-wide leading-tight hover:text-pink text-gray-800 text-center pb-5"
                 onclick="location.href='mailto:contact@tagadabike.com?subject=Tagada Bike - Demande de renseignements'">
@@ -1030,7 +1030,7 @@
       <div class="container flex mx-auto justify-center pt-8 ">
         <a
           aria-label="Chat on WhatsApp"
-          href="https://wa.me/673711744"
+          href="https://chat.whatsapp.com/FL4wIWOWFQoCa5VVRyldYA"
           target="_blank">
           <img
             alt="Chat WhatsApp link"
