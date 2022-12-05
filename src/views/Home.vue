@@ -253,63 +253,68 @@
           </swiper-slide>
         </swiper>
       </div>
+
+      <!-- // Mobile -->
       <img
-        id="Etoiles1Grpe1"
+        id="etoileLuckyLeft"
         src="../assets/Etoile.svg"
         class="absolute h-[80px] xl:h-[140px] 2xl:h-[176px] 5xl:h-[256px] top-[7%] md:top-[12%] -left-8 md:left-6 xl:left-1 3xl:left-[8%] 4xl:left-[10%]"
       />
       <img
-        id="Etoiles1Grpe2"
+        id="etoileLuckyRight"
         src="../assets/Etoile.svg"
         class="absolute md:hidden xl:block h-[80px] xl:h-[140px] 2xl:h-[176px] 5xl:h-[256px] top-[7%] xl:top-[12%] -right-8 xl:right-1 3xl:right-[8%] 4xl:right-[10%]" 
       />
       <img
-        id="Etoiles1Grpe1"
-        src="../assets/Etoile.svg"
-        class="absolute hidden md:flex h-[80px] xl:h-[140px] 2xl:h-[176px] 5xl:h-[256px] top-[17%] md:top-[26%] xl:top-[30%] -left-8 xl:-left-20" 
-      />
-      <img
-        id="Etoiles1Grpe1"
+        id="etoileRubyLeft"
         src="../assets/Etoile.svg"
         class="absolute md:hidden h-[80px] xl:h-[140px] 2xl:h-[176px] 5xl:h-[256px] top-[33%] -left-8 md:left-6" 
       />
       <img
-        id="Etoiles1Grpe1"
-        src="../assets/Etoile.svg"
-        class="absolute hidden xl:block h-[80px] xl:h-[140px] 2xl:h-[176px] 5xl:h-[256px] top-[63%] xl:top-[70%] -left-16 md:-left-2 xl:-left-20" 
-      />
-      <img
-        id="Etoiles1Grpe1"
-        src="../assets/Etoile.svg"
-        class="absolute h-[80px] xl:h-[140px] 2xl:h-[176px] 5xl:h-[256px] top-[58%] md:top-[60%] xl:top-[50%] -left-8 md:left-6 xl:-left-1 3xl:left-[8%] 4xl:left-[10%]" 
-      />
-      <img
-        id="Etoiles1Grpe1"
-        src="../assets/Etoile.svg"
-        class="absolute hidden md:flex h-[80px] xl:h-[140px] 2xl:h-[176px] 5xl:h-[256px] top-[90%] md:top-[74%] xl:top-[90%] -left-16 md:-left-6 xl:left-[1%] 3xl:left-[8%] 4xl:left-[10%]"
-      />
-      <img
-        id="Etoiles1Grpe2"
-        src="../assets/Etoile.svg"
-        class="absolute hidden xl:flex h-[80px] xl:h-[140px] 2xl:h-[176px] 5xl:h-[256px] top-[30%] xl:top-[30%] -right-16 xl:-right-20" 
-      />
-      <img
-        id="Etoiles1Grpe2"
+        id="etoileRubyRight"
         src="../assets/Etoile.svg"
         class="absolute h-[80px] xl:h-[140px] 2xl:h-[176px] 5xl:h-[256px] top-[33%] md:top-[36%] xl:top-[50%] -right-8 md:right-6 xl:right-1 3xl:right-[8%] 4xl:right-[10%]" 
       />
       <img
-        id="Etoiles1Grpe2"
+        id="etoileTornadoLeft"
+        src="../assets/Etoile.svg"
+        class="absolute h-[80px] xl:h-[140px] 2xl:h-[176px] 5xl:h-[256px] top-[58%] md:top-[60%] xl:top-[50%] -left-8 md:left-6 xl:-left-1 3xl:left-[8%] 4xl:left-[10%]" />
+      <img
+        id="etoileTornadoRight"
+        src="../assets/Etoile.svg"
+        class="absolute md:hidden h-[80px] top-[58%] -right-8" />
+
+      <!-- // Tablet -->
+
+      <!-- // Desktop -->
+
+      <img
+        id="etoile3"
+        src="../assets/Etoile.svg"
+        class="absolute hidden md:flex h-[80px] xl:h-[140px] 2xl:h-[176px] 5xl:h-[256px] top-[17%] md:top-[26%] xl:top-[30%] -left-8 xl:-left-20" 
+      />
+      <img
+        id="etoile5"
+        src="../assets/Etoile.svg"
+        class="absolute hidden xl:block h-[80px] xl:h-[140px] 2xl:h-[176px] 5xl:h-[256px] top-[63%] xl:top-[70%] -left-16 md:-left-2 xl:-left-20" 
+      />
+      <img
+        id="etoile7"
+        src="../assets/Etoile.svg"
+        class="absolute hidden md:flex h-[80px] xl:h-[140px] 2xl:h-[176px] 5xl:h-[256px] top-[90%] md:top-[74%] xl:top-[90%] -left-16 md:-left-6 xl:left-[1%] 3xl:left-[8%] 4xl:left-[10%]"
+      />
+      <img
+        id="etoile8"
+        src="../assets/Etoile.svg"
+        class="absolute hidden xl:flex h-[80px] xl:h-[140px] 2xl:h-[176px] 5xl:h-[256px] top-[30%] xl:top-[30%] -right-16 xl:-right-20" 
+      />
+      <img
+        id="etoile10"
         src="../assets/Etoile.svg"
         class="absolute hidden md:block h-[80px] xl:h-[140px] 2xl:h-[176px] 5xl:h-[256px] top-[60%] md:top-[50%] xl:top-[70%] -right-16 md:-right-6 xl:-right-20" 
       />
       <img
-        id="Etoiles1Grpe2"
-        src="../assets/Etoile.svg"
-        class="absolute md:hidden h-[80px] top-[58%] -right-8" 
-      />
-      <img
-        id="Etoiles1Grpe2"
+        id="etoile12"
         src="../assets/Etoile.svg"
         class="absolute hidden 2xl:block h-[80px] xl:h-[140px] 2xl:h-[176px] 5xl:h-[256px] top-[90%] -right-16 xl:-right-2 2xl:right-[1%] 3xl:right-[8%] 4xl:right-[10%]" 
       />
@@ -1029,7 +1034,7 @@
         </div>
       </div>
       <div class="container flex mx-auto justify-center pt-8 ">
-        <a
+        <!-- <a
           aria-label="Chat on WhatsApp"
           href="https://chat.whatsapp.com/FL4wIWOWFQoCa5VVRyldYA"
           target="_blank">
@@ -1037,7 +1042,7 @@
             alt="Chat WhatsApp link"
             src="../assets/whatsapp-100.svg"
             class="pr-2 h-10 md:h-12" />
-        </a>
+        </a> -->
         <a
           aria-label="Chat on Linkedin"
           href="https://www.linkedin.com/showcase/tagada-bike/"

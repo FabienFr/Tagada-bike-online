@@ -15,8 +15,8 @@ let l1,l2,l3,l4,l5,l6,l7,l8,l9;
 let tl1,tl2,tl3,tl4,tl5,tl6,tl7,tl8,tl9;
 
 // // Etoiles
-// let e1,e2,e3,e4,e5,e6,e7,e8,e9,e10,e11,e12;
-// let te1,te2,te3,te4,te5,te6,te7,te8,te9,te10,te11,te12;
+let e1,e2,e3,e4,e5,e6,e7,e8,e9,e10,e11,e12;
+let te1,te2,te3,te4,te5,te6,te7,te8,te9,te10,te11,te12;
 
 //Points verts
 let pv1,pv2,pv3,pv4,pv5,pv6,pv7;
@@ -52,12 +52,18 @@ window.addEventListener("DOMContentLoaded", (event) => {
   tl8 = l8.offsetTop;
 
 //   //étoiles blanches
-//   e1 = dom('etoile1');
-//   te1 = e1.offsetTop;
-//   // e3 = dom('etoile3');
-//   // te3 = e3.offsetTop;
-//   // e5 = dom('etoile5');
-//   // te5 = e5.offsetTop;
+  e1 = dom('etoileLuckyLeft');
+  te1 = e1.offsetTop;
+  e2 = dom('etoileLuckyRight');
+  te2 = e2.offsetTop;
+  e3 = dom('etoileRubyLeft');
+  te3 = e3.offsetTop;
+  e4 = dom('etoileRubyRight');
+  te4 = e4.offsetTop;
+  e5 = dom('etoileTornadoLeft');
+  te5 = e5.offsetTop;
+  e6 = dom('etoileTornadoRight');
+  te6 = e6.offsetTop;
 
 //   //points verts
   // pv1 = dom("point1");
@@ -107,9 +113,12 @@ window.addEventListener("scroll", function () {
   l8.style.top = tl8 + y * -0.5 + "px";
 
 //   //étoiles blanches
-//   e1.style.top = te1 + (y - 1480) * 0.6 + "px";
-//   // e3.style.top = te3 + (y - 1480) * 0.6 + "px";
-//   // e5.style.top = te5 + (y - 1480) * 0.6 + "px";
+  e1.style.top = te1 + (y - 780) * 0.4 + "px";
+  e2.style.top = te2 + (y - 780) * 0.4 + "px";
+  e3.style.top = te3 + (y - 800) * 0.4 + "px";
+  e4.style.top = te4 + (y - 800) * 0.4 + "px";
+  e5.style.top = te5 + (y - 780) * 0.4 + "px";
+  e6.style.top = te6 + (y - 780) * 0.4 + "px";
 
 //   //points verts
   // pv1.style.top = tpv1 + (y - 3000) * 0.3 + "px";
