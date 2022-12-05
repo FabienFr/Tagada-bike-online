@@ -1027,7 +1027,7 @@
         </div>
       </div>
       <div class="container flex mx-auto justify-center pt-8 ">
-        <a
+        <!-- <a
           aria-label="Chat on WhatsApp"
           href="https://chat.whatsapp.com/FL4wIWOWFQoCa5VVRyldYA"
           target="_blank">
@@ -1035,7 +1035,7 @@
             alt="Chat WhatsApp link"
             src="../assets/whatsapp-100.svg"
             class="pr-2 h-10 md:h-12" />
-        </a>
+        </a> -->
         <a
           aria-label="Chat on Linkedin"
           href="https://www.linkedin.com/showcase/tagada-bike/"
